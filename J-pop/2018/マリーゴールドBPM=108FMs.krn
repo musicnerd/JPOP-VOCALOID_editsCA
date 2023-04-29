@@ -1,0 +1,1223 @@
+!!!COM: あいみょん
+!!!OTL: マリーゴールド
+**kern	**kern	**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part6	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff6	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"V.Percussion	*I"Bass Vocal	*I"3rd Chorus	*	*I"2nd Chorus	*	*I"Top Chorus	*	*I"Lead Vocal	*
+*I'V.P.	*I'Ba.	*I'3rd	*	*I'2nd	*	*I'1st	*	*I'Lead	*
+*clefX	*clefF4	*clefGv2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*k[f#c#]	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*
+*M4/4	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+*MM108	*MM108	*MM108	*	*MM108	*	*MM108	*	*MM108	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+1r	1r	4.A	woo	4.c#	woo	4.e	woo	1r	.
+.	.	[8A	.	[8B	.	[8c#	.	.	.
+.	.	8A]	.	8B]	.	8c#]	.	.	.
+.	.	4.A	.	4.B	.	4.d	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1r	[1BB	4.A	woo	4.c#	woo	4.e	woo	1r	.
+.	.	[8A	.	[8B	.	[8c#	.	.	.
+.	.	8A]	.	8B]	.	8c#]	.	.	.
+.	.	4.A	.	4.B	.	4.d	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+1r	1BB]	4.A	woo	4.c#	woo	4.e	woo	2r	.
+.	.	8A	.	8B	.	8c#	.	.	.
+.	.	4r	.	4r	.	4r	.	4r	.
+.	.	4A	foo	4e	foo	4g	foo	4b	foo
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*^	*	*	*	*	*	*	*	*	*
+4Raa/	2r	4.D	2A	.	2f#	.	2a	.	1a	.
+8Rcc/L	.	.	.	.	.	.	.	.	.	.
+8Ree/J	.	[8D	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	8DL]	8r	.	8r	.	4r	.	.	.
+8Rgg/L	8r	8D	4.A	ru	8r	.	.	.	.	.
+8Rcc/	4r	8D	.	.	4c#	ru	8r	.	.	.
+8Rgg/J	.	8DJ	.	.	.	.	8d	ru	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8r	8Rf\	4.C#	2.A	ru	2.c#	ru	2e	ru	2a	ru
+16Rgg/LL	8r	.	.	.	.	.	.	.	.	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	.	.	.	.	.	.
+8Ree/J	.	[8C#	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	8C#L]	.	.	.	.	4r	.	4r	.
+8Rgg/L	8r	8C#	.	.	.	.	.	.	.	.
+8Rcc/	4r	8C#	4A	foo	4e	foo	4g	foo	4b	foo
+8Rgg/J	.	8C#J	.	.	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8r	8Rf\	4.BB	2B	.	2f#	.	2a	.	1a	.
+16Rgg/LL	8r	.	.	.	.	.	.	.	.	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	.	.	.	.	.	.
+8Ree/J	.	[8BB	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	8BBL]	8r	.	8r	.	4r	.	.	.
+8Rgg/L	8r	8BB	4.B	ru	8r	.	.	.	.	.
+8Rcc/	4r	8BB	.	.	4d	ru	8r	.	.	.
+8Rgg/J	.	8BBJ	.	.	.	.	8e	ru	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+8r	8Rf\	4.FF#	4.c#	ru	4.e	ru	4.a	ru	4.cc#	ru
+16Rgg/LL	8r	.	.	.	.	.	.	.	.	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	.	.	.	.	.	.
+8Ree/J	.	8FF#	8c#	ru	8e	ru	8a	ru	8a	ru
+8r	8Rd\L 8Rf	8r	8r	.	8r	.	8r	.	8r	.
+8r	8Rf\J	4FF#	4.A	ru	4.c#	ru	4.e	ru	4.a	ru
+8Rcc/L	4r	.	.	.	.	.	.	.	.	.
+8Rgg/J	.	8FF#	.	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4Raa/	8Rf\	4.GG	2B	foo	2d	foo	2g	foo	1r	.
+.	8r	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	.	.	.	.	.	.
+8Ree/J	.	8GG	.	.	.	.	.	.	.	.
+8r	8Rd\L 8Rf	8r	2A	.	2d	.	2f#	.	.	.
+8r	8Rf\J	8FF#L	.	.	.	.	.	.	.	.
+8Rcc/L	4r	8FF#	.	.	.	.	.	.	.	.
+8Ree/J	.	8FF#J	.	.	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+8r	8Rd\	2GG	8BL	ta	8dL	ta	8gL	ta	1r	.
+8Ree/	8r	.	8B	ra	8d	ra	8g	ra	.	.
+8r	8Rd\	.	8B	ta	8d	ta	8g	ta	.	.
+8Ree/	8r	.	8BJ	ta	8dJ	ta	8gJ	ta	.	.
+8r	8Rd\ 8Rf	4A	2r	.	2r	.	2r	.	.	.
+8Rcc/	8r	.	.	.	.	.	.	.	.	.
+16Rdd/LL	4r	4AA	.	.	.	.	.	.	.	.
+16Ra/J	.	.	.	.	.	.	.	.	.	.
+8Ra/J	.	.	.	.	.	.	.	.	.	.
+=10||	=10||	=10||	=10||	=10||	=10||	=10||	=10||	=10||	=10||	=10||
+4Raa/	4r	4D	1r	.	1r	.	1r	.	8r	.
+.	.	.	.	.	.	.	.	.	8d	風
+8Rcc/L	4r	8.DL	.	.	.	.	.	.	16dKL	.
+.	.	.	.	.	.	.	.	.	8d	の
+8Rgg/J	.	.	.	.	.	.	.	.	.	.
+.	.	[16DJk	.	.	.	.	.	.	16dJk	強
+8r	8Rf\	8DL]	.	.	.	.	.	.	16r	.
+.	.	.	.	.	.	.	.	.	8dL	.
+8Rgg/L	8r	8DJ	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	16dJk	さ
+8Rcc/	4r	4D	.	.	.	.	.	.	16r	.
+.	.	.	.	.	.	.	.	.	8eL	が
+8Rgg/J	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	[16c#Jk	ちょ
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+8r	8Rf\	4C#	1r	.	1r	.	1r	.	16c#KL]	.
+.	.	.	.	.	.	.	.	.	8B	っ
+8Rgg/L	8r	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	[16AJk	と
+8Rcc/	4r	8.C#L	.	.	.	.	.	.	4.A]	.
+8Ree/J	.	.	.	.	.	.	.	.	.	.
+.	.	[16C#Jk	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	8C#L]	.	.	.	.	.	.	.	.
+8Rgg/L	8r	8C#J	.	.	.	.	.	.	8r	.
+8Rcc/	4r	4C#	.	.	.	.	.	.	16F#KL	心
+.	.	.	.	.	.	.	.	.	8A	.
+8Rgg/J	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	[16BJk	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+8r	8Rf\	4BB	1r	.	1r	.	1r	.	8BL]	.
+8Rgg/L	8r	.	.	.	.	.	.	.	8BJ	を
+8Rcc/	4r	8.BBL	.	.	.	.	.	.	8BL	揺
+8Rgg/J	.	.	.	.	.	.	.	.	16BL	さ
+.	.	[16BBJk	.	.	.	.	.	.	[16BJJ	ぶ
+8r	8Rf\	8BBL]	.	.	.	.	.	.	8BL]	.
+8Rgg/L	8r	8BBJ	.	.	.	.	.	.	8B	り
+8Rcc/	4r	4BB	.	.	.	.	.	.	8c#	す
+8Rgg/J	.	.	.	.	.	.	.	.	8dJ	ぎ
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+8r	8Rf\	4AA	1r	.	1r	.	1r	.	8B	て
+8Rgg/	8r	.	.	.	.	.	.	.	4A	.
+8Rcc/L	4r	8.AAL	.	.	.	.	.	.	.	.
+16Rgg/L	.	.	.	.	.	.	.	.	8r	.
+16Rgg/JJ	.	[16AAJk	.	.	.	.	.	.	.	.
+8r	8Rf\	8AAL]	.	.	.	.	.	.	2r	.
+8Rgg/L	8r	8AAJ	.	.	.	.	.	.	.	.
+8Rcc/	4r	4AA	.	.	.	.	.	.	.	.
+8Rgg/J	.	.	.	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+8r	8Rf\	4GG	1r	.	1r	.	1r	.	4.B	真
+8Rgg/L	8r	.	.	.	.	.	.	.	.	.
+8Rcc/	4r	8.GGL	.	.	.	.	.	.	.	.
+8Rgg/J	.	.	.	.	.	.	.	.	[8c#	面
+.	.	[16GGJk	.	.	.	.	.	.	.	.
+8r	8Rf\	8GGL]	.	.	.	.	.	.	8c#]	.
+8Rgg/L	8r	8GGJ	.	.	.	.	.	.	4d	目
+8Rcc/	4r	4GG	.	.	.	.	.	.	.	.
+8Rgg/J	.	.	.	.	.	.	.	.	8d	に
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+8r	8Rf\	4FF#	1r	.	1r	.	1r	.	4.f#	見
+8Rgg/L	8r	.	.	.	.	.	.	.	.	.
+8Rcc/	4r	8.FF#L	.	.	.	.	.	.	.	.
+8Ree/J	.	.	.	.	.	.	.	.	[8e	つ
+.	.	[16FF#Jk	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	8FF#L]	.	.	.	.	.	.	8eL]	.
+8Rgg/L	8r	8FF#J	.	.	.	.	.	.	[8d	め
+8Rcc/	4r	4FF#	.	.	.	.	.	.	8d]	.
+8Rgg/J	.	.	.	.	.	.	.	.	8AJ	た
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+8r	8Rf\	4GG	1r	.	1r	.	1r	.	4.B	君
+8Rgg/L	8r	.	.	.	.	.	.	.	.	.
+8Rcc/	4r	8.GGL	.	.	.	.	.	.	.	.
+8Rgg/J	.	.	.	.	.	.	.	.	[8d	.
+.	.	[16GGJk	.	.	.	.	.	.	.	.
+8r	8Rf\	8GGL]	.	.	.	.	.	.	8dL]	.
+8Rgg/L	8r	8GGJ	.	.	.	.	.	.	8dJ	が
+8Rcc/	4r	4GG	.	.	.	.	.	.	8r	.
+8Rgg/J	.	.	.	.	.	.	.	.	8d	恋
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+8r	8Rf\	4AA	1r	.	1r	.	1r	.	4.b	.
+8Rgg/	8r	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	8.AAL	.	.	.	.	.	.	.	.
+16Rgg/L	.	.	.	.	.	.	.	.	8a	し
+16Rgg/JJ	.	[16AAJk	.	.	.	.	.	.	.	.
+8r	8Rf\	8AAL]	.	.	.	.	.	.	4.a	い
+8Rgg/L	8r	8AA	.	.	.	.	.	.	.	.
+8Rcc/	4r	8BB	.	.	.	.	.	.	.	.
+8Rgg/J	.	8C#J	.	.	.	.	.	.	8r	.
+=18||	=18||	=18||	=18||	=18||	=18||	=18||	=18||	=18||	=18||	=18||
+4Raa/	4r	4D	[1A	woo	[1d	woo	[1f#	woo	8r	.
+.	.	.	.	.	.	.	.	.	8d	で
+8Rcc/L	4r	8.DL	.	.	.	.	.	.	16dKL	ん
+.	.	.	.	.	.	.	.	.	8d	ぐ
+8Rgg/J	.	.	.	.	.	.	.	.	.	.
+.	.	[16DJk	.	.	.	.	.	.	16dJk	り
+8r	8Rf\	8DL]	.	.	.	.	.	.	16r	.
+.	.	.	.	.	.	.	.	.	8dL	返
+8Rgg/L	8r	8DJ	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	16dJk	.
+8Rcc/	4r	4D	.	.	.	.	.	.	16r	.
+.	.	.	.	.	.	.	.	.	8eL	し
+8Rgg/J	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	[16c#Jk	の
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+8r	8Rf\	4C#	4.A]	.	4.d]	.	4.f#]	.	16c#KL]	.
+.	.	.	.	.	.	.	.	.	8B	日
+8Rgg/L	8r	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	[16AJk	々
+8Rcc/	4r	8.C#L	.	.	.	.	.	.	4.A]	.
+8Ree/J	.	.	8c#	han	8e	han	8a	han	.	.
+.	.	[16C#Jk	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	8C#L]	8r	.	8r	.	8r	.	.	.
+8Rgg/L	8r	8C#J	4.A	foo	4.e	foo	4.g	foo	8r	.
+8Rcc/	4r	4C#	.	.	.	.	.	.	8F#L	可
+8Rgg/J	.	.	.	.	.	.	.	.	8AJ	哀
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+8r	8Rf\	4BB	1B	.	1d	.	1f#	.	8BL	.
+8Rgg/L	8r	.	.	.	.	.	.	.	8BJ	想
+8Rcc/	4r	8.BBL	.	.	.	.	.	.	8BL	.
+8Rgg/J	.	.	.	.	.	.	.	.	16BL	な
+.	.	[16BBJk	.	.	.	.	.	.	[16BJJ	ふ
+8r	8Rf\	8BBL]	.	.	.	.	.	.	8BL]	.
+8Rgg/L	8r	8BBJ	.	.	.	.	.	.	8B	り
+8Rcc/	4r	4BB	.	.	.	.	.	.	8c#	を
+8Rgg/J	.	.	.	.	.	.	.	.	8dJ	し
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+8r	8Rf\	4AA	1c#	.	1e	.	1a	.	8B	て
+8Rgg/	8r	.	.	.	.	.	.	.	4A	.
+8Rcc/L	4r	8.AAL	.	.	.	.	.	.	.	.
+16Rgg/L	.	.	.	.	.	.	.	.	8r	.
+16Rgg/JJ	.	[16AAJk	.	.	.	.	.	.	.	.
+8r	8Rf\	8AAL]	.	.	.	.	.	.	2r	.
+8Rgg/L	8r	8AAJ	.	.	.	.	.	.	.	.
+8Rcc/	4r	4AA	.	.	.	.	.	.	.	.
+8Rgg/J	.	.	.	.	.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+8r	8Rf\	4GG	2.B	woo	2.d	woo	2.g	woo	4.B	だ
+8Rgg/L	8r	.	.	.	.	.	.	.	.	.
+8Rcc/	4r	8.GGL	.	.	.	.	.	.	.	.
+8Rgg/J	.	.	.	.	.	.	.	.	[8c#	ら
+.	.	[16GGJk	.	.	.	.	.	.	.	.
+8r	8Rf\	8GGL]	.	.	.	.	.	.	8c#]	.
+8Rgg/L	8r	8GGJ	.	.	.	.	.	.	4d	け
+8Rcc/	4r	4GG	4d	foo	4f#	foo	4b	foo	.	.
+8Rgg/J	.	.	.	.	.	.	.	.	8d	て
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+8r	8Rf\	4FF#	2d	.	1e	.	1a	.	4.f#	み
+8Rgg/L	8r	.	.	.	.	.	.	.	.	.
+8Rcc/	4r	8.FF#L	.	.	.	.	.	.	.	.
+8Ree/J	.	.	.	.	.	.	.	.	8e	た
+.	.	[16FF#Jk	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	8FF#L]	2c#	.	.	.	.	.	8dL	.
+8Rgg/L	8r	8FF#J	.	.	.	.	.	.	[8d	け
+8Rcc/	4r	4FF#	.	.	.	.	.	.	8d]	.
+8Rgg/J	.	.	.	.	.	.	.	.	8AJ	ど
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+8r	8Rf\	4GG	1B	.	1d	.	1f#	.	4.B	希
+8Rgg/L	8r	.	.	.	.	.	.	.	.	.
+8Rcc/	4r	8.GGL	.	.	.	.	.	.	.	.
+8Rgg/J	.	.	.	.	.	.	.	.	[8d	望
+.	.	[16GGJk	.	.	.	.	.	.	.	.
+8r	8Rf\	8GGL]	.	.	.	.	.	.	8dL]	.
+8Rgg/L	8r	8GGJ	.	.	.	.	.	.	8dJ	の
+8Rcc/	4r	4GG	.	.	.	.	.	.	8r	.
+8Rgg/J	.	.	.	.	.	.	.	.	8d	光
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+8r	8Rf\	4AA	4r	.	4r	.	4r	.	4.f#	.
+8Rgg/	8r	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	8.AAL	4G	光	4c#	光	4e	光	.	.
+16Rgg/L	.	.	.	.	.	.	.	.	8e	.
+16Rgg/JJ	.	[16AAJk	.	.	.	.	.	.	.	.
+8r	8Rf\	8AAL]	4A	.	4d	.	4g	.	4.e	は
+8Rgg/L	8r	8AA	.	.	.	.	.	.	.	.
+8Rcc/	4r	8BB	4c#	.	4e	.	4a	.	.	.
+8Rgg/J	.	8C#J	.	.	.	.	.	.	8r	.
+=26||	=26||	=26||	=26||	=26||	=26||	=26||	=26||	=26||	=26||	=26||
+8r	8Rf\	4BB	2B	は	2f#	は	2b	は	8dL	目
+8Rgg/	8r	.	.	.	.	.	.	.	8c#	の
+8r	8Rf\	8.BBL	.	.	.	.	.	.	8e	前
+8Rgg/	8r	.	.	.	.	.	.	.	8dJ	.
+.	.	[16BBJk	.	.	.	.	.	.	.	.
+8r	8Rf\	8BBL]	8r	.	8r	.	8r	.	8c#L	で
+8Rgg/	8r	8BBJ	[8BL	ず	[8f#L	ず	[8bL	ず	8d	ず
+8r	8Rf\	4BB	8B]	っ	8f#]	っ	8b]	っ	8F#	っ
+8Rgg/	8r	.	8BJ	と	8f#J	と	8bJ	と	8AJ	と
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+8r	8Rf\	4FF#	2c#	woo	2e	woo	2a	woo	8dL	輝
+8Rgg/	8r	.	.	.	.	.	.	.	8c#	.
+8r	8Rf\	8.FF#L	.	.	.	.	.	.	8e	.
+8Rgg/	8r	.	.	.	.	.	.	.	8dJ	い
+.	.	[16FF#Jk	.	.	.	.	.	.	.	.
+8r	8Rf\	8FF#L]	8r	.	8r	.	8r	.	8c#L	て
+8Rgg/	8r	8FF#J	8c#L	い	8eL	い	8aL	い	8d	い
+8r	8Rf\	4FF#	8c#	る	8e	る	8a	る	8d	る
+8Rgg/	8r	.	[8c#J	幸	[8eJ	幸	[8aJ	幸	[8f#J	幸
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+8r	8Rf\	4GG	4.c#]	.	4.e]	.	4.a]	.	4.f#]	.
+16Rgg/LL	8r	.	.	.	.	.	.	.	.	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	8.GGL	.	.	.	.	.	.	.	.
+8Ree/J	.	.	[8B	.	[8d	.	[8g	.	[8e	.
+.	.	[16GGJk	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	8GGL]	8BL]	.	8dL]	.	8gL]	.	8eL]	.
+8Rgg/L	8r	8GGJ	8B	せ	8d	せ	8g	せ	8d	せ
+8Rcc/	4r	4GG	8B	だ	8d	だ	8g	だ	8d	だ
+8Rgg/J	.	.	[8c#J	.	[8f#J	.	[8gJ	.	[8eJ	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+8r	8Rd\	4AA	4.c#]	.	8f#]	.	4.g]	.	4.e]	.
+8Ree/	8r	.	.	.	4e	.	.	.	.	.
+8r	8Rd\	8.AAL	.	.	.	.	.	.	.	.
+8Ree/	8r	.	8r	.	8r	.	8r	.	8r	.
+.	.	[16AAJk	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	8AAL]	2r	.	8dL	麦	2r	.	8f#L	麦
+8Rcc/	8r	8AAJ	.	.	16c#L	.	.	.	16eL	.
+.	.	.	.	.	[16dJJ	わ	.	.	[16f#JJ	わ
+16Rdd/LL	4r	4AA	.	.	8dL]	.	.	.	8f#L]	.
+16Ra/J	.	.	.	.	.	.	.	.	.	.
+8Ra/J	.	.	.	.	16eL	ら	.	.	16gL	ら
+.	.	.	.	.	[16dJJ	の	.	.	[16f#JJ	の
+=30||	=30||	=30||	=30||	=30||	=30||	=30||	=30||	=30||	=30||	=30||
+4Raa/	2r	4.D	8AL	麦	4.d]	.	8f#L	麦	4.f#]	.
+.	.	.	16GL	.	.	.	16eL	.	.	.
+.	.	.	[16AJJ	わ	.	.	[16f#JJ	わ	.	.
+8Rcc/L	.	.	8AL]	.	.	.	8f#L]	.	.	.
+8Ree/J	.	[8D	16BL	ら	8r	.	16gL	ら	8r	.
+.	.	.	[16AJJ	の	.	.	[16f#JJ	の	.	.
+8r	8Rd\ 8Rf	8DL]	4.A]	.	8dL	帽	4.f#]	.	8f#L	帽
+8Rgg/L	8r	8D	.	.	8c#	.	.	.	8e	.
+8Rcc/	4r	8D	.	.	8d	子	.	.	8f#	子
+8Rgg/J	.	8DJ	8r	.	8eJ	の	8r	.	8gJ	の
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+8r	8Rf\	4.C#	4.c#	君	4.e	君	4.a	君	4.a	君
+16Rgg/LL	8r	.	.	.	.	.	.	.	.	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	.	.	.	.	.	.
+8Ree/J	.	[8C#	[8c#	.	[8e	.	[8a	.	8e	.
+8r	8Rd\ 8Rf	8C#L]	4c#]	.	4e]	.	4a]	.	8eL	が
+8Rgg/L	8r	8C#	.	.	.	.	.	.	8f#	揺
+8Rcc/	4r	8C#	4c#	が	4e	が	4g	が	8e	れ
+8Rgg/J	.	8C#J	.	.	.	.	.	.	8dJ	た
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+8r	8Rf\	4.BB	1B	ah	1d	ah	1f#	ah	8BL	マ
+16Rgg/LL	8r	.	.	.	.	.	.	.	[8d	リ
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	.	.	.	.	8d]	ー
+8Ree/J	.	[8BB	.	.	.	.	.	.	[8dJ	ゴ
+8r	8Rd\ 8Rf	8BBL]	.	.	.	.	.	.	8dL]	ー
+8Rgg/L	8r	8BB	.	.	.	.	.	.	8d	ル
+8Rcc/	4r	8BB	.	.	.	.	.	.	8e	ド
+8Rgg/J	.	8BBJ	.	.	.	.	.	.	8eJ	に
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+8r	8Rf\	4.AA	1c#	.	4.d	似	1f#	.	4.f#	似
+16Rgg/LL	8r	.	.	.	.	.	.	.	.	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	.	.	.	.	.	.
+8Ree/J	.	[8AA	.	.	8A	て	.	.	8c#	て
+8r	8Rd\L 8Rf	8AAL]	.	.	4A	る	.	.	4c#	る
+8r	8Rf\J	8AA	.	.	.	.	.	.	.	.
+8Rcc/L	4r	8AA	.	.	4r	.	.	.	8r	.
+8Rgg/J	.	8AAJ	.	.	.	.	.	.	16dLL	あ
+.	.	.	.	.	.	.	.	.	16c#JJ	れ
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+8r	8Rf\	4.GG	4G	ah	4B	ah	4d	ah	8BL	は
+16Rgg/LL	8r	.	.	.	.	.	.	.	16dL	空
+16Rgg/JJ	.	.	.	.	.	.	.	.	[16dJJ	.
+8Rcc/L	4r	.	4B	マ	4g	マ	4b	マ	8dL]	.
+8Ree/J	.	[8GG	.	.	.	.	.	.	16c#L	が
+.	.	.	.	.	.	.	.	.	[16dJJ	ま
+8r	8Rd\ 8Rf	8GGL]	4B	リ	4f#	リ	4a	リ	8dL]	.
+8Rgg/L	8r	8GG	.	.	.	.	.	.	8d	だ
+8Rcc/	4r	8GG	[4A	ー	[4d	ー	[4g	ー	8e	青
+8Rgg/J	.	8GGJ	.	.	.	.	.	.	8dJ	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+8r	8Rf\	4.FF#	2A]	.	2d]	.	2g]	.	8f#L	い
+16Rgg/LL	8r	.	.	.	.	.	.	.	8gJ	夏
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	.	.	.	.	8f#L	.
+8Ree/J	.	[8BB	.	.	.	.	.	.	16gL	の
+.	.	.	.	.	.	.	.	.	[16f#JJ	こ
+8r	8Rd\ 8Rf	8BBL]	8r	.	8r	.	4r	.	8f#L]	.
+8Rgg/L	8r	8BB	4.B	woo	4d	woo	.	.	8dJ	と
+8Rcc/	4r	8BB	.	.	.	.	8r	.	8r	.
+8Rgg/J	.	8BBJ	.	.	16BLL	懐	16dLL	懐	16dLL	懐
+.	.	.	.	.	16BJJ	.	16dJJ	.	16dJJ	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+8r	8Rf\	4.GG	8BL	か	8eL	か	8gL	か	8gL	か
+16Rgg/LL	8r	.	8BJ	し	8dJ	し	8f#J	し	8f#J	し
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	8BL	い	8eL	い	8gL	い	8gL	い
+8Ree/J	.	[8GG	16BL	と	16dL	と	16f#L	と	16f#L	と
+.	.	.	[16BJJ	笑	[16eJJ	笑	[16gJJ	笑	[16gJJ	笑
+8r	8Rd\ 8Rf	8GGL]	8BL]	.	8eL]	.	8gL]	.	8gL]	.
+8Rgg/L	8r	8GG	8B	.	8d	.	8f#	.	8f#	.
+8Rcc/	4r	8GG	8B	え	8c#	え	8e	え	8e	え
+8Rgg/J	.	8GGJ	8BJ	た	8BJ	た	8dJ	た	8dJ	た
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
+8r	8Rf\	4AA	2A	ah	2c#	ah	2e	ah	8bL	あ
+16Rgg/LL	8r	.	.	.	.	.	.	.	8a	の
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	8.AAL	.	.	.	.	.	.	8a	日
+8Ree/J	.	.	.	.	.	.	.	.	8bJ	の
+.	.	[16AAJk	.	.	.	.	.	.	.	.
+8r	8Rd\L 8Rf	8AAL]	8BL	あ	8gL	あ	8bL	あ	4f#	恋
+8r	8Rf\J	8AA	8A	の	8f#	の	8a	の	.	.
+8Rcc/L	4r	8BB	8A	日	8f#	日	8a	日	4e	.
+8Rgg/J	.	8C#J	8BJ	の	8gJ	の	8bJ	の	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+4Raa/	2r	4.D	1A	お	4.d	.	1a	お	4.f#	「もう
+8Rcc/L	.	.	.	.	.	.	.	.	.	.
+8Ree/J	.	[8D	.	.	8r	.	.	.	8r	.
+8r	8Rd\ 8Rf	8DL]	.	.	8dL	離	.	.	8f#L	離
+8Rgg/L	8r	8D	.	.	16c#L	.	.	.	16eL	.
+.	.	.	.	.	[16dJJ	れ	.	.	[16f#JJ	れ
+8Rcc/	4r	8D	.	.	8dL]	.	.	.	8f#L]	.
+8Rgg/J	.	8DJ	.	.	8eJ	な	.	.	8gJ	な
+=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
+8r	8Rf\	4.C#	4.c#	い	4.e	い	4.a	い	4.a	い
+16Rgg/LL	8r	.	.	.	.	.	.	.	.	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	.	.	.	.	.	.
+8Ree/J	.	[8C#	[8c#	で	[8e	で	[8a	で	8e	で」
+8r	8Rd\ 8Rf	8C#L]	4c#]	.	4e]	.	4a]	.	8eL	と
+8Rgg/L	8r	8C#	.	.	.	.	.	.	8f#	泣
+8Rcc/	4r	8C#	4c#	よ	4e	よ	4g	よ	8e	き
+8Rgg/J	.	8C#J	.	.	.	.	.	.	8dJ	そ
+=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
+8r	8Rf\	4.BB	1B	oh	1d	oh	1f#	oh	8BL	う
+16Rgg/LL	8r	.	.	.	.	.	.	.	16dL	な
+16Rgg/JJ	.	.	.	.	.	.	.	.	[16dJJ	目
+8Rcc/L	4r	.	.	.	.	.	.	.	8dL]	.
+8Ree/J	.	[8BB	.	.	.	.	.	.	16dL	で
+.	.	.	.	.	.	.	.	.	[16dJJ	見
+8r	8Rd\ 8Rf	8BBL]	.	.	.	.	.	.	8dL]	.
+8Rgg/L	8r	8BB	.	.	.	.	.	.	8d	つ
+8Rcc/	4r	8BB	.	.	.	.	.	.	8e	め
+8Rgg/J	.	8BBJ	.	.	.	.	.	.	8eJ	る
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
+8r	8Rf\	4.AA	1c#	.	4.d	君	1f#	.	4.f#	君
+16Rgg/LL	8r	.	.	.	.	.	.	.	.	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	.	.	.	.	.	.
+8Ree/J	.	[8AA	.	.	8A	.	.	.	8c#	.
+8r	8Rd\L 8Rf	8AAL]	.	.	4A	を	.	.	4c#	を
+8r	8Rf\J	8AA	.	.	.	.	.	.	.	.
+8Rcc/L	4r	8AA	.	.	4r	.	.	.	8r	.
+8Rgg/J	.	8AAJ	.	.	.	.	.	.	16dLL	雲
+.	.	.	.	.	.	.	.	.	16c#JJ	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
+8r	8Rf\	4.GG	4G	oh	4B	oh	4d	oh	8BL	の
+16Rgg/LL	8r	.	.	.	.	.	.	.	16dL	よ
+16Rgg/JJ	.	.	.	.	.	.	.	.	[16dJJ	う
+8Rcc/L	4r	.	4B	そ	4g	そ	4b	そ	8dL]	.
+8Ree/J	.	[8GG	.	.	.	.	.	.	16dL	な
+.	.	.	.	.	.	.	.	.	[16dJJ	優
+8r	8Rd\ 8Rf	8GGL]	4B	っ	4f#	っ	4a	っ	8dL]	.
+8Rgg/L	8r	8GG	.	.	.	.	.	.	8d	.
+8Rcc/	4r	8GG	[4A	と	[4d	と	[4g	と	8e	し
+8Rgg/J	.	8GGJ	.	.	.	.	.	.	8dJ	さ
+=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43
+8r	8Rf\	4.FF#	2A]	.	2d]	.	2g]	.	8f#L	で
+16Rgg/LL	8r	.	.	.	.	.	.	.	8gJ	そ
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	.	.	.	.	8f#L	っ
+8Ree/J	.	[8BB	.	.	.	.	.	.	16gL	と
+.	.	.	.	.	.	.	.	.	[16aJJ	ぎゅ
+8r	8Rd\ 8Rf	8BBL]	8r	.	8r	.	8r	.	8aL]	っ
+8Rgg/L	8r	8BB	4.B	woo	4d	woo	4.f#	woo	8dJ	と
+8Rcc/	4r	8BB	.	.	.	.	.	.	8r	.
+8Rgg/J	.	8BBJ	.	.	[8e	抱	.	.	[8g	抱
+=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44
+8r	8Rf\	4.GG	1B	.	8eL]	.	1g	.	8gL]	.
+16Rgg/LL	8r	.	.	.	8dJ	き	.	.	8f#J	き
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	16c#LL	し	.	.	16eLL	し
+.	.	.	.	.	[16B	め	.	.	[16d	め
+8Ree/J	.	[8GG	.	.	16B]	.	.	.	16d]	.
+.	.	.	.	.	[16GJJ	て	.	.	[16BJJ	て
+8r	8Rd\ 8Rf	8GGL]	.	.	8GL]	.	.	.	8BL]	.
+8Rgg/L	8r	8GG	.	.	[8B	え	.	.	[8d	え
+8Rcc/	4r	8GG	.	.	8B]	.	.	.	8d]	.
+8Rgg/J	.	8GGJ	.	.	[8eJ	抱	.	.	[8gJ	抱
+=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45
+8r	8Rf\	4.AA	2r	.	8eL]	.	1r	.	8gL]	.
+16Rgg/LL	8r	.	.	.	8d	き	.	.	8f#	き
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	8c#	し	.	.	8e	し
+8Ree/J	.	[8AA	.	.	8BJ	め	.	.	8dJ	め
+8r	8Rd\L 8Rf	8AA]	8r	.	8G	て	.	.	8BL	て
+8r	8Rf\J	8r	8GL	離	8r	.	.	.	8B	離
+8Rcc/L	4r	4r	8G	.	4r	.	.	.	8B	.
+8Rgg/J	.	.	8BJ	さ	.	.	.	.	8dJ	さ
+=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46
+4Raa/	8Rf\	4.D	4B	ない	2.d	foo	4.f#	foo	4d	ない
+.	8r	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	4r	.	.	.	.	.	4r	.
+8Ree/J	.	[8D	.	.	.	.	4g	.	.	.
+8r	8Rd\L 8Rf	8DL]	2r	.	.	.	.	.	2r	.
+8r	8Rf\J	8D	.	.	.	.	4.f#	tun	.	.
+8Rcc/L	4r	8D	.	.	4d	tun	.	.	.	.
+8Ree/J	.	8DJ	.	.	.	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
+8r	8Rd\	2AA	2r	.	2r	.	2r	.	1r	.
+8Ree/	8r	.	.	.	.	.	.	.	.	.
+8r	8Rd\	.	.	.	.	.	.	.	.	.
+8Ree/	8r	.	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	2AA	2B	foo	4g	foo	4b	foo	.	.
+8Rcc/	8r	.	.	.	.	.	.	.	.	.
+16Rdd/LL	4r	.	.	.	4f#	.	4a	.	.	.
+16Ra/J	.	.	.	.	.	.	.	.	.	.
+8Ra/J	.	.	.	.	.	.	.	.	.	.
+=48||	=48||	=48||	=48||	=48||	=48||	=48||	=48||	=48||	=48||	=48||
+4r	8Rf\	[2D	[1A	woo	[1d	woo	[1f#	woo	8r	.
+.	8r	.	.	.	.	.	.	.	8d	本
+4Rgg/	4r	.	.	.	.	.	.	.	16dKL	.
+.	.	.	.	.	.	.	.	.	8d	当
+.	.	.	.	.	.	.	.	.	16dJk	の
+4r	2r	8DL]	.	.	.	.	.	.	16r	.
+.	.	.	.	.	.	.	.	.	8dL	気
+.	.	8DJ	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	16dJk	持
+4Rgg/	.	16r	.	.	.	.	.	.	16r	.
+.	.	8.D	.	.	.	.	.	.	8eL	ち
+.	.	.	.	.	.	.	.	.	[16c#Jk	全
+=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
+4r	8Rf\	[2C#	2A]	.	2d]	.	2f#]	.	16c#KL]	.
+.	.	.	.	.	.	.	.	.	8B	.
+.	8r	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	[16AJk	部
+4Rgg/	4r	.	.	.	.	.	.	.	4A]	.
+4r	8r	8C#L]	8r	.	8r	.	8r	.	8r	.
+.	8Rf\	8C#J	4.A	foo	4.e	foo	4.g	foo	8F#L	吐
+4Rgg/	4r	16r	.	.	.	.	.	.	8F#	き
+.	.	8.C#	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	8AJ	出
+=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50
+4r	8Rf\	[2BB	1B	.	1d	.	1f#	.	8BL	せ
+.	8r	.	.	.	.	.	.	.	16BL	る
+.	.	.	.	.	.	.	.	.	[16BJJ	ほ
+4Rgg/	4r	.	.	.	.	.	.	.	8BL]	.
+.	.	.	.	.	.	.	.	.	16BL	ど
+.	.	.	.	.	.	.	.	.	[16BJJ	強
+4r	2r	8BBL]	.	.	.	.	.	.	8BL]	.
+.	.	8BBJ	.	.	.	.	.	.	16AL	.
+.	.	.	.	.	.	.	.	.	[16AJJ	く
+4Rgg/	.	16r	.	.	.	.	.	.	8AL]	.
+.	.	8.BB	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	16GL	は
+.	.	.	.	.	.	.	.	.	[16AJJ	な
+=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51
+4r	8Rf\	4.AA	1c#	.	1e	.	1a	.	4A]	い
+.	8r	.	.	.	.	.	.	.	.	.
+4Rgg/	4r	.	.	.	.	.	.	.	2r	.
+.	.	4G	.	.	.	.	.	.	.	.
+4r	8r	.	.	.	.	.	.	.	.	.
+.	8Rf\	8F#	.	.	.	.	.	.	.	.
+4Rgg/	4r	16r	.	.	.	.	.	.	8r	.
+.	.	8.AA	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	16ALL	で
+.	.	.	.	.	.	.	.	.	16AJJ	も
+=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52
+4r	8Rf\	[2GG	2.B	woo	2.d	woo	2.g	woo	4.B	不
+.	8r	.	.	.	.	.	.	.	.	.
+4Rgg/	4r	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	[8c#	思
+4r	2r	8GGL]	.	.	.	.	.	.	8c#]	.
+.	.	8GGJ	.	.	.	.	.	.	4d	議
+4Rgg/	.	16r	4d	foo	4f#	foo	4b	foo	.	.
+.	.	8.GG	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	8d	な
+=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53
+4r	8Rf\	[2FF#	2d	.	1e	.	1a	.	4.f#	く
+.	8r	.	.	.	.	.	.	.	.	.
+4Rgg/	4r	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	[8e	ら
+4r	8r	8FF#L]	2c#	.	.	.	.	.	8eL]	.
+.	8Rf\	8FF#J	.	.	.	.	.	.	[8d	い
+4Rgg/	4r	16r	.	.	.	.	.	.	8d]	.
+.	.	8.FF#	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	8AJ	に
+=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54
+4r	8Rf\	4GG	1B	.	1d	.	1f#	.	4.B	絶
+.	8r	.	.	.	.	.	.	.	.	.
+4Rgg/	4r	8.GGL	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	[8c#	望
+.	.	[16GGJk	.	.	.	.	.	.	.	.
+4r	2r	8GGL]	.	.	.	.	.	.	8c#L]	.
+.	.	8GGJ	.	.	.	.	.	.	8dJ	は
+4Rgg/	.	4GG	.	.	.	.	.	.	8r	.
+.	.	.	.	.	.	.	.	.	8d	見
+=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55
+4r	8Rf\	4AA	4r	.	4r	.	4r	.	4.f#	え
+.	8r	.	.	.	.	.	.	.	.	.
+4Rgg/	8r	8.AAL	4G	見	4c#	見	4e	見	.	.
+.	8r	.	.	.	.	.	.	.	8e	な
+.	.	[16AAJk	.	.	.	.	.	.	.	.
+8r	8Rf\	8AAL]	4A	え	4d	え	4g	え	4.e	い
+8Rcc/	8r	8AA	.	.	.	.	.	.	.	.
+16Rdd/LL	4r	8BB	4c#	な	4e	な	4a	な	.	.
+16Ra/J	.	.	.	.	.	.	.	.	.	.
+8Ra/J	.	8C#J	.	.	.	.	.	.	8r	.
+=56||	=56||	=56||	=56||	=56||	=56||	=56||	=56||	=56||	=56||	=56||
+8r	8Rf\	4BB	2B	い	2f#	い	2b	い	8dL	目
+8Rgg/	8r	.	.	.	.	.	.	.	8c#	の
+8r	8Rf\	8.BBL	.	.	.	.	.	.	8e	奥
+8Rgg/	8r	.	.	.	.	.	.	.	8dJ	.
+.	.	[16BBJk	.	.	.	.	.	.	.	.
+8r	8Rf\	8BBL]	8r	.	8r	.	8r	.	8c#L	に
+8Rgg/	8r	8BBJ	[8BL	ず	[8f#L	ず	[8bL	ず	8d	ず
+8r	8Rf\	4BB	8B]	っ	8f#]	っ	8b]	っ	8F#	っ
+8Rgg/	8r	.	8BJ	と	8f#J	と	8bJ	と	8AJ	と
+=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
+8r	8Rf\	4FF#	2c#	woo	2e	woo	2a	woo	8dL	写
+8Rgg/	8r	.	.	.	.	.	.	.	8c#	.
+8r	8Rf\	8.FF#L	.	.	.	.	.	.	8e	る
+8Rgg/	8r	.	.	.	.	.	.	.	8dJ	シ
+.	.	[16FF#Jk	.	.	.	.	.	.	.	.
+8r	8Rf\	8FF#L]	8r	.	8r	.	8r	.	8c#L	ル
+8Rgg/	8r	8FF#J	8c#L	エ	8eL	エ	8aL	エ	8d	エ
+8r	8Rf\	4FF#	8c#	ッ	8e	ッ	8a	ッ	8A	ッ
+8Rgg/	8r	.	8c#J	ト	8eJ	ト	8aJ	ト	8AJ	ト
+=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58
+8r	8Rf\	4GG	4.B	大	4.d	大	4.g	大	4.f#	大
+16Rgg/LL	8r	.	.	.	.	.	.	.	.	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	8.GGL	.	.	.	.	.	.	.	.
+8Ree/J	.	.	[8B	.	[8d	.	[8g	.	[8e	.
+.	.	[16GGJk	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	8GGL]	8BL]	.	8dL]	.	8gL]	.	8eL]	.
+8Rgg/L	8r	8GGJ	8B	好	8d	好	8g	好	8d	好
+8Rcc/	4r	4GG	8B	き	8d	き	8g	き	8d	き
+8Rgg/J	.	.	[8c#J	さ	[8f#J	さ	[8gJ	さ	8dJ	さ
+=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59
+8r	8Rd\	4AA	4.c#]	.	8f#]	.	4.g]	.	4.e	.
+8Ree/	8r	.	.	.	4e	.	.	.	.	.
+8r	8Rd\	8.AAL	.	.	.	.	.	.	.	.
+8Ree/	8r	.	8r	.	8r	.	8r	.	8r	.
+.	.	[16AAJk	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	8AAL]	2r	.	8dL	柔	2r	.	8f#L	柔
+8Rcc/	8r	8AA	.	.	16c#L	.	.	.	16eL	.
+.	.	.	.	.	[16dJJ	ら	.	.	[16f#JJ	ら
+16Rdd/LL	4r	8BB	.	.	8dL]	.	.	.	8f#L]	.
+16Ra/J	.	.	.	.	.	.	.	.	.	.
+8Ra/J	.	8C#J	.	.	16eL	か	.	.	16gL	か
+.	.	.	.	.	[16dJJ	な	.	.	16gJJ	な
+=60||	=60||	=60||	=60||	=60||	=60||	=60||	=60||	=60||	=60||	=60||
+4Raa/	2r	4.D	8AL	柔	4.d]	.	8f#L	柔	4.f#	.
+.	.	.	16GL	.	.	.	16eL	.	.	.
+.	.	.	[16AJJ	ら	.	.	[16f#JJ	ら	.	.
+8Rcc/L	.	.	8AL]	.	.	.	8f#L]	.	.	.
+8Ree/J	.	[8D	16BL	か	8r	.	16gL	か	8r	.
+.	.	.	[16AJJ	な	.	.	[16f#JJ	な	.	.
+8r	8Rd\ 8Rf	8DL]	4.A]	.	8dL	肌	4.f#]	.	8f#L	肌
+8Rgg/L	8r	8D	.	.	8c#	.	.	.	8e	.
+8Rcc/	4r	8D	.	.	8d	を	.	.	8f#	を
+8Rgg/J	.	8DJ	8r	.	8eJ	寄	8r	.	8gJ	寄
+=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61
+8r	8Rf\	4.C#	4.c#	せ	4.e	せ	4.a	せ	4a	せ
+16Rgg/LL	8r	.	.	.	.	.	.	.	.	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	.	.	.	.	8eL	.
+8Ree/J	.	[8C#	[8c#	あ	[8e	あ	[8a	あ	8eJ	あ
+8r	8Rd\ 8Rf	8C#L]	4c#]	.	4e]	.	4a]	.	8eL	い
+8Rgg/L	8r	8C#	.	.	.	.	.	.	8f#	少
+8Rcc/	4r	8C#	4c#	い	4e	い	4g	い	8e	.
+8Rgg/J	.	8C#J	.	.	.	.	.	.	8dJ	し
+=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62
+8r	8Rf\	4.BB	1B	ah	1d	ah	1f#	ah	8BL	冷
+16Rgg/LL	8r	.	.	.	.	.	.	.	16dL	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	[16dJJ	た
+8Rcc/L	4r	.	.	.	.	.	.	.	8dL]	.
+8Ree/J	.	[8BB	.	.	.	.	.	.	16dL	い
+.	.	.	.	.	.	.	.	.	[16dJJ	空
+8r	8Rd\ 8Rf	8BBL]	.	.	.	.	.	.	8dL]	.
+8Rgg/L	8r	8BB	.	.	.	.	.	.	8d	.
+8Rcc/	4r	8BB	.	.	.	.	.	.	8e	気
+8Rgg/J	.	8BBJ	.	.	.	.	.	.	8eJ	を
+=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63
+8r	8Rf\	4.AA	1c#	.	4.d	２	1f#	.	4.f#	２
+16Rgg/LL	8r	.	.	.	.	.	.	.	.	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	.	.	.	.	.	.
+8Ree/J	.	[8AA	.	.	8A	.	.	.	8c#	.
+8r	8Rd\L 8Rf	8AAL]	.	.	4A	人	.	.	4c#	人
+8r	8Rf\J	8AA	.	.	.	.	.	.	.	.
+8Rcc/L	4r	8AA	.	.	4r	.	.	.	8r	.
+8Rgg/J	.	8AAJ	.	.	.	.	.	.	16dLL	か
+.	.	.	.	.	.	.	.	.	16c#JJ	み
+=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64
+8r	8Rf\	4.GG	4G	ah	4B	ah	4d	ah	8BL	し
+16Rgg/LL	8r	.	.	.	.	.	.	.	16dL	め
+16Rgg/JJ	.	.	.	.	.	.	.	.	[16dJJ	て
+8Rcc/L	4r	.	4B	歩	4g	歩	4b	歩	8dL]	.
+8Ree/J	.	[8GG	.	.	.	.	.	.	16dL	歩
+.	.	.	.	.	.	.	.	.	[16dJJ	.
+8r	8Rd\ 8Rf	8GGL]	4B	.	4f#	.	4a	.	8dL]	.
+8Rgg/L	8r	8GG	.	.	.	.	.	.	8d	く
+8Rcc/	4r	8GG	[4A	く	[4d	く	[4g	く	8e	今
+8Rgg/J	.	8GGJ	.	.	.	.	.	.	8dJ	日
+=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65
+8r	8Rf\	4.FF#	2A]	.	2d]	.	2g]	.	8f#L	と
+16Rgg/LL	8r	.	.	.	.	.	.	.	8gJ	いう
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	.	.	.	.	8f#L	日
+8Ree/J	.	[8BB	.	.	.	.	.	.	16gL	に
+.	.	.	.	.	.	.	.	.	[16aJJ	何
+8r	8Rd\ 8Rf	8BBL]	8r	.	8r	.	4r	.	16aLL]	.
+.	.	.	.	.	.	.	.	.	16d	.
+8Rgg/L	8r	8BB	4.B	woo	4d	woo	.	.	16dJJ	と
+.	.	.	.	.	.	.	.	.	8.r	.
+8Rcc/	4r	8BB	.	.	.	.	8r	.	.	.
+8Rgg/J	.	8BBJ	.	.	8B	名	8d	名	8d	名
+=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66
+8r	8Rf\	4.GG	8BL	前	8eL	前	8gL	前	8gL	前
+16Rgg/LL	8r	.	8B	.	8d	.	8f#	.	8f#	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	8B	を	8e	を	8g	を	8g	を
+8Ree/J	.	[8GG	8BJ	つ	8dJ	つ	8f#J	つ	8f#J	つ
+8r	8Rd\ 8Rf	8GGL]	8BL	け	8eL	け	8gL	け	8gL	け
+8Rgg/L	8r	8GG	8B	よ	8d	よ	8f#	よ	8f#	よ
+8Rcc/	4r	8GG	8B	う	8c#	う	8e	う	8e	う
+8Rgg/J	.	8GGJ	8BJ	か	8BJ	か	8dJ	か	8dJ	か
+=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67
+8r	8Rf\	4AA	2A	ah	2c#	ah	2e	ah	8bL	な
+16Rgg/LL	8r	.	.	.	.	.	.	.	8a	ん
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	8.AAL	.	.	.	.	.	.	8a	て
+8Ree/J	.	.	.	.	.	.	.	.	8bJ	話
+.	.	[16AAJk	.	.	.	.	.	.	.	.
+8r	8Rd\L 8Rf	8AAL]	8BL	あ	8gL	あ	8bL	あ	8.f#L	.
+8r	8Rf\J	8AA	8A	な	8f#	な	8a	な	.	.
+.	.	.	.	.	.	.	.	.	16eJk	し
+8Rcc/L	4r	8BB	8A	た	8f#	た	8a	た	8e	て
+8Rgg/J	.	8C#J	8BJ	の	8gJ	の	8bJ	の	8r	.
+=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68
+4Raa/	2r	4.D	1A	.	4.d	.	1a	.	2f#	ああ
+8Rcc/L	.	.	.	.	.	.	.	.	.	.
+8Ree/J	.	[8D	.	.	8r	.	.	.	.	.
+8r	8Rd\ 8Rf	8DL]	.	.	8dL	ア	.	.	8f#L	ア
+8Rgg/L	8r	8D	.	.	16c#L	イ	.	.	16eL	イ
+.	.	.	.	.	[16dJJ	ラ	.	.	[16f#JJ	ラ
+8Rcc/	4r	8D	.	.	8dL]	.	.	.	8f#L]	.
+8Rgg/J	.	8DJ	.	.	8eJ	ブ	.	.	8gJ	ブ
+=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69
+8r	8Rf\	4.C#	4.c#	言	4.e	ユー	4.a	言	4.a	ユー
+16Rgg/LL	8r	.	.	.	.	.	.	.	.	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	.	.	.	.	.	.
+8Ree/J	.	[8C#	[8c#	.	8e	.	[8a	.	8e	.
+8r	8Rd\ 8Rf	8C#L]	4c#]	.	4e	の	4a]	.	8eL	の
+8Rgg/L	8r	8C#	.	.	.	.	.	.	8f#	言葉
+8Rcc/	4r	8C#	4c#	葉	4e	葉	4g	葉	8e	.
+8Rgg/J	.	8C#J	.	.	.	.	.	.	8dJ	.
+=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70
+8r	8Rf\	4.BB	1B	ah	1d	ah	1f#	ah	8BL	じゃ
+16Rgg/LL	8r	.	.	.	.	.	.	.	16dL	足
+16Rgg/JJ	.	.	.	.	.	.	.	.	[16dJJ	り
+8Rcc/L	4r	.	.	.	.	.	.	.	8dL]	.
+8Ree/J	.	[8BB	.	.	.	.	.	.	16dL	な
+.	.	.	.	.	.	.	.	.	[16dJJ	い
+8r	8Rd\ 8Rf	8BBL]	.	.	.	.	.	.	8dL]	.
+8Rgg/L	8r	8BB	.	.	.	.	.	.	8d	か
+8Rcc/	4r	8BB	.	.	.	.	.	.	8e	ら
+8Rgg/J	.	8BBJ	.	.	.	.	.	.	8eJ	と
+=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71
+8r	8Rf\	4.AA	1c#	.	4.d	キス	1f#	.	4f#	キス
+16Rgg/LL	8r	.	.	.	.	.	.	.	.	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	.	.	.	.	8r	.
+8Ree/J	.	[8AA	.	.	8A	し	.	.	8c#	し
+8r	8Rd\L 8Rf	8AAL]	.	.	4A	て	.	.	4c#	て
+8r	8Rf\J	8AA	.	.	.	.	.	.	.	.
+8Rcc/L	4r	8AA	.	.	4r	.	.	.	8r	.
+8Rgg/J	.	8AAJ	.	.	.	.	.	.	16dLL	雪
+.	.	.	.	.	.	.	.	.	16c#JJ	.
+=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72
+8r	8Rf\	4.GG	4G	ah	4B	ah	4d	ah	8BL	が
+16Rgg/LL	8r	.	.	.	.	.	.	.	16dL	ま
+16Rgg/JJ	.	.	.	.	.	.	.	.	[16dJJ	だ
+8Rcc/L	4r	.	4B	２	4g	２	4b	２	8dL]	.
+8Ree/J	.	[8GG	.	.	.	.	.	.	16dL	２
+.	.	.	.	.	.	.	.	.	[16dJJ	.
+8r	8Rd\ 8Rf	8GGL]	4B	.	4f#	.	4a	.	8dL]	.
+8Rgg/L	8r	8GG	.	.	.	.	.	.	8d	人
+8Rcc/	4r	8GG	[4A	人	[4d	人	[4g	人	8e	の
+8Rgg/J	.	8GGJ	.	.	.	.	.	.	8dJ	影
+=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73
+8r	8Rf\	4.FF#	2A]	.	2d]	.	2g]	.	8f#L	.
+16Rgg/LL	8r	.	.	.	.	.	.	.	8gJ	を
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	.	.	.	.	8f#L	残
+8Ree/J	.	[8BB	.	.	.	.	.	.	16gL	.
+.	.	.	.	.	.	.	.	.	16aJJ	す
+8r	8Rd\ 8Rf	8BBL]	8r	.	8r	.	8r	.	16aLL	.
+.	.	.	.	.	.	.	.	.	16d	か
+8Rgg/L	8r	8BB	4.B	woo	4d	woo	4.f#	woo	16dJJ	ら
+.	.	.	.	.	.	.	.	.	8.r	.
+8Rcc/	4r	8BB	.	.	.	.	.	.	.	.
+8Rgg/J	.	8BBJ	.	.	[8e	い	.	.	[8g	い
+=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74
+8r	8Rf\	4.GG	1B	.	8eL]	.	1g	.	8gL]	.
+16Rgg/LL	8r	.	.	.	8dJ	つ	.	.	8f#J	つ
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	16c#LL	ま	.	.	16eLL	ま
+.	.	.	.	.	[16B	で	.	.	[16d	で
+8Ree/J	.	[8GG	.	.	16B]	.	.	.	16d]	.
+.	.	.	.	.	[16GJJ	も	.	.	[16BJJ	も
+8r	8Rd\ 8Rf	8GGL]	.	.	8GL]	.	.	.	8BL]	.
+8Rgg/L	8r	8GG	.	.	[8B	.	.	.	[8d	.
+8Rcc/	4r	8GG	.	.	8B]	.	.	.	8d]	.
+8Rgg/J	.	8GGJ	.	.	[8eJ	い	.	.	[8gJ	い
+=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75
+8r	8Rf\	4.AA	2r	.	8eL]	.	1r	.	8gL]	.
+16Rgg/LL	8r	.	.	.	8d	つ	.	.	8f#	つ
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	8c#	ま	.	.	8e	ま
+8Ree/J	.	[8AA	.	.	8BJ	で	.	.	8dJ	で
+8r	8Rd\L 8Rf	8AA]	8r	.	8G	も	.	.	8BL	も
+8r	8Rf\J	8r	8GL	こ	8r	.	.	.	8B	こ
+8Rcc/L	4r	4r	8G	の	4r	.	.	.	8B	の
+8Rgg/J	.	.	8BJ	ま	.	.	.	.	8dJ	ま
+=76||	=76||	=76||	=76||	=76||	=76||	=76||	=76||	=76||	=76||	=76||
+4Raa/	8Rf\	4BB	4B	ま	2d	foo	2f#	foo	4d	ま
+.	8r	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	8.BBL	4r	.	.	.	.	.	4r	.
+8Ree/J	.	.	.	.	.	.	.	.	.	.
+.	.	[16BBJk	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	8BBL]	4e	遥	4g	遥	4a	遥	4g	遥
+8Rcc/	8r	8BB	.	.	.	.	.	.	.	.
+16Rdd/LL	4r	8E	4d	.	4f#	.	4a	.	4f#	.
+16Ra/J	.	.	.	.	.	.	.	.	.	.
+8Ra/J	.	8DJ	.	.	.	.	.	.	.	.
+=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77
+8r	8Rf\	4C#	2e	か	2a	か	2cc#	か	2a	か
+16Rgg/LL	8r	.	.	.	.	.	.	.	.	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	8.C#L	.	.	.	.	.	.	.	.
+8Ree/J	.	.	.	.	.	.	.	.	.	.
+.	.	[16C#Jk	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	8C#L]	8r	.	8r	.	8r	.	8r	.
+8Rgg/L	8r	8C#J	8eL	遠	8f#L	遠	8aL	遠	8f#L	遠
+8Rcc/	4r	4C#	8e	.	8f#	.	8a	.	8g	.
+8Rgg/J	.	.	[8eJ	い	[8f#J	い	[8aJ	い	[8aJ	い
+=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78
+8r	8Rf\	4D	8eL]	.	8f#L]	.	8aL]	.	8aL]	.
+16Rgg/LL	8r	.	8dJ	場	8f#J	場	8aJ	場	8dJ	場
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	8.DL	8dL	所	8f#L	所	8aL	所	8dL	所
+8Ree/J	.	.	16dL	にい	16f#L	にい	16aL	にい	16dL	にい
+.	.	[16DJk	[16dJJ	て	[16f#JJ	て	[16aJJ	て	[16c#JJ	て
+8r	8Rd\ 8Rf	8DL]	8dL]	.	8f#L]	.	8aL]	.	8c#L]	.
+8Rgg/L	8r	8D	8dJ	も	8f#J	も	8aJ	も	8dJ	も
+8Rcc/	4r	8DJ	8r	.	4r	.	4r	.	8r	.
+8Rgg/J	.	8r	8B	繋	.	.	.	.	8d	繋
+=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79
+8r	8Rf\	2r	8dL	.	2r	.	2r	.	8f#L	.
+16Rgg/LL	8r	.	8c#	が	.	.	.	.	8e	が
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	8B	っ	.	.	.	.	8d	っ
+8Ree/J	.	.	8AJ	て	.	.	.	.	8c#J	て
+8r	8Rd\ 8Rf	8AAL	4A	たい	8f#L	ha	8cc#L	ha	4c#	たい
+8Rgg/L	8r	8AA	.	.	8e	.	8b	.	.	.
+8Rcc/	4r	8BB	4c#	な	8d	.	8a	.	4e	な
+8Rgg/J	.	8C#J	.	.	8c#J	.	8gJ	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80
+8r	8Rf\	4BB	4d	.	1f#	ah	1b	ah	4f#	.
+16Rgg/LL	8r	.	.	.	.	.	.	.	.	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	8.BBL	4r	.	.	.	.	.	8r	.
+8Ree/J	.	.	.	.	.	.	.	.	[8b	２
+.	.	[16BBJk	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	8BBL]	2r	.	.	.	.	.	8bL]	.
+8Rgg/L	8r	8BBJ	.	.	.	.	.	.	[8a	.
+8Rcc/	4r	4BB	.	.	.	.	.	.	8a]	.
+8Rgg/J	.	.	.	.	.	.	.	.	[8aJ	人
+=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81
+8r	8Rf\	4C#	1c#	ah	1e	.	[1a	.	8aL]	.
+16Rgg/LL	8r	.	.	.	.	.	.	.	[8b	の
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	8.C#L	.	.	.	.	.	.	8b]	.
+8Ree/J	.	.	.	.	.	.	.	.	[8f#J	想
+.	.	[16C#Jk	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	8C#L]	.	.	.	.	.	.	8f#L]	.
+8Rgg/L	8r	8C#J	.	.	.	.	.	.	8e	.
+8Rcc/	4r	4C#	.	.	.	.	.	.	8e	い
+8Rgg/J	.	.	.	.	.	.	.	.	[8dJ	が
+=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82
+8r	8Rf\	4D	1A	.	1f#	.	1a]	.	4.d]	.
+16Rgg/LL	8r	.	.	.	.	.	.	.	.	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	8.DL	.	.	.	.	.	.	.	.
+8Ree/J	.	.	.	.	.	.	.	.	8B	同
+.	.	[16DJk	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	8DL]	.	.	.	.	.	.	8BL	.
+8Rgg/L	8r	8DJ	.	.	.	.	.	.	8dJ	じ
+8Rcc/	4r	4D	.	.	.	.	.	.	4d	で
+8Rgg/J	.	.	.	.	.	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83
+8r	8Rf\	4AA	4A	あ	4A	あ	4c#	あ	1r	.
+16Rgg/LL	8r	.	.	.	.	.	.	.	.	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	8.AAL	8AL	り	8AL	り	8c#L	り	.	.
+8Ree/J	.	.	[8AJ	ま	[8f#J	ま	[8bJ	ま	.	.
+.	.	[16AAJk	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	8AAL]	8AL]	.	8f#L]	.	8bL]	.	.	.
+8Rcc/	8r	8AAJ	8AJ	す	8eJ	す	8aJ	す	.	.
+16Rdd/LL	4r	4AA	8AL	よ	8dL	よ	8gL	よ	.	.
+16Ra/J	.	.	.	.	.	.	.	.	.	.
+8Ra/J	.	.	[16AL	う	[16c#L	う	[16f#L	う	.	.
+.	.	.	16AJJ]	.	16c#JJ]	.	16f#JJ]	.	.	.
+*v	*v	*	*	*	*	*	*	*	*	*
+=84	=84	=84	=84	=84	=84	=84	=84	=84	=84
+1Raa	1r	2.A	に	2.d	に	2.f#	に	2r	.
+.	.	.	.	.	.	.	.	8f#L	麦
+.	.	.	.	.	.	.	.	16eL	.
+.	.	.	.	.	.	.	.	[16f#JJ	わ
+.	.	4r	.	4r	.	4r	.	8f#L]	.
+.	.	.	.	.	.	.	.	16gL	ら
+.	.	.	.	.	.	.	.	[16f#JJ	の
+=85||	=85||	=85||	=85||	=85||	=85||	=85||	=85||	=85||	=85||
+1r	2..GG	8r	.	4r	.	4r	.	4.f#]	.
+.	.	[4.F#	tu	.	.	.	.	.	.
+.	.	.	.	[4B	tu	8r	.	.	.
+.	.	.	.	.	.	[8d	tu	8r	.
+.	.	2F#]	.	2B]	.	2d]	.	8f#L	帽
+.	.	.	.	.	.	.	.	8e	.
+.	.	.	.	.	.	.	.	8f#	子
+.	8D	.	.	.	.	.	.	8gJ	の
+=86	=86	=86	=86	=86	=86	=86	=86	=86	=86
+1r	2..AA	2G	foo	2d	foo	1f#	foo	4.a	君
+.	.	.	.	.	.	.	.	8e	.
+.	.	2A	.	2c#	.	.	.	8eL	が
+.	.	.	.	.	.	.	.	8f#	揺
+.	.	.	.	.	.	.	.	8e	れ
+.	8C#	.	.	.	.	.	.	8dJ	た
+=87	=87	=87	=87	=87	=87	=87	=87	=87	=87
+1r	2..BB	8r	.	4r	.	4r	.	8BL	マ
+.	.	[4.F#	tu	.	.	.	.	[8d	リ
+.	.	.	.	[4A	tu	8r	.	8d]	ー
+.	.	.	.	.	.	[8d	tu	[8dJ	ゴ
+.	.	2F#]	.	2A]	.	2d]	.	8dL]	ー
+.	.	.	.	.	.	.	.	8d	ル
+.	.	.	.	.	.	.	.	8e	ド
+.	8BB	.	.	.	.	.	.	8eJ	に
+=88	=88	=88	=88	=88	=88	=88	=88	=88	=88
+1r	1FF#	2A	foo	2d	foo	1e	foo	4.f#	似
+.	.	.	.	.	.	.	.	8c#	て
+.	.	4B	.	2c#	.	.	.	4c#	る
+.	.	4A	.	.	.	.	.	8r	.
+.	.	.	.	.	.	.	.	16dLL	あ
+.	.	.	.	.	.	.	.	16c#JJ	れ
+=89	=89	=89	=89	=89	=89	=89	=89	=89	=89
+*^	*	*	*	*	*	*	*	*	*
+1r	4Rf\	4GG	1r	.	1r	.	1r	.	8BL	は
+.	.	.	.	.	.	.	.	.	16dL	空
+.	.	.	.	.	.	.	.	.	[16dJJ	.
+.	4Rf\	4GG	.	.	.	.	.	.	8dL]	.
+.	.	.	.	.	.	.	.	.	16c#L	が
+.	.	.	.	.	.	.	.	.	[16dJJ	ま
+.	4Rf\	4GG	.	.	.	.	.	.	8dL]	.
+.	.	.	.	.	.	.	.	.	8d	だ
+.	4Rf\	4GG	.	.	.	.	.	.	8e	青
+.	.	.	.	.	.	.	.	.	8dJ	.
+=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90
+1r	4Rf\	4FF#	2r	.	1r	.	1r	.	8f#L	い
+.	.	.	.	.	.	.	.	.	8gJ	夏
+.	4Rf\	4FF#	.	.	.	.	.	.	8f#L	.
+.	.	.	.	.	.	.	.	.	16gL	の
+.	.	.	.	.	.	.	.	.	[16f#JJ	こ
+.	4Rf\	4BB	4r	.	.	.	.	.	8f#L]	.
+.	.	.	.	.	.	.	.	.	8dJ	と
+.	4Rf\	4BB	8r	.	.	.	.	.	8r	.
+.	.	.	16BLL	懐	.	.	.	.	16dLL	懐
+.	.	.	16BJJ	.	.	.	.	.	16dJJ	.
+=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91
+1r	8Rf\L	4.GG	8eL	か	1d	ha	1g	ha	8gL	か
+.	8Rf\	.	8dJ	し	.	.	.	.	8f#J	し
+.	8Rf\	.	8eL	い	.	.	.	.	8gL	い
+.	8Rf\J	[8GG	16dL	と	.	.	.	.	16f#L	と
+.	.	.	[16eJJ	笑	.	.	.	.	[16gJJ	笑
+.	8Rf\L	8GGL]	8eL]	.	.	.	.	.	8gL]	.
+.	8Rf\	8GG	8d	.	.	.	.	.	8f#	.
+.	8Rf\	8GG	8c#	え	.	.	.	.	8e	え
+.	8Rf\J	8GGJ	8BJ	た	.	.	.	.	8dJ	た
+*v	*v	*	*	*	*	*	*	*	*	*
+=92	=92	=92	=92	=92	=92	=92	=92	=92	=92
+4Raa/	8AAL	8dL	あ	4f#	ah	4a	ah	8bL	あ
+.	8AAJ	8c#	の	.	.	.	.	8f#	の
+8Rcc/L	8AAL	8c#	日	4r	.	4r	.	8a	日
+8Rgg/J	16AAL	8dJ	の	.	.	.	.	8bJ	の
+.	[16AAJJ	.	.	.	.	.	.	.	.
+8Rcc/L	8AAL]	4d	恋	8bL	あ	8ddL	あ	4f#	恋
+8Ree/	8AA	.	.	8a	の	8cc#	の	.	.
+8Rcc/	8AA	4c#	.	8a	日	8cc#	日	4e	.
+8Ree/J	8AAJ	.	.	8bJ	の	8ddJ	の	.	.
+=93||	=93||	=93||	=93||	=93||	=93||	=93||	=93||	=93||	=93||
+*^	*	*	*	*	*	*	*	*	*
+4r	4r	4r	4r	.	4r	.	4r	.	4.f#	「もう
+8.Raa/L	4r	8.DL	2.A	ha	4a	ha	2.dd	ha	.	.
+.	.	.	.	.	.	.	.	.	8r	.
+16Ree/Jk	.	[16DJk	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	8DL]	.	.	8dL	離	.	.	8f#L	離
+8Rgg/L	8r	8DJ	.	.	16c#L	.	.	.	16eL	.
+.	.	.	.	.	[16dJJ	れ	.	.	[16f#JJ	れ
+8Rcc/	4r	4D	.	.	8dL]	.	.	.	8f#L]	.
+8Rgg/J	.	.	.	.	8eJ	な	.	.	8gJ	な
+=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94
+8r	8Rf\	4.C#	4.c#	い	4.e	い	4.a	い	4.a	い
+16Rgg/LL	8r	.	.	.	.	.	.	.	.	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	.	.	.	.	.	.
+8Ree/J	.	[8C#	[8c#	で	[8e	で	[8a	で	8e	で」
+8r	8Rd\ 8Rf	8C#L]	4c#]	.	4e]	.	4a]	.	8eL	と
+8Rgg/L	8r	8C#	.	.	.	.	.	.	8f#	泣
+8Rcc/	4r	8C#	4c#	よ	4e	よ	4cc#	よ	8e	き
+8Rgg/J	.	8C#J	.	.	.	.	.	.	8dJ	そ
+=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95
+8r	8Rf\	4.BB	1B	oh	1d	oh	1b	oh	8BL	う
+16Rgg/LL	8r	.	.	.	.	.	.	.	16dL	な
+16Rgg/JJ	.	.	.	.	.	.	.	.	[16dJJ	目
+8Rcc/L	4r	.	.	.	.	.	.	.	8dL]	.
+8Ree/J	.	[8BB	.	.	.	.	.	.	16dL	で
+.	.	.	.	.	.	.	.	.	[16dJJ	見
+8r	8Rd\ 8Rf	8BBL]	.	.	.	.	.	.	8dL]	.
+8Rgg/L	8r	8BB	.	.	.	.	.	.	8d	つ
+8Rcc/	4r	8BB	.	.	.	.	.	.	8e	め
+8Rgg/J	.	8BBJ	.	.	.	.	.	.	8eJ	る
+=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96
+8r	8Rf\	4.AA	1c#	.	4.d	君	1f#	.	4.f#	君
+16Rgg/LL	8r	.	.	.	.	.	.	.	.	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	.	.	.	.	.	.
+8Ree/J	.	[8AA	.	.	8A	.	.	.	8c#	.
+8r	8Rd\L 8Rf	8AAL]	.	.	4A	を	.	.	4c#	を
+8r	8Rf\J	8AA	.	.	.	.	.	.	.	.
+8Rcc/L	4r	8AA	.	.	4r	.	.	.	8r	.
+8Rgg/J	.	8AAJ	.	.	.	.	.	.	16dLL	雲
+.	.	.	.	.	.	.	.	.	16c#JJ	.
+=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97
+8r	8Rf\	4.GG	4G	oh	4B	oh	4d	oh	8BL	の
+16Rgg/LL	8r	.	.	.	.	.	.	.	16dL	よ
+16Rgg/JJ	.	.	.	.	.	.	.	.	[16dJJ	う
+8Rcc/L	4r	.	4B	そ	4g	そ	4b	そ	8dL]	.
+8Ree/J	.	[8GG	.	.	.	.	.	.	16dL	な
+.	.	.	.	.	.	.	.	.	[16dJJ	優
+8r	8Rd\ 8Rf	8GGL]	4B	っ	4f#	っ	4a	っ	8dL]	.
+8Rgg/L	8r	8GG	.	.	.	.	.	.	8d	.
+8Rcc/	4r	8GG	[4A	と	[4d	と	[4g	と	8e	し
+8Rgg/J	.	8GGJ	.	.	.	.	.	.	8dJ	さ
+=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98
+8r	8Rf\	4.FF#	2A]	.	2d]	.	2g]	.	8f#L	で
+16Rgg/LL	8r	.	.	.	.	.	.	.	8gJ	そ
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	.	.	.	.	8f#L	っ
+8Ree/J	.	[8BB	.	.	.	.	.	.	16gL	と
+.	.	.	.	.	.	.	.	.	[16aJJ	ぎゅ
+8r	8Rd\ 8Rf	8BBL]	8r	.	8r	.	8r	.	8aL]	っ
+8Rgg/L	8r	8BB	4.B	woo	4.d	woo	4.f#	woo	8dJ	と
+8Rcc/	4r	8BB	.	.	.	.	.	.	8r	.
+8Rgg/J	.	8BBJ	.	.	.	.	.	.	[8g	抱
+=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99
+8r	8Rf\	4.GG	2B	ah	2e	ah	2g	ah	8gL]	.
+16Rgg/LL	8r	.	.	.	.	.	.	.	8f#	き
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	.	.	.	.	8e	し
+8Ree/J	.	[8GG	.	.	.	.	.	.	8dJ	め
+8r	8Rd\ 8Rf	8GGL]	8BL	抱	8eL	抱	8gL	抱	4d	て
+8Rgg/L	8r	8GG	8B	き	8d	き	8f#	き	.	.
+8Rcc/	4r	8GG	8B	し	8c#	し	8e	し	8r	.
+8Rgg/J	.	8GGJ	8BJ	め	8BJ	め	8dJ	め	[8b	離
+=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100
+8r	8Rd\	4AA	2A	て	2c#	て	2e	て	8bL]	.
+8Ree/	8r	.	.	.	.	.	.	.	8a	.
+8r	8Rd\	8.AAL	.	.	.	.	.	.	8b	さ
+8Ree/	8r	.	.	.	.	.	.	.	8bJ	な
+.	.	[16AAJk	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	8AAL]	8BL	離	8gL	離	8bL	離	4a	い
+8Rcc/	8r	8AA	8A	.	8f#	.	8a	.	.	.
+16Rdd/LL	4r	8BB	8A	さ	8f#	さ	8a	さ	4r	.
+16Ra/J	.	.	.	.	.	.	.	.	.	.
+8Ra/J	.	8C#J	8BJ	な	8gJ	な	8bJ	な	.	.
+=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101
+4Raa/	2r	4D	1A	.	4.d	.	1a	.	2f#	ああ
+8Rcc/L	.	8.DL	.	.	.	.	.	.	.	.
+8Ree/J	.	.	.	.	8r	.	.	.	.	.
+.	.	[16DJk	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	8DL]	.	.	8dL	ア	.	.	8f#L	ア
+8Rgg/L	8r	8DJ	.	.	16c#L	イ	.	.	16eL	イ
+.	.	.	.	.	[16dJJ	ラ	.	.	[16f#JJ	ラ
+8Rcc/	4r	4D	.	.	8dL]	.	.	.	8f#L]	.
+8Rgg/J	.	.	.	.	8eJ	ブ	.	.	8gJ	ブ
+=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102
+8r	8Rf\	4C#	4.c#	言	4.e	ユー	4.a	言	4.a	ユー
+16Rgg/LL	8r	.	.	.	.	.	.	.	.	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	8.C#L	.	.	.	.	.	.	.	.
+8Ree/J	.	.	[8c#	.	8e	.	[8a	.	8e	.
+.	.	[16C#Jk	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	8C#L]	4c#]	.	4e	の	4a]	.	8eL	の
+8Rgg/L	8r	8C#J	.	.	.	.	.	.	8f#	言葉
+8Rcc/	4r	4C#	4c#	葉	4e	葉	4g	葉	8e	.
+8Rgg/J	.	.	.	.	.	.	.	.	8dJ	.
+=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103
+8r	8Rf\	4BB	1B	ah	1d	ah	1f#	ah	8BL	じゃ
+16Rgg/LL	8r	.	.	.	.	.	.	.	16dL	足
+16Rgg/JJ	.	.	.	.	.	.	.	.	[16dJJ	り
+8Rcc/L	4r	8.BBL	.	.	.	.	.	.	8dL]	.
+8Ree/J	.	.	.	.	.	.	.	.	16dL	な
+.	.	[16BBJk	.	.	.	.	.	.	[16dJJ	い
+8r	8Rd\ 8Rf	8BBL]	.	.	.	.	.	.	8dL]	.
+8Rgg/L	8r	8BBJ	.	.	.	.	.	.	8d	か
+8Rcc/	4r	4BB	.	.	.	.	.	.	8e	ら
+8Rgg/J	.	.	.	.	.	.	.	.	8eJ	と
+=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104
+8r	8Rf\	4AA	1c#	.	4.d	キス	1f#	.	4f#	キス
+16Rgg/LL	8r	.	.	.	.	.	.	.	.	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	8.AAL	.	.	.	.	.	.	8r	.
+8Ree/J	.	.	.	.	8A	し	.	.	8c#	し
+.	.	[16AAJk	.	.	.	.	.	.	.	.
+8r	8Rd\L 8Rf	8AAL]	.	.	4A	て	.	.	4c#	て
+8r	8Rf\J	8AAJ	.	.	.	.	.	.	.	.
+8Rcc/L	4r	4AA	.	.	4r	.	.	.	8r	.
+8Rgg/J	.	.	.	.	.	.	.	.	16dLL	雪
+.	.	.	.	.	.	.	.	.	16c#JJ	.
+=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105
+8r	8Rf\	4GG	4G	ah	4B	ah	4d	ah	8BL	が
+16Rgg/LL	8r	.	.	.	.	.	.	.	16dL	ま
+16Rgg/JJ	.	.	.	.	.	.	.	.	[16dJJ	だ
+8Rcc/L	4r	8.GGL	4B	２	4g	２	4b	２	8dL]	.
+8Ree/J	.	.	.	.	.	.	.	.	16dL	２
+.	.	[16GGJk	.	.	.	.	.	.	[16dJJ	.
+8r	8Rd\ 8Rf	8GGL]	4B	.	4f#	.	4a	.	8dL]	.
+8Rgg/L	8r	8GGJ	.	.	.	.	.	.	8d	人
+8Rcc/	4r	4GG	[4A	人	[4d	人	[4g	人	8e	の
+8Rgg/J	.	.	.	.	.	.	.	.	8dJ	影
+=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106
+8r	8Rf\	4FF#	2A]	.	2d]	.	2g]	.	8f#L	.
+16Rgg/LL	8r	.	.	.	.	.	.	.	8gJ	を
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	8.FF#L	.	.	.	.	.	.	8f#L	残
+8Ree/J	.	.	.	.	.	.	.	.	16gL	.
+.	.	[16BBJk	.	.	.	.	.	.	16aJJ	す
+8r	8Rd\ 8Rf	8BBL]	8r	.	8r	.	8r	.	16aLL	.
+.	.	.	.	.	.	.	.	.	16d	か
+8Rgg/L	8r	8BBJ	4.B	woo	4d	woo	4.f#	woo	16dJJ	ら
+.	.	.	.	.	.	.	.	.	8.r	.
+8Rcc/	4r	4BB	.	.	.	.	.	.	.	.
+8Rgg/J	.	.	.	.	[8e	い	.	.	[8g	い
+=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107
+8r	8Rf\	4GG	1B	.	8eL]	.	1g	.	8gL]	.
+16Rgg/LL	8r	.	.	.	8dJ	つ	.	.	8f#J	つ
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	8.GGL	.	.	16c#LL	ま	.	.	16eLL	ま
+.	.	.	.	.	[16B	で	.	.	[16d	で
+8Ree/J	.	.	.	.	16B]	.	.	.	16d]	.
+.	.	[16GGJk	.	.	[16GJJ	も	.	.	[16BJJ	も
+8r	8Rd\ 8Rf	8GGL]	.	.	8GL]	.	.	.	8BL]	.
+8Rgg/L	8r	8GGJ	.	.	[8B	.	.	.	[8d	.
+8Rcc/	4r	4GG	.	.	8B]	.	.	.	8d]	.
+8Rgg/J	.	.	.	.	[8eJ	い	.	.	[8gJ	い
+=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108
+8r	8Rf\	4.AA	2r	.	8eL]	.	2r	.	8gL]	.
+16Rgg/LL	8r	.	.	.	8d	つ	.	.	8f#	つ
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	8c#	ま	.	.	8e	ま
+8Ree/J	.	[8AA	.	.	8BJ	で	.	.	8dJ	で
+8r	8Rd\L 8Rf	8AA]	8r	.	8G	も	4r	.	8BL	も
+8r	8Rf\J	8r	8GL	こ	8r	.	.	.	8B	こ
+8Rcc/L	4r	4r	8G	の	4e	foo	4b	foo	8B	の
+8Rgg/J	.	.	8BJ	ま	.	.	.	.	8dJ	ま
+=109||	=109||	=109||	=109||	=109||	=109||	=109||	=109||	=109||	=109||	=109||
+4Raa/	2r	4.D	2A	ま	2f#	.	2a	.	4d	ま
+8Rcc/L	.	.	.	.	.	.	.	.	4r	.
+8Ree/J	.	[8D	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	8DL]	8r	.	8r	.	4r	.	2r	.
+8Rgg/L	8r	8D	4.A	ru	8r	.	.	.	.	.
+8Rcc/	4r	8D	.	.	4c#	ru	8r	.	.	.
+8Rgg/J	.	8DJ	.	.	.	.	8d	ru	.	.
+=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110
+8r	8Rf\	4.C#	2.A	ru	2.c#	ru	2e	ru	2r	.
+16Rgg/LL	8r	.	.	.	.	.	.	.	.	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	.	.	.	.	.	.
+8Ree/J	.	[8C#	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	8C#L]	.	.	.	.	4r	.	8r	.
+8Rgg/L	8r	8C#	.	.	.	.	.	.	8BL	離
+8Rcc/	4r	8C#	4A	foo	4e	foo	4g	foo	8B	.
+8Rgg/J	.	8C#J	.	.	.	.	.	.	8dJ	さ
+=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111
+8r	8Rf\	4.BB	2B	.	2f#	.	2a	.	8d	な
+16Rgg/LL	8r	.	.	.	.	.	.	.	2c#	い
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	.	.	.	.	.	.
+8Ree/J	.	[8BB	.	.	.	.	.	.	.	.
+8r	8Rd\ 8Rf	8BBL]	8r	.	8r	.	4r	.	.	.
+8Rgg/L	8r	8BB	4.B	ru	8r	.	.	.	4r	.
+8Rcc/	4r	8BB	.	.	4d	ru	8r	.	.	.
+8Rgg/J	.	8BBJ	.	.	.	.	8e	ru	[8f#	ああ
+=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112
+8r	8Rf\	4.FF#	4.c#	ru	4.e	ru	4.a	ru	4f#]	.
+16Rgg/LL	8r	.	.	.	.	.	.	.	.	.
+16Rgg/JJ	.	.	.	.	.	.	.	.	.	.
+8Rcc/L	4r	.	.	.	.	.	.	.	8r	.
+8Ree/J	.	8FF#	8c#	ru	8e	ru	8a	ru	[8g	い
+8r	8Rd\L 8Rf	8r	8r	.	8r	.	8r	.	8gL]	.
+8r	8Rf\J	4FF#	4.A	ru	4.c#	ru	4.e	ru	8f#J	つ
+8Rcc/L	4r	.	.	.	.	.	.	.	16eLL	ま
+.	.	.	.	.	.	.	.	.	[16d	で
+8Rgg/J	.	8FF#	.	.	.	.	.	.	16d]	.
+.	.	.	.	.	.	.	.	.	[16BJJ	も
+=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113
+4Raa/	8Rf\	4.GG	1B	foo	4d	.	1g	foo	8BL]	.
+.	8r	.	.	.	.	.	.	.	[8d	.
+8Rcc/L	4r	.	.	.	8r	.	.	.	8d]	.
+8Ree/J	.	8GG	.	.	[8e	い	.	.	[8gJ	い
+8r	8Rd\ 8Rf	8r	.	.	8eL]	.	.	.	8gL]	.
+8Rcc/	8r	8FF#L	.	.	8d	つ	.	.	8f#	つ
+16Rdd/LL	4r	8FF#	.	.	8c#	ま	.	.	8e	ま
+16Ra/J	.	.	.	.	.	.	.	.	.	.
+8Ra/J	.	8FF#J	.	.	8BJ	で	.	.	8dJ	で
+*v	*v	*	*	*	*	*	*	*	*	*
+=114	=114	=114	=114	=114	=114	=114	=114	=114	=114
+1Raa	1AA	1B	woo	8BL	も	1g	woo	8BL	も
+.	.	.	.	[8AJ	.	.	.	[8AJ	.
+.	.	.	.	2A]	.	.	.	4A]	.
+.	.	.	.	.	.	.	.	2r	.
+.	.	.	.	4r	.	.	.	.	.
+=115	=115	=115	=115	=115	=115	=115	=115	=115	=115
+1r	1r	1r	.	1r	.	1r	.	2r	.
+.	.	.	.	.	.	.	.	8r	.
+.	.	.	.	.	.	.	.	8AL	離
+.	.	.	.	.	.	.	.	8A	.
+.	.	.	.	.	.	.	.	8dJ	さ
+=116	=116	=116	=116	=116	=116	=116	=116	=116	=116
+1r	1r	1r	.	1r	.	1r	.	2d	ない
+.	.	.	.	.	.	.	.	2r	.
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-

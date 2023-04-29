@@ -1,0 +1,801 @@
+!!!COM: 星野源
+!!!OTL: ドラえもん
+**kern	**kern	**kern	**kern	**kern	**mxhm	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**mxhm
+*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1	*part1
+*staff12	*staff11	*staff10	*staff9	*staff8	*	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1	*
+*I"ピアノ	*	*I"ベース	*	*I"エレキギター	*	*I"ユーフォニウム	*I"B♭ トランペット	*I"B♭ トランペット	*I"アルトサックス	*I"B♭ クラリネット	*I"B♭ クラリネット	*I"Melody	*
+*I'Pno.	*	*I'B. Guit.	*	*I'El. Guit.	*	*I'Euph.	*I'B♭ Tpt.	*I'B♭ Tpt.	*I'A. Sax.	*I'B♭ Cl.	*I'B♭ Cl.	*I'Melody	*
+*	*	*	*stria5	*	*	*	*	*	*	*	*	*	*
+*clefF4	*clefG2	*clefTAB5	*clefF4	*clefGv2	*	*clefF4	*clefG2	*clefG2	*clefG2	*clefG2	*clefG2	*clefF4	*
+*	*	*ITrd0c0	*ITrd0c0	*	*	*	*ITrd1c2	*ITrd1c2	*ITrd5c9	*ITrd1c2	*ITrd1c2	*	*
+*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]	*
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*
+*MM160	*MM160	*MM160	*MM160	*MM160	*	*MM160	*MM160	*MM160	*MM160	*MM160	*MM160	*MM160	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+1r	1r	4r	4E'	4r	E major	1r	1r	1r	1r	1r	1r	1r	.
+.	.	8r	8r	8r	.	.	.	.	.	.	.	.	.
+.	.	8r	8E'	8r	.	.	.	.	.	.	.	.	.
+.	.	4r	4C#'	4r	E major/C#	.	.	.	.	.	.	.	.
+.	.	4r	4BB'	4r	E major/B	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1r	1r	4r	4r	4r	.	1r	1r	1r	1r	1r	1r	1r	.
+.	.	4r	4E'	4r	E major	.	.	.	.	.	.	.	.
+.	.	4r	4E'	4r	.	.	.	.	.	.	.	.	.
+.	.	4r	4r	4r	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+1r	1r	4r	4E'	4r	E major	1r	1r	1r	1r	1r	1r	1r	.
+.	.	8r	8r	8r	.	.	.	.	.	.	.	.	.
+.	.	8r	8E'	8r	.	.	.	.	.	.	.	.	.
+.	.	4r	4C#'	4r	E major/C#	.	.	.	.	.	.	.	.
+.	.	4r	4BB'	4r	E major/B	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+1r	1r	4r	4r	4r	.	1r	1r	1r	1r	1r	1r	1r	.
+.	.	4r	4E'	4r	E major	.	.	.	.	.	.	.	.
+.	.	4r	4E'	4r	.	.	.	.	.	.	.	.	.
+.	.	4r	4r	4r	.	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+1r	1r	4r	4E'	4r	E major	1r	1r	1r	1r	1r	1r	1r	.
+.	.	8r	8r	8r	.	.	.	.	.	.	.	.	.
+.	.	8r	8E'	8r	.	.	.	.	.	.	.	.	.
+.	.	4r	4C#'	4r	E major/C#	.	.	.	.	.	.	.	.
+.	.	4r	4BB'	4r	E major/B	.	.	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+1r	1r	4r	4r	4r	.	1r	1r	1r	1r	1r	1r	1r	.
+.	.	4r	4E'	4r	E major	.	.	.	.	.	.	.	.
+.	.	4r	4E'	4r	.	.	.	.	.	.	.	.	.
+.	.	4r	4r	4r	.	.	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+1r	1r	4r	4E'	4r	E major	1r	4g#	4ee	4e	4B	1r	1r	.
+.	.	8r	8r	8r	.	.	8r	8r	8r	8r	.	.	.
+.	.	8r	8E'	8r	.	.	8g#	8ee	8e	8B	.	.	.
+.	.	4r	4C#'	4r	E major/C#	.	4g#	4cc#	4e	4B	.	.	.
+.	.	4r	4BB'	4r	E major/B	.	4g#	4b	4e	4B	.	.	.
+=8||	=8||	=8||	=8||	=8||	=8||	=8||	=8||	=8||	=8||	=8||	=8||	=8||	=8||
+1r	1r	4r	4E'	4r	E major	4B	1r	1r	1r	1r	4b	4B	.
+.	.	8r	8r	8r	.	8r	.	.	.	.	8r	8r	.
+.	.	8r	8E'	8r	.	8B	.	.	.	.	8b	8B	.
+.	.	4r	4D#'	4r	B major/D#	8c#L	.	.	.	.	8cc#L	8c#L	.
+.	.	.	.	.	.	8B	.	.	.	.	8b	8B	.
+.	.	8r	8r	8r	.	8G#	.	.	.	.	8g#	8G#	.
+.	.	8r	8D#'	8r	.	8F#J	.	.	.	.	8f#J	8F#J	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+1r	1r	4r	4C#'	4r	C# minor	4E	1r	1r	1r	1r	4e	4E	.
+.	.	(4r	(4BB	4r	B major	4C#	.	.	.	.	4c#	4C#	.
+.	.	4r)	4AA)	4r	A major	4E	.	.	.	.	4e	4E	.
+.	.	4r	4r	4r	.	4r	.	.	.	.	4r	4r	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+1r	1r	4r	4AA'	4r	A major	4E	1r	1r	1r	1r	4e	4E	.
+.	.	8r	8r	8r	.	8r	.	.	.	.	8r	8r	.
+.	.	8r	8AA'	8r	.	8F#	.	.	.	.	8f#	8F#	.
+.	.	4r	4GG#'	4r	E major/G#	4G#	.	.	.	.	4g#	4G#	.
+.	.	8r	8r	8r	.	4B	.	.	.	.	4b	4B	.
+.	.	8r	8GG#'	8r	.	.	.	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+1r	1r	4r	4AA'	4r	A major	4c#	1r	1r	1r	1r	4cc#	4c#	.
+.	.	8r	8r	8r	.	12BL	.	.	.	.	12bL	12BL	.
+.	.	.	.	.	.	12c#	.	.	.	.	12cc#	12c#	.
+.	.	8r	8AA'	8r	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	12BJ	.	.	.	.	12bJ	12BJ	.
+.	.	4r	4BB'	4r	B major	4G#	.	.	.	.	4g#	4G#	.
+.	.	(4r	(4BB	4r	.	4F#	.	.	.	.	4f#	4F#	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+1r	1r	4r)	4E)	4r	E major	4B	1r	1r	1r	1r	4b	4B	.
+.	.	8r	8r	8r	.	8r	.	.	.	.	8r	8r	.
+.	.	8r	8E'	8r	.	8B	.	.	.	.	8b	8B	.
+.	.	4r	4D#'	4r	B major/D#	8c#L	.	.	.	.	8cc#L	8c#L	.
+.	.	.	.	.	.	8B	.	.	.	.	8b	8B	.
+.	.	8r	8r	8r	.	8G#	.	.	.	.	8g#	8G#	.
+.	.	8r	8D#'	8r	.	8F#J	.	.	.	.	8f#J	8F#J	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+1r	1r	4r	4C#'	4r	C# minor	4E	1r	1r	1r	1r	4e	4E	.
+.	.	(4r	(4BB	4r	C# minor/B	4C#	.	.	.	.	4c#	4C#	.
+.	.	4r)	4AA)	4r	A major	4E	.	.	.	.	4e	4E	.
+.	.	4r	4r	4r	.	4r	.	.	.	.	4r	4r	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+1r	1r	4r	4AA'	4r	A major	4E	1r	1r	1r	1r	4e	4E	.
+.	.	8r	8r	8r	.	8r	.	.	.	.	8r	8r	.
+.	.	8r	8AA'	8r	.	8F#	.	.	.	.	8f#	8F#	.
+.	.	4r	4GG#'	4r	E major/G#	4G#	.	.	.	.	4g#	4G#	.
+.	.	8r	8r	8r	.	4B	.	.	.	.	4b	4B	.
+.	.	8r	8GG#'	8r	.	.	.	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+1r	1r	4r	4AA'	4r	A major	4E	1r	1r	1r	1r	4e	4E	.
+.	.	(4r	(4BB	4r	B major	4F#	.	.	.	.	4f#	4F#	.
+.	.	4r)	4E)	4r	E major	4E	.	.	.	.	4e	4E	.
+.	.	4r	4r	4r	.	4r	.	.	.	.	4r	4r	.
+=16!|:	=16!|:	=16!|:	=16!|:	=16!|:	=16!|:	=16!|:	=16!|:	=16!|:	=16!|:	=16!|:	=16!|:	=16!|:	=16!|:
+1r	1r	4r	4E'	4r	E major	1r	1r	1r	4b	4b	1r	4B	.
+.	.	8r	8r	8r	.	.	.	.	8r	8r	.	8r	.
+.	.	8r	8E'	8r	.	.	.	.	8b	8b	.	8B	.
+.	.	4r	4D#'	4r	B major/D#	.	.	.	8cc#L	8cc#L	.	8c#L	.
+.	.	.	.	.	.	.	.	.	8b	8b	.	8B	.
+.	.	8r	8r	8r	.	.	.	.	8g#	8g#	.	8G#	.
+.	.	8r	8D#'	8r	.	.	.	.	8f#J	8f#J	.	8F#J	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+1r	1r	4r	4C#'	4r	C# minor	1r	1r	1r	4e	4e	1r	4E	.
+.	.	(4r	(4BB	4r	B major	.	.	.	4c#	4c#	.	4C#	.
+.	.	4r)	4AA)	4r	A major	.	.	.	4e	4e	.	4E	.
+.	.	4r	4r	4r	.	.	.	.	4r	4r	.	4r	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+1r	1r	4r	4AA'	4r	A major	1r	1r	1r	4e	4e	1r	4E	.
+.	.	8r	8r	8r	.	.	.	.	8r	8r	.	8r	.
+.	.	8r	8AA'	8r	.	.	.	.	8f#	8f#	.	8F#	.
+.	.	4r	4GG#'	4r	E major/G#	.	.	.	4g#	4g#	.	4G#	.
+.	.	8r	8r	8r	.	.	.	.	4b	4b	.	4B	.
+.	.	8r	8GG#'	8r	.	.	.	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+1r	1r	4r	4AA'	4r	A major	1r	1r	1r	4cc#	4cc#	1r	4c#	.
+.	.	8r	8r	8r	.	.	.	.	12bL	12bL	.	12BL	.
+.	.	.	.	.	.	.	.	.	12cc#	12cc#	.	12c#	.
+.	.	8r	8AA'	8r	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	12bJ	12bJ	.	12BJ	.
+.	.	4r	4BB'	4r	B major	.	.	.	4g#	4g#	.	4G#	.
+.	.	(4r	(4BB	4r	.	.	.	.	4f#	4f#	.	4F#	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+1r	1r	4r)	4E)	4r	E major	1r	1r	1r	4b	4b	1r	4B	.
+.	.	8r	8r	8r	.	.	.	.	8r	8r	.	8r	.
+.	.	8r	8E'	8r	.	.	.	.	8b	8b	.	8B	.
+.	.	4r	4D#'	4r	B major/D#	.	.	.	8cc#L	8cc#L	.	8c#L	.
+.	.	.	.	.	.	.	.	.	8b	8b	.	8B	.
+.	.	8r	8r	8r	.	.	.	.	8g#	8g#	.	8G#	.
+.	.	8r	8D#'	8r	.	.	.	.	8f#J	8f#J	.	8F#J	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+1r	1r	4r	4C#'	4r	C# minor	1r	1r	1r	4e	4e	1r	4E	.
+.	.	(4r	(4BB	4r	C# minor/B	.	.	.	4c#	4c#	.	4C#	.
+.	.	4r)	4AA)	4r	A major	.	.	.	4e	4e	.	4E	.
+.	.	4r	4r	4r	.	.	.	.	4r	4r	.	4r	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+1r	1r	4r	4AA'	4r	A major	1r	1r	1r	4e	4e	1r	4E	.
+.	.	8r	8r	8r	.	.	.	.	8r	8r	.	8r	.
+.	.	8r	8AA'	8r	.	.	.	.	8f#	8f#	.	8F#	.
+.	.	4r	4GG#'	4r	E major/G#	.	.	.	4g#	4g#	.	4G#	.
+.	.	8r	8r	8r	.	.	.	.	4b	4b	.	4B	.
+.	.	8r	8GG#'	8r	.	.	.	.	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+1r	1r	4r	4AA'	4r	A major	1r	1r	1r	4e	4e	1r	4E	.
+.	.	(4r	(4Cn	4r	C diminished	.	.	.	4f#	4f#	.	4F#	.
+.	.	4r)	4C#X)	4r	C# minor	.	.	.	4e	4e	.	4E	.
+.	.	4r	4r	4r	.	.	.	.	4r	4r	.	4r	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+1r	1r	4r	4AA'	4r	A major	4E	1r	1r	4e	4e	1r	4E	.
+.	.	8r	8r	8r	.	8r	.	.	8r	8r	.	8r	.
+.	.	8r	8AA'	8r	.	8F#	.	.	8f#	8f#	.	8F#	.
+.	.	4r	4GG#'	4r	E major/G#	4G#	.	.	4g#	4g#	.	4G#	.
+.	.	8r	8r	8r	.	4B	.	.	4b	4b	.	4B	.
+.	.	8r	8GG#'	8r	.	.	.	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+1r	1r	4r	4AA'	4r	A major	4E	1r	1r	4e	4e	1r	4E	.
+.	.	(4r	(4BB	4r	B major	4F#	.	.	4f#	4f#	.	4F#	.
+.	.	4r)	4E)	4r	E major	4E	.	.	4e	4e	.	4E	.
+.	.	4r	4r	4r	.	4r	.	.	4r	4r	.	4r	.
+=26||	=26||	=26||	=26||	=26||	=26||	=26||	=26||	=26||	=26||	=26||	=26||	=26||	=26||
+1r	1r	8r	8AAL	2r	A major	1r	4.e	4.e	1r	1r	1r	4.E	.
+.	.	8r	8AA	.	.	.	.	.	.	.	.	.	.
+.	.	8r	8AA	.	.	.	.	.	.	.	.	.	.
+.	.	8r	8AAJ	.	.	.	8f#	8f#	.	.	.	8F#	.
+.	.	8r	8AAL	2r	A major-seventh	.	4g#	4g#	.	.	.	4G#	.
+.	.	8r	8AA	.	.	.	.	.	.	.	.	.	.
+.	.	8r	8AA	.	.	.	4r	4r	.	.	.	4r	.
+.	.	8r	8AAJ	.	.	.	.	.	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+1r	1r	8r	8AA#XL	2r	F# dominant/A#	1r	4.e	4.e	1r	1r	1r	4.E	.
+.	.	8r	8AA#	.	.	.	.	.	.	.	.	.	.
+.	.	8r	8AA#	.	.	.	.	.	.	.	.	.	.
+.	.	8r	8AA#J	.	.	.	8f#	8f#	.	.	.	8F#	.
+.	.	8r	8AA#L	2r	.	.	4g#	4g#	.	.	.	4G#	.
+.	.	8r	8AA#	.	.	.	.	.	.	.	.	.	.
+.	.	8r	8AA#	.	.	.	4r	4r	.	.	.	4r	.
+.	.	8r	8AA#J	.	.	.	.	.	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+1r	1r	2r	2E	2r	E major	2E	4e	4e	2e	2g#	2b	4E	.
+.	.	.	.	.	.	.	4g#	4b	.	.	.	4B	.
+.	.	2r	2D#	2r	B major/D#	2D#	4f#	4b	2d#	2f#	2b	4B	.
+.	.	.	.	.	.	.	4f#	4cc#	.	.	.	4c#	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+1r	1r	2r	2C#	2r	C# minor	2C#	4g#	4ee	2c#	2e	2g#	4e	.
+.	.	.	.	.	.	.	4e	4cc#	.	.	.	4c#	.
+.	.	4r	4BB	4r	B minor	4BB	4d	4b	4B	4d	4f#	4B	.
+.	.	4r	4E	4r	E dominant	4E	4e	4g#	4B	4e	4g#	4G#	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+1r	1r	8r	8AAL	2r	A major	1r	4.e	4.e	8AL	8c#L	16g#LL	4.E	.
+.	.	.	.	.	.	.	.	.	.	.	16f#	.	.
+.	.	8r	8AA	.	.	.	.	.	8A	8c#	16e	.	.
+.	.	.	.	.	.	.	.	.	.	.	16f#JJ	.	.
+.	.	8r	8AA	.	.	.	.	.	8A	8c#	16g#LL	.	.
+.	.	.	.	.	.	.	.	.	.	.	16f#	.	.
+.	.	8r	8AAJ	.	.	.	8f#	8f#	8AJ	8c#J	16e	8F#	.
+.	.	.	.	.	.	.	.	.	.	.	16f#JJ	.	.
+.	.	8r	8AAL	2r	A major-seventh	.	4g#	4g#	8AL	8c#L	16g#LL	4G#	.
+.	.	.	.	.	.	.	.	.	.	.	16f#	.	.
+.	.	8r	8AA	.	.	.	.	.	8A	8c#	16e	.	.
+.	.	.	.	.	.	.	.	.	.	.	16f#JJ	.	.
+.	.	8r	8AA	.	.	.	4r	4r	8A	8c#	16g#LL	4r	.
+.	.	.	.	.	.	.	.	.	.	.	16f#	.	.
+.	.	8r	8AAJ	.	.	.	.	.	8AJ	8c#J	16e	.	.
+.	.	.	.	.	.	.	.	.	.	.	16f#JJ	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+1r	1r	8r	8AA#XL	2r	F# dominant/A#	1r	4.e	4.e	8A#XL	8c#L	16g#LL	4.E	.
+.	.	.	.	.	.	.	.	.	.	.	16f#	.	.
+.	.	8r	8AA#	.	.	.	.	.	8A#	8c#	16e	.	.
+.	.	.	.	.	.	.	.	.	.	.	16f#JJ	.	.
+.	.	8r	8AA#	.	.	.	.	.	8A#	8c#	16g#LL	.	.
+.	.	.	.	.	.	.	.	.	.	.	16f#	.	.
+.	.	8r	8AA#J	.	.	.	8f#	8f#	8A#J	8c#J	16e	8F#	.
+.	.	.	.	.	.	.	.	.	.	.	16f#JJ	.	.
+.	.	8r	8AA#L	2r	.	.	4g#	4g#	8A#L	8c#L	16g#LL	4G#	.
+.	.	.	.	.	.	.	.	.	.	.	16f#	.	.
+.	.	8r	8AA#	.	.	.	.	.	8A#	8c#	16e	.	.
+.	.	.	.	.	.	.	.	.	.	.	16f#JJ	.	.
+.	.	8r	8AA#	.	.	.	4r	4r	8A#	8c#	16g#LL	4r	.
+.	.	.	.	.	.	.	.	.	.	.	16f#	.	.
+.	.	8r	8AA#J	.	.	.	.	.	8A#J	8c#J	16e	.	.
+.	.	.	.	.	.	.	.	.	.	.	16f#JJ	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+1r	1r	4.r	4.BB	4.r	B major	4.BB	4.f#	4b	4.d#	4.f#	4b	4B	.
+.	.	.	.	.	.	.	.	8g#L	.	.	8g#L	8G#L	.
+.	.	8r	[8AA	8r	B major/A	[8AA	[8f#	[8bJ	[8d#	[8f#	[8bJ	[8BJ	.
+.	.	4.r	4.AA]	4.r	.	4.AA]	4.f#]	8b]	4.d#]	4.f#]	8b]	8B]	.
+.	.	.	.	.	.	.	.	4g#	.	.	4g#	4G#	.
+.	.	8r	[8GG#	8r	B major/G#	[8GG#	[8f#	[8b	[8d#	[8f#	[8b	[8B	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+1r	1r	4.r	4.GG#]	4.r	.	4.GG#]	4.f#]	8b]	4.d#]	4.f#]	8b]	8B]	.
+.	.	.	.	.	.	.	.	4g#	.	.	4g#	4G#	.
+.	.	8r	[8FF#	8r	B major/F#	[8FF#	[8f#	[8b	[8d#	[8f#	[8b	[8B	.
+.	.	2r	2FF#]	2r	.	2FF#]	2f#]	8bL]	2d#]	2f#]	8bL]	8BL]	.
+.	.	.	.	.	.	.	.	8cc#J	.	.	8cc#J	8c#J	.
+.	.	.	.	.	.	.	.	[4b	.	.	[4b	[4B	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+1r	1r	8r	8FF#L	2r	.	8BBL	8f#L	2b]	8bL	8d#L	2b]	2B]	.
+.	.	8r	8FF#	.	.	8BB	8f#	.	8b	8d#	.	.	.
+.	.	8r	8FF#	.	.	8BB	8f#	.	8b	8d#	.	.	.
+.	.	8r	8FF#J	.	.	8BBJ	8f#J	.	8bJ	8d#J	.	.	.
+.	.	8r	8FF#	2r	.	8BB	4f#	8r	4b	4d#	8r	8r	.
+.	.	8r	8r	.	.	8r	.	8BL	.	.	8BL	8BBL	.
+.	.	4r	4r	.	.	4r	4r	8e	4r	4r	8e	8E	.
+.	.	.	.	.	.	.	.	8g#J	.	.	8g#J	8G#J	.
+=35||	=35||	=35||	=35||	=35||	=35||	=35||	=35||	=35||	=35||	=35||	=35||	=35||	=35||
+1r	1r	4r	4E	4r	E major	4E	1r	4b	4b	1r	4b	4B	.
+.	.	4r	4E	4r	.	4E	.	4b	4b	.	4b	4B	.
+.	.	4r	4D#	4r	B dominant/D#	4D#	.	8aL	8aL	.	8aL	8AL	.
+.	.	.	.	.	.	.	.	8g#	8g#	.	8g#	8G#	.
+.	.	4r	4D#	4r	.	4D#	.	8f#	8f#	.	8f#	8F#	.
+.	.	.	.	.	.	.	.	8g#J	8g#J	.	8g#J	8G#J	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+1r	1r	4r	4C#	4r	C# minor	4C#	1r	4e	4e	1r	4e	4E	.
+.	.	4r	4C#	4r	.	4C#	.	4r	4r	.	4r	4r	.
+.	.	4r	4BB	4r	B minor	4BB	.	8eL	8eL	.	8eL	8EL	.
+.	.	.	.	.	.	.	.	8f#	8f#	.	8f#	8F#	.
+.	.	4r	4E	4r	E dominant	4E	.	8g#	8g#	.	8g#	8G#	.
+.	.	.	.	.	.	.	.	8bJ	8bJ	.	8bJ	8BJ	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
+1r	1r	4r	4AA	4r	A major	4A	1r	4cc#	4cc#	1r	4cc#	4c#	.
+.	.	4r	4AA	4r	.	4A	.	4cc#	4cc#	.	4cc#	4c#	.
+.	.	4r	4GG#	4r	G# minor-seventh	4G#	.	8bL	8bL	.	8bL	8BL	.
+.	.	.	.	.	.	.	.	8a	8a	.	8a	8A	.
+.	.	4r	4GG#	4r	.	4G#	.	8g#	8g#	.	8g#	8G#	.
+.	.	.	.	.	.	.	.	8f#J	8f#J	.	8f#J	8F#J	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+1r	1r	4r	4FF#	4r	F# minor-seventh	4F#	1r	2a	2a	1r	2a	2A	.
+.	.	4r	4FF#	4r	.	4F#	.	.	.	.	.	.	.
+.	.	4r	4BB	4r	B dominant	4B	.	2r	2r	.	2r	2r	.
+.	.	4r	4BB	4r	.	4BB	.	.	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
+1r	1r	4r	4AA	4r	A major	2AA	2e	2cc#	2e	2a	2cc#	2c#	.
+.	.	4r	4AA	4r	.	.	.	.	.	.	.	.	.
+.	.	4r	4GG#	4r	G# dominant	4.GG#	4.d#	4.dd#	4.g#	4.b#X	4.dd#	4.d#	.
+.	.	4r	4GG#	4r	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	[8C#	[8g#	[8ee	[8g#	[8cc#	[8ee	[8e	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
+1r	1r	4r	4C#	2r	C# minor	8C#]	8g#]	8ee]	8g#]	8cc#]	8ee]	8e]	.
+.	.	.	.	.	.	4c#	4g#	4cc#	4e	4g#	4cc#	4c#	.
+.	.	4r	4C#	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	[8B	[8b	[8b	[8B	[8b	[8b	[8B	.
+.	.	4r	4BB	4r	B minor	8BL]	8bL]	8bL]	8BL]	8bL]	8bL]	8BL]	.
+.	.	.	.	.	.	8G#	8g#	8g#	8g#	8g#	8g#	8G#	.
+.	.	4r	4E	4r	E dominant	8F#	8f#	8f#	8f#	8f#	8f#	8F#	.
+.	.	.	.	.	.	8EJ	8eJ	8eJ	8eJ	8eJ	8eJ	8EJ	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
+1r	1r	8r	8F#'L	8r	F# dominant	8F#'L	8c#'L	8e'L	8A#X'L	8F#'L	8e'L	8E'L	.
+.	.	8r	8F#'	8r	.	8F#'	8c#'	8e'	8A#'	8F#'	8e'	8E'	.
+.	.	8r	8F#'	8r	.	8F#'	8c#'	8e'	8A#'	8F#'	8e'	8E'	.
+.	.	8r	8F#'J	8r	.	8F#'J	8c#'J	8e'J	8A#'J	8F#'J	8e'J	8E'J	.
+.	.	8r	8F#'L	8r	.	8F#'L	8c#'L	8e'L	8A#'L	8F#'L	8e'L	8E'L	.
+.	.	8r	8F#'	8r	.	8F#'	8c#'	8e'	8A#'	8F#'	8e'	8E'	.
+.	.	8r	8F#'	8r	.	8F#'	8c#'	8e'	8A#'	8F#'	8e'	8E'	.
+.	.	8r	8F#'J	8r	.	8F#'J	8c#'J	8e'J	8A#'J	8F#'J	8e'J	8E'J	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
+1r	1r	4r	4BB'	4r	B major	4B'	4f#'	4b'	4AX'	4d#'	4b'	4B'	.
+.	.	2r	2BB~	2r	.	2B~	2f#~	4b~	4A~	2d#~	4b~	4B~	.
+.	.	.	.	.	.	.	.	8r	8r	.	8r	8r	.
+.	.	.	.	.	.	.	.	8g#L	8g#L	.	8g#L	8G#L	.
+.	.	4r	4BB	4r	.	4r	4r	8f#	8f#	4r	8f#	8F#	.
+.	.	.	.	.	.	.	.	8eJ	8eJ	.	8eJ	8EJ	.
+=43||	=43||	=43||	=43||	=43||	=43||	=43||	=43||	=43||	=43||	=43||	=43||	=43||	=43||
+1r	1r	4r	4E	4r	E major	4B	4b	1r	1r	4b	1r	4B	.
+.	.	4r	4E	4r	.	4B	4b	.	.	4b	.	4B	.
+.	.	4r	4D#	4r	B dominant/D#	8AL	8aL	.	.	8aL	.	8AL	.
+.	.	.	.	.	.	8G#	8g#	.	.	8g#	.	8G#	.
+.	.	4r	4D#	4r	.	8F#	8f#	.	.	8f#	.	8F#	.
+.	.	.	.	.	.	8G#J	8g#J	.	.	8g#J	.	8G#J	.
+=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44
+1r	1r	4r	4C#	4r	C# minor	4E	4e	1r	1r	4e	1r	4E	.
+.	.	4r	4C#	4r	.	4r	4r	.	.	4r	.	4r	.
+.	.	4r	4BB	4r	B minor	8EL	8eL	.	.	8eL	.	8EL	.
+.	.	.	.	.	.	8F#	8f#	.	.	8f#	.	8F#	.
+.	.	4r	4E	4r	E dominant	8G#	8g#	.	.	8g#	.	8G#	.
+.	.	.	.	.	.	8BJ	8bJ	.	.	8bJ	.	8BJ	.
+=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45
+1r	1r	4r	4AA	4r	A major	4c#	4cc#	1r	1r	4cc#	1r	4c#	.
+.	.	4r	4AA	4r	.	4c#	4cc#	.	.	4cc#	.	4c#	.
+.	.	4r	4GG#	4r	G# minor-seventh	8BL	8bL	.	.	8bL	.	8BL	.
+.	.	.	.	.	.	8A	8a	.	.	8a	.	8A	.
+.	.	4r	4GG#	4r	.	8G#	8g#	.	.	8g#	.	8G#	.
+.	.	.	.	.	.	8F#J	8f#J	.	.	8f#J	.	8F#J	.
+=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46
+1r	1r	4r	4FF#	4r	F# minor-seventh	2A	2a	1r	1r	2a	1r	2A	.
+.	.	4r	4FF#	4r	.	.	.	.	.	.	.	.	.
+.	.	4r	4BB	4r	B dominant	2r	2r	.	.	2r	.	2r	.
+.	.	4r	4BB	4r	.	.	.	.	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
+1r	1r	4r	4AA	4r	A major	2AA	2e	2cc#	2e	2a	2cc#	2A	.
+.	.	4r	4AA	4r	.	.	.	.	.	.	.	.	.
+.	.	4r	4GG#	4r	G# dominant	4.GG#	4.d#	4.dd#	4.g#	4.b#X	4.dd#	4.B#X	.
+.	.	4r	4GG#	4r	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	[8C#	[8g#	[8ee	[8g#	[8cc#	[8ee	[8c#	.
+=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48
+1r	1r	4r	4C#	2r	C# minor	8C#]	8g#]	8ee]	8g#]	8cc#]	8ee]	8c#]	.
+.	.	.	.	.	.	4c#	4g#	4cc#	4e	4g#	4cc#	4G#	.
+.	.	4r	4C#	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	[8B	[8b	[8b	[8B	[8b	[8b	[8B	.
+.	.	4r	4BB	4r	B minor	8BL]	8bL]	8bL]	8BL]	8bL]	8bL]	8BL]	.
+.	.	.	.	.	.	8G#	8g#	8g#	8g#	8g#	8g#	8G#	.
+.	.	4r	4E	4r	E dominant	8F#	8f#	8f#	8f#	8f#	8f#	8F#	.
+.	.	.	.	.	.	8EJ	8eJ	8eJ	8eJ	8eJ	8eJ	8EJ	.
+=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
+1r	1r	8r	8FF#'L	8r	F# dominant	8F#'L	8c#'L	8e'L	8A#X'L	8F#'L	8e'L	8E'L	.
+.	.	8r	8FF#'	8r	.	8F#'	8c#'	8e'	8A#'	8F#'	8e'	8E'	.
+.	.	8r	8FF#'	8r	.	8F#'	8c#'	8e'	8A#'	8F#'	8e'	8E'	.
+.	.	8r	8FF#'J	8r	.	8F#'J	8c#'J	8e'J	8A#'J	8F#'J	8e'J	8E'J	.
+.	.	8r	8FF#'L	8r	.	8F#'L	8c#'L	8e'L	8A#'L	8F#'L	8e'L	8E'L	.
+.	.	8r	8FF#'	8r	.	8F#'	8c#'	8e'	8A#'	8F#'	8e'	8E'	.
+.	.	8r	8FF#'	8r	.	8F#'	8c#'	8e'	8A#'	8F#'	8e'	8E'	.
+.	.	8r	8FF#'J	8r	.	8F#'J	8c#'J	8e'J	8A#'J	8F#'J	8e'J	8E'J	.
+=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50
+1r	1r	4r	4BB'	4r	B major	4B'	4f#'	4b'	4AX'	4d#'	4b'	4B'	.
+.	.	2r	2BB~	2r	.	2B~	2f#~	4b~	4A~	2d#~	4b~	4B~	.
+.	.	.	.	.	.	.	.	8r	8r	.	8r	8r	.
+.	.	.	.	.	.	.	.	8g#L	8g#L	.	8g#L	8G#L	.
+.	.	4r	4r	4r	.	4r	4r	8f#	8f#	4r	8f#	8F#	.
+.	.	.	.	.	.	.	.	8eJ	8eJ	.	8eJ	8EJ	.
+=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51
+1r	1r	4r	4E'	4r	E major	1r	1r	2e	2e	1r	2e	2E	.
+.	.	8r	8r	8r	.	.	.	.	.	.	.	.	.
+.	.	8r	8E'	8r	.	.	.	.	.	.	.	.	.
+.	.	4r	4C#'	4r	E major/C#	.	.	2r	2r	.	2r	2r	.
+.	.	4r	4BB'	4r	E major/B	.	.	.	.	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52
+1r	1r	4r	4r	4r	.	1r	1r	1r	1r	1r	1r	1r	.
+.	.	4r	4E'	4r	E major	.	.	.	.	.	.	.	.
+.	.	4r	4E'	4r	.	.	.	.	.	.	.	.	.
+.	.	4r	4r	4r	.	.	.	.	.	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53
+1r	1r	4r	4E'	4r	E major	1r	1r	1r	1r	1r	1r	1r	.
+.	.	8r	8r	8r	.	.	.	.	.	.	.	.	.
+.	.	8r	8E'	8r	.	.	.	.	.	.	.	.	.
+.	.	4r	4C#'	4r	E major/C#	.	.	.	.	.	.	.	.
+.	.	4r	4BB'	4r	E major/B	.	.	.	.	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54
+1r	1r	4r	4r	4r	.	1r	1r	1r	1r	1r	1r	1r	.
+.	.	4r	4E'	4r	E major	.	.	.	.	.	.	.	.
+.	.	4r	4E'	4r	.	.	.	.	.	.	.	.	.
+.	.	4r	4r	4r	.	.	.	.	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55
+1r	1r	4r	4E'	4r	E major	1r	1r	1r	1r	1r	1r	1r	.
+.	.	8r	8r	8r	.	.	.	.	.	.	.	.	.
+.	.	8r	8E'	8r	.	.	.	.	.	.	.	.	.
+.	.	4r	4C#'	4r	E major/C#	.	.	.	.	.	.	.	.
+.	.	4r	4BB'	4r	E major/B	.	.	.	.	.	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56
+1r	1r	4r	4r	4r	.	1r	1r	1r	1r	1r	1r	1r	.
+.	.	4r	4E'	4r	E major	.	.	.	.	.	.	.	.
+.	.	4r	4E'	4r	.	.	.	.	.	.	.	.	.
+.	.	4r	4r	4r	.	.	.	.	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
+1r	1r	4r	4E'	4r	E major	1r	4g#	4ee	4e	4B	1r	1r	.
+.	.	8r	8r	8r	.	.	8r	8r	8r	8r	.	.	.
+.	.	8r	8E'	8r	.	.	8g#	8ee	8e	8B	.	.	.
+.	.	4r	4C#'	4r	E major/C#	.	4g#	4cc#	4e	4B	.	.	.
+.	.	4r	4BB'	4r	E major/B	.	4g#	4b	4e	4B	.	.	.
+=58:|!	=58:|!	=58:|!	=58:|!	=58:|!	=58:|!	=58:|!	=58:|!	=58:|!	=58:|!	=58:|!	=58:|!	=58:|!	=58:|!
+1r	1r	2.r	2.E	4.E	E major	2E	1r	1r	2e	1r	2e	4.EE	E major
+.	.	.	.	8F#	.	.	.	.	.	.	.	8FF#	.
+.	.	.	.	4G#	.	2r	.	.	2r	.	2r	4GG#	.
+.	.	4r	[4D#	4B	G# minor-seventh/D#	.	.	.	.	.	.	4BB	G# minor-seventh/D#
+=59!|:	=59!|:	=59!|:	=59!|:	=59!|:	=59!|:	=59!|:	=59!|:	=59!|:	=59!|:	=59!|:	=59!|:	=59!|:	=59!|:
+1r	1r	2r	2D#_	2c#	.	1r	1r	1r	1r	1r	1r	2C#	.
+.	.	8r	8D#L]	2B	G# minor-seventh	.	.	.	.	.	.	2BB	G# minor-seventh
+.	.	8r	8GG#J	.	.	.	.	.	.	.	.	.	.
+.	.	4r	4D#	.	.	.	.	.	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60
+1r	1r	2.r	2.C#	4.E	C# minor	1r	1r	1r	1r	1r	1r	4.EE	C# minor
+.	.	.	.	8F#	.	.	.	.	.	.	.	8FF#	.
+.	.	.	.	4G#	.	.	.	.	.	.	.	4GG#	.
+.	.	4r	[4BB	4B	B minor	.	.	.	.	.	.	4BB	B minor
+=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61
+1r	1r	2r	2BB]	2c#	.	1r	1r	1r	1r	1r	1r	2C#	.
+.	.	4r	4E	2B	E major	.	.	.	.	.	.	2BB	E major
+.	.	4r	4BB	.	.	.	.	.	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62
+1r	1r	2.r	2.AA	2.r	A major	4e	1r	1r	1r	1r	1r	4E	.
+.	.	.	.	.	.	8d#L	.	.	.	.	.	8D#L	.
+.	.	.	.	.	.	8c#J	.	.	.	.	.	8C#J	.
+.	.	.	.	.	.	4B	.	.	.	.	.	4BB	.
+.	.	4r	[4GG#	4r	E major/G#	4A	.	.	.	.	.	4AA	.
+=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63
+1r	1r	1r	1GG#]	2r	.	2G#	1r	1r	1r	1r	1r	2GG#	.
+.	.	.	.	2r	.	2B	.	.	.	.	.	2BB	.
+=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64
+1r	1r	8r	8FF#L	8r	F# dominant	8A#XL	8c#L	8g#L	1r	1r	1r	8G#L	.
+.	.	8r	8FF#	8r	.	8A#	8c#	8g#	.	.	.	8G#	.
+.	.	8r	8FF#	8r	.	8A#	8c#	8g#	.	.	.	8G#	.
+.	.	8r	8FF#J	8r	.	8A#J	8c#J	8g#J	.	.	.	8G#J	.
+.	.	4r	4BB	4r	B major	4An	4B	4f#	.	.	.	4F#	.
+.	.	4r	4BB	4r	A major/B	4F#	4A	4c#	.	.	.	4C#	.
+=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65
+1r	1r	2.r	2.E	4.E	E major	2G#	2B	2e	1r	1r	1r	2E	.
+.	.	.	.	8F#	.	.	.	.	.	.	.	.	.
+.	.	.	.	4G#	.	2r	2r	2r	.	.	.	2r	.
+.	.	4r	4D#	4B	G# minor-seventh/D#	.	.	.	.	.	.	.	.
+=66:|!	=66:|!	=66:|!	=66:|!	=66:|!	=66:|!	=66:|!	=66:|!	=66:|!	=66:|!	=66:|!	=66:|!	=66:|!	=66:|!
+1r	1r	6r	6FF#	6r	F# dominant	6A#X	6c#	6g#	1r	1r	1r	6G#	.
+.	.	6r	6FF#	6r	.	6A#	6c#	6g#	.	.	.	6G#	.
+.	.	6r	6FF#	6r	.	6A#	6c#	6g#	.	.	.	6G#	.
+.	.	4r	4BB	4r	B major	4An	4B	4f#	.	.	.	4F#	.
+.	.	4r	4BB	4r	A major/B	4F#	4A	4c#	.	.	.	4C#	.
+=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67
+1r	1r	8r	8AAL	2r	A major	1r	4.e	4.e	1r	1r	1r	4.E	.
+.	.	8r	8AA	.	.	.	.	.	.	.	.	.	.
+.	.	8r	8AA	.	.	.	.	.	.	.	.	.	.
+.	.	8r	8AAJ	.	.	.	8f#	8f#	.	.	.	8F#	.
+.	.	8r	8AAL	2r	A major-seventh	.	4g#	4g#	.	.	.	4G#	.
+.	.	8r	8AA	.	.	.	.	.	.	.	.	.	.
+.	.	8r	8AA	.	.	.	4r	4r	.	.	.	4r	.
+.	.	8r	8AAJ	.	.	.	.	.	.	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68
+1r	1r	8r	8AA#XL	2r	F# dominant/A#	1r	4.e	4.e	1r	1r	1r	4.E	.
+.	.	8r	8AA#	.	.	.	.	.	.	.	.	.	.
+.	.	8r	8AA#	.	.	.	.	.	.	.	.	.	.
+.	.	8r	8AA#J	.	.	.	8f#	8f#	.	.	.	8F#	.
+.	.	8r	8AA#L	2r	.	.	4g#	4g#	.	.	.	4G#	.
+.	.	8r	8AA#	.	.	.	.	.	.	.	.	.	.
+.	.	8r	8AA#	.	.	.	4r	4r	.	.	.	4r	.
+.	.	8r	8AA#J	.	.	.	.	.	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69
+1r	1r	2r	2E	2r	E major	2E	4e	4e	2e	2g#	2b	4E	.
+.	.	.	.	.	.	.	4g#	4b	.	.	.	4B	.
+.	.	2r	2D#	2r	B major/D#	2D#	4f#	4b	2d#	2f#	2b	4B	.
+.	.	.	.	.	.	.	4f#	4cc#	.	.	.	4c#	.
+=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70
+1r	1r	2r	2C#	2r	C# minor	2C#	4g#	4ee	2c#	2e	2g#	4e	.
+.	.	.	.	.	.	.	4e	4cc#	.	.	.	4c#	.
+.	.	4r	4BB	4r	B minor	4BB	4d	4b	4B	4d	4f#	4B	.
+.	.	4r	4E	4r	E dominant	4E	4e	4g#	4B	4e	4g#	4G#	.
+=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71
+1r	1r	8r	8AAL	2r	A major	1r	4.e	4.e	8AL	8c#L	16g#LL	4.E	.
+.	.	.	.	.	.	.	.	.	.	.	16f#	.	.
+.	.	8r	8AA	.	.	.	.	.	8A	8c#	16e	.	.
+.	.	.	.	.	.	.	.	.	.	.	16f#JJ	.	.
+.	.	8r	8AA	.	.	.	.	.	8A	8c#	16g#LL	.	.
+.	.	.	.	.	.	.	.	.	.	.	16f#	.	.
+.	.	8r	8AAJ	.	.	.	8f#	8f#	8AJ	8c#J	16e	8F#	.
+.	.	.	.	.	.	.	.	.	.	.	16f#JJ	.	.
+.	.	8r	8AAL	2r	A major-seventh	.	4g#	4g#	8AL	8c#L	16g#LL	4G#	.
+.	.	.	.	.	.	.	.	.	.	.	16f#	.	.
+.	.	8r	8AA	.	.	.	.	.	8A	8c#	16e	.	.
+.	.	.	.	.	.	.	.	.	.	.	16f#JJ	.	.
+.	.	8r	8AA	.	.	.	4r	4r	8A	8c#	16g#LL	4r	.
+.	.	.	.	.	.	.	.	.	.	.	16f#	.	.
+.	.	8r	8AAJ	.	.	.	.	.	8AJ	8c#J	16e	.	.
+.	.	.	.	.	.	.	.	.	.	.	16f#JJ	.	.
+=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72
+1r	1r	8r	8AA#XL	2r	F# dominant/A#	1r	4.e	4.e	8A#XL	8c#L	16g#LL	4.E	.
+.	.	.	.	.	.	.	.	.	.	.	16f#	.	.
+.	.	8r	8AA#	.	.	.	.	.	8A#	8c#	16e	.	.
+.	.	.	.	.	.	.	.	.	.	.	16f#JJ	.	.
+.	.	8r	8AA#	.	.	.	.	.	8A#	8c#	16g#LL	.	.
+.	.	.	.	.	.	.	.	.	.	.	16f#	.	.
+.	.	8r	8AA#J	.	.	.	8f#	8f#	8A#J	8c#J	16e	8F#	.
+.	.	.	.	.	.	.	.	.	.	.	16f#JJ	.	.
+.	.	8r	8AA#L	2r	.	.	4g#	4g#	8A#L	8c#L	16g#LL	4G#	.
+.	.	.	.	.	.	.	.	.	.	.	16f#	.	.
+.	.	8r	8AA#	.	.	.	.	.	8A#	8c#	16e	.	.
+.	.	.	.	.	.	.	.	.	.	.	16f#JJ	.	.
+.	.	8r	8AA#	.	.	.	4r	4r	8A#	8c#	16g#LL	4r	.
+.	.	.	.	.	.	.	.	.	.	.	16f#	.	.
+.	.	8r	8AA#J	.	.	.	.	.	8A#J	8c#J	16e	.	.
+.	.	.	.	.	.	.	.	.	.	.	16f#JJ	.	.
+=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73
+1r	1r	4.r	4.BB	4.r	B major	4.BB	4.f#	4b	4.d#	4.f#	4b	4B	.
+.	.	.	.	.	.	.	.	8g#L	.	.	8g#L	8G#L	.
+.	.	8r	[8AA	8r	B major/A	[8AA	[8f#	[8bJ	[8d#	[8f#	[8bJ	[8BJ	.
+.	.	4.r	4.AA]	4.r	.	4.AA]	4.f#]	8b]	4.d#]	4.f#]	8b]	8B]	.
+.	.	.	.	.	.	.	.	4g#	.	.	4g#	4G#	.
+.	.	8r	[8GG#	8r	B major/G#	[8GG#	[8f#	[8b	[8d#	[8f#	[8b	[8B	.
+=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74
+1r	1r	4.r	4.GG#]	4.r	.	4.GG#]	4.f#]	8b]	4.d#]	4.f#]	8b]	8B]	.
+.	.	.	.	.	.	.	.	4g#	.	.	4g#	4G#	.
+.	.	8r	[8FF#	8r	B major/F#	[8FF#	[8f#	[8b	[8d#	[8f#	[8b	[8B	.
+.	.	2r	2FF#]	2r	.	2FF#]	2f#_	8bL]	2d#_	2f#_	8bL]	8BL]	.
+.	.	.	.	.	.	.	.	8cc#J	.	.	8cc#J	8c#J	.
+.	.	.	.	.	.	.	.	[4b	.	.	[4b	[4B	.
+=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75
+1r	1r	4r	4FF#	2r	.	2BB	2f#]	2b]	2d#]	2f#]	2b]	2B]	.
+.	.	4r	4FF#	.	.	.	.	.	.	.	.	.	.
+.	.	4r	4FF#	2r	.	2r	2r	2r	2r	2r	2r	2r	.
+.	.	4r	4F#	.	.	.	.	.	.	.	.	.	.
+=76||	=76||	=76||	=76||	=76||	=76||	=76||	=76||	=76||	=76||	=76||	=76||	=76||	=76||
+1r	1r	1r	1C#	1r	C# minor-seventh	2.B	1r	1r	2.b	1r	1r	2.B	.
+.	.	.	.	.	.	8c#L	.	.	8cc#L	.	.	8c#L	.
+.	.	.	.	.	.	[8eJ	.	.	[8eeJ	.	.	[8eJ	.
+=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77
+1r	1r	2r	2BB	2r	B minor-seventh	2e]	1r	1r	2ee]	1r	1r	2e]	.
+.	.	2r	2E	2r	E dominant	4r	.	.	4r	.	.	4r	.
+.	.	.	.	.	.	4G#	.	.	4g#	.	.	4G#	.
+=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78
+1r	1r	1r	1AA	1r	A major-seventh	4F#	1r	1r	4f#	1r	1r	4F#	.
+.	.	.	.	.	.	4E	.	.	4e	.	.	4E	.
+.	.	.	.	.	.	4F#	.	.	4f#	.	.	4F#	.
+.	.	.	.	.	.	8G#L	.	.	8g#L	.	.	8G#L	.
+.	.	.	.	.	.	[8BJ	.	.	[8bJ	.	.	[8BJ	.
+=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79
+1r	1r	1r	1GG#	2r	E major/G#	2B]	1r	1r	2b]	1r	1r	2B]	.
+.	.	.	.	2r	.	4r	.	.	4r	.	.	4r	.
+.	.	.	.	.	.	4G#	.	.	4g#	.	.	4G#	.
+=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80
+1r	1r	4r	4FF#	2r	F# minor	4F#	1r	1r	4f#	1r	1r	4F#	.
+.	.	4r	4FF#	.	.	4E	.	.	4e	.	.	4E	.
+.	.	4r	4GG#	2r	E major/G#	4F#	.	.	4f#	.	.	4F#	.
+.	.	4r	4GG#	.	.	4G#	.	.	4g#	.	.	4G#	.
+=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81
+1r	1r	4r	4AA	2r	A major-seventh	4B	1r	1r	4b	1r	1r	4B	.
+.	.	4r	4AA	.	.	4c#	.	.	4cc#	.	.	4c#	.
+.	.	4r	4BB	2r	B major	8G#L	.	.	8g#L	.	.	8G#L	.
+.	.	.	.	.	.	8F#J	.	.	8f#J	.	.	8F#J	.
+.	.	4r	4BB	.	.	4E	.	.	4e	.	.	4E	.
+=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82
+1r	1r	4r	4C#	1r	C# minor-seventh	2.B	1r	1r	2.b	1r	2.b	2.B	.
+.	.	4r	4C#	.	.	.	.	.	.	.	.	.	.
+.	.	4r	4C#	.	.	.	.	.	.	.	.	.	.
+.	.	4r	4C#	.	.	8c#L	.	.	8cc#L	.	8cc#L	8c#L	.
+.	.	.	.	.	.	[8eJ	.	.	[8eeJ	.	[8eeJ	[8eJ	.
+=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83
+1r	1r	4r	4BB	2r	B minor-seventh	2e]	2B	2d	2ee]	2a	2ee]	2e]	.
+.	.	4r	4BB	.	.	.	.	.	.	.	.	.	.
+.	.	4r	4E	2r	E dominant	4r	2B	2d	4r	2g#	4r	4r	.
+.	.	4r	4E	.	.	4G#	.	.	4g#	.	4g#	4G#	.
+=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84
+1r	1r	4r	4AA	1r	A major-seventh	4F#	1c#	1e	4f#	1A	4f#	4F#	.
+.	.	4r	4AA	.	.	4E	.	.	4e	.	4e	4E	.
+.	.	4r	4AA	.	.	4F#	.	.	4f#	.	4f#	4F#	.
+.	.	4r	4AA	.	.	8G#L	.	.	8g#L	.	8g#L	8G#L	.
+.	.	.	.	.	.	[8BJ	.	.	[8bJ	.	[8bJ	[8BJ	.
+=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85
+1r	1r	4r	4GG#	2r	E major/G#	2B]	2B	2f#	2b]	2e	2b]	2B]	.
+.	.	4r	4GG#	.	.	.	.	.	.	.	.	.	.
+.	.	4r	4GG#	2r	.	4r	2B	2g#	4r	2e	4r	4r	.
+.	.	4r	4GG#	.	.	4G#	.	.	4g#	.	4g#	4G#	.
+=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86
+1r	1r	4r	4FF#	2r	F# minor	4F#	1r	1r	4f#	1r	4f#	4F#	.
+.	.	4r	4FF#	.	.	4E	.	.	4e	.	4e	4E	.
+.	.	4r	4GG#	2r	E major/G#	4F#	.	.	4f#	.	4f#	4F#	.
+.	.	4r	4GG#	.	.	4G#	.	.	4g#	.	4g#	4G#	.
+=87	=87	=87	=87	=87	=87	=87	=87	=87	=87	=87	=87	=87	=87
+1r	1r	4r	4AA	2r	A major	4B	2d#	2f#	4b	2a	4b	4B	.
+.	.	4r	4AA	.	.	4c#	.	.	4cc#	.	4cc#	4c#	.
+.	.	4r	4BB	2r	F# minor-seventh/B	8G#L	2A	2d#	8g#L	2B	8g#L	8G#L	.
+.	.	.	.	.	.	8F#J	.	.	8f#J	.	8f#J	8F#J	.
+.	.	4r	4BB	.	.	4E	.	.	4e	.	4e	4E	.
+=88	=88	=88	=88	=88	=88	=88	=88	=88	=88	=88	=88	=88	=88
+1r	1r	4r	4Cn	1r	C dominant	1E	1B-	1g	1e	1c	1e	1E	.
+.	.	4r	4C	.	.	.	.	.	.	.	.	.	.
+.	.	4r	4C	.	.	.	.	.	.	.	.	.	.
+.	.	4r	4C	.	.	.	.	.	.	.	.	.	.
+=89	=89	=89	=89	=89	=89	=89	=89	=89	=89	=89	=89	=89	=89
+1r	1r	8r	8CnL	8r	C dominant	8GnL	8cL	8gL	8b-L	8ccL	8eL	8GnL	.
+.	.	8r	8C	8r	.	8G	8c	8g	8b-	8cc	8e	8G	.
+.	.	8r	8C	8r	.	8G	8c	8g	8b-	8cc	8e	8G	.
+.	.	8r	8CJ	8r	.	8GJ	8cJ	8gJ	8b-J	8ccJ	8eJ	8GJ	.
+.	.	4r	4C	4r	.	4G	4c	4g	4b-	4cc	4e	4G	.
+.	.	4r	4r	4r	.	4r	4r	4r	4r	4r	4r	4r	.
+=90||	=90||	=90||	=90||	=90||	=90||	=90||	=90||	=90||	=90||	=90||	=90||	=90||	=90||
+*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*
+1r	1r	4r	4F	4r	F major	4F	1r	4cc	4cc	1r	4cc	4c	.
+.	.	4r	4F	4r	.	4F	.	4cc	4cc	.	4cc	4c	.
+.	.	4r	4E	4r	C dominant/E	4E	.	8b-L	8b-L	.	8b-L	8B-L	.
+.	.	.	.	.	.	.	.	8a	8a	.	8a	8A	.
+.	.	4r	4E	4r	.	4E	.	8g	8g	.	8g	8G	.
+.	.	.	.	.	.	.	.	8aJ	8aJ	.	8aJ	8AJ	.
+=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91
+1r	1r	4r	4D	4r	D minor	4D	1r	4f	4f	1r	4f	4F	.
+.	.	4r	4D	4r	.	4D	.	4r	4r	.	4r	4r	.
+.	.	4r	4C	4r	C minor	4C	.	8fL	8fL	.	8fL	8FL	.
+.	.	.	.	.	.	.	.	8g	8g	.	8g	8G	.
+.	.	4r	4F	4r	F dominant	4F	.	8a	8a	.	8a	8A	.
+.	.	.	.	.	.	.	.	8ccJ	8ccJ	.	8ccJ	8cJ	.
+=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92
+1r	1r	4r	4BB-	4r	B- major	4B-	1r	4dd	4dd	1r	4dd	4d	.
+.	.	4r	4BB-	4r	.	4B-	.	4dd	4dd	.	4dd	4d	.
+.	.	4r	4AA	4r	A minor-seventh	4A	.	8ccL	8ccL	.	8ccL	8cL	.
+.	.	.	.	.	.	.	.	8b-	8b-	.	8b-	8B-	.
+.	.	4r	4AA	4r	.	4A	.	8a	8a	.	8a	8A	.
+.	.	.	.	.	.	.	.	8gJ	8gJ	.	8gJ	8GJ	.
+=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93
+1r	1r	4r	4GG	4r	G minor-seventh	4G	1r	2b-	2b-	1r	2b-	2B-	.
+.	.	4r	4GG	4r	.	4G	.	.	.	.	.	.	.
+.	.	4r	4C	4r	C dominant	4c	.	2r	2r	.	2r	2r	.
+.	.	4r	4C	4r	.	4C	.	.	.	.	.	.	.
+=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94
+1r	1r	4r	4BB-	4r	B- major	2BB-	2f	2dd	2f	2b-	2dd	2d	.
+.	.	4r	4BB-	4r	.	.	.	.	.	.	.	.	.
+.	.	4r	4AA	4r	A dominant	4.AA	4.e	4.ee	4.a	4.cc#X	4.ee	4.e	.
+.	.	4r	4AA	4r	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	[8D	[8a	[8ff	[8a	[8dd	[8ff	[8f	.
+=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95
+1r	1r	4r	4D	2r	D minor	8D]	8a]	8ff]	8a]	8dd]	8ff]	8f]	.
+.	.	.	.	.	.	4d	4a	4dd	4f	4a	4dd	4d	.
+.	.	4r	4D	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	[8c	[8cc	[8cc	[8c	[8cc	[8cc	[8c	.
+.	.	4r	4C	4r	C minor	8cL]	8ccL]	8ccL]	8cL]	8ccL]	8ccL]	8cL]	.
+.	.	.	.	.	.	8A	8a	8a	8a	8a	8a	8A	.
+.	.	4r	4F	4r	F dominant	8G	8g	8g	8g	8g	8g	8G	.
+.	.	.	.	.	.	8FJ	8fJ	8fJ	8fJ	8fJ	8fJ	8FJ	.
+=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96
+1r	1r	8r	8GG'L	8r	G dominant	8G'L	8d'L	8f'L	8BX'L	8G'L	8f'L	8F'L	.
+.	.	8r	8GG'	8r	.	8G'	8d'	8f'	8B'	8G'	8f'	8F'	.
+.	.	8r	8GG'	8r	.	8G'	8d'	8f'	8B'	8G'	8f'	8F'	.
+.	.	8r	8GG'J	8r	.	8G'J	8d'J	8f'J	8B'J	8G'J	8f'J	8F'J	.
+.	.	8r	8GG'L	8r	.	8G'L	8d'L	8f'L	8B'L	8G'L	8f'L	8F'L	.
+.	.	8r	8GG'	8r	.	8G'	8d'	8f'	8B'	8G'	8f'	8F'	.
+.	.	8r	8GG'	8r	.	8G'	8d'	8f'	8B'	8G'	8f'	8F'	.
+.	.	8r	8GG'J	8r	.	8G'J	8d'J	8f'J	8B'J	8G'J	8f'J	8F'J	.
+=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97
+1r	1r	4r	4C'	4r	C major	4c'	4g'	4cc'	4B-'	4e'	4cc'	4c'	.
+.	.	2r	2C~	2r	.	2c~	2g~	4cc~	4B-~	2e~	4cc~	4c~	.
+.	.	.	.	.	.	.	.	8r	8r	.	8r	8r	.
+.	.	.	.	.	.	.	.	8aL	8aL	.	8aL	8AL	.
+.	.	4r	4C	4r	.	4r	4r	8g	8g	4r	8g	8G	.
+.	.	.	.	.	.	.	.	8fJ	8fJ	.	8fJ	8FJ	.
+=98||	=98||	=98||	=98||	=98||	=98||	=98||	=98||	=98||	=98||	=98||	=98||	=98||	=98||
+1r	1r	4r	4F	4r	F major	4c	4cc	1r	1r	4cc	1r	4c	.
+.	.	4r	4F	4r	.	4c	4cc	.	.	4cc	.	4c	.
+.	.	4r	4E	4r	C dominant/E	8B-L	8b-L	.	.	8b-L	.	8B-L	.
+.	.	.	.	.	.	8A	8a	.	.	8a	.	8A	.
+.	.	4r	4E	4r	.	8G	8g	.	.	8g	.	8G	.
+.	.	.	.	.	.	8AJ	8aJ	.	.	8aJ	.	8AJ	.
+=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99
+1r	1r	4r	4D	4r	D minor	4F	4f	1r	1r	4f	1r	4F	.
+.	.	4r	4D	4r	.	4r	4r	.	.	4r	.	4r	.
+.	.	4r	4C	4r	C minor	8FL	8fL	.	.	8fL	.	8FL	.
+.	.	.	.	.	.	8G	8g	.	.	8g	.	8G	.
+.	.	4r	4F	4r	F dominant	8A	8a	.	.	8a	.	8A	.
+.	.	.	.	.	.	8cJ	8ccJ	.	.	8ccJ	.	8cJ	.
+=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100
+1r	1r	4r	4BB-	4r	B- major	4d	4dd	1r	1r	4dd	1r	4d	.
+.	.	4r	4BB-	4r	.	4d	4dd	.	.	4dd	.	4d	.
+.	.	4r	4AA	4r	A minor-seventh	8cL	8ccL	.	.	8ccL	.	8cL	.
+.	.	.	.	.	.	8B-	8b-	.	.	8b-	.	8B-	.
+.	.	4r	4AA	4r	.	8A	8a	.	.	8a	.	8A	.
+.	.	.	.	.	.	8GJ	8gJ	.	.	8gJ	.	8GJ	.
+=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101
+1r	1r	4r	4GG	4r	G minor-seventh	2B-	2b-	1r	1r	2b-	1r	2B-	.
+.	.	4r	4GG	4r	.	.	.	.	.	.	.	.	.
+.	.	4r	4C	4r	C dominant	2r	2r	.	.	2r	.	2r	.
+.	.	4r	4C	4r	.	.	.	.	.	.	.	.	.
+=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102
+1r	1r	4r	4BB-	4r	B- major	2BB-	2f	2dd	2f	2b-	2dd	2d	.
+.	.	4r	4BB-	4r	.	.	.	.	.	.	.	.	.
+.	.	4r	4AA	4r	A dominant	4.AA	4.e	4.ee	4.a	4.cc#X	4.ee	4.e	.
+.	.	4r	4AA	4r	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	[8D	[8a	[8ff	[8a	[8dd	[8ff	[8f	.
+=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103
+1r	1r	4r	4D	2r	D minor	8D]	8a]	8ff]	8a]	8dd]	8ff]	8f]	.
+.	.	.	.	.	.	4d	4a	4dd	4f	4a	4dd	4d	.
+.	.	4r	4D	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	[8c	[8cc	[8cc	[8c	[8cc	[8cc	[8c	.
+.	.	4r	4C	4r	C minor	8cL]	8ccL]	8ccL]	8cL]	8ccL]	8ccL]	8cL]	.
+.	.	.	.	.	.	8A	8a	8a	8a	8a	8a	8A	.
+.	.	4r	4F	4r	F dominant	8G	8g	8g	8g	8g	8g	8G	.
+.	.	.	.	.	.	8FJ	8fJ	8fJ	8fJ	8fJ	8fJ	8FJ	.
+=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104
+1r	1r	8r	8GG'L	8r	G dominant	8G'L	8d'L	8f'L	8BX'L	8G'L	8f'L	8F'L	.
+.	.	8r	8GG'	8r	.	8G'	8d'	8f'	8B'	8G'	8f'	8F'	.
+.	.	8r	8GG'	8r	.	8G'	8d'	8f'	8B'	8G'	8f'	8F'	.
+.	.	8r	8GG'J	8r	.	8G'J	8d'J	8f'J	8B'J	8G'J	8f'J	8F'J	.
+.	.	8r	8GG'L	8r	.	8G'L	8d'L	8f'L	8B'L	8G'L	8f'L	8F'L	.
+.	.	8r	8GG'	8r	.	8G'	8d'	8f'	8B'	8G'	8f'	8F'	.
+.	.	8r	8GG'	8r	.	8G'	8d'	8f'	8B'	8G'	8f'	8F'	.
+.	.	8r	8GG'J	8r	.	8G'J	8d'J	8f'J	8B'J	8G'J	8f'J	8F'J	.
+=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105
+1r	1r	4r	4C'	4r	C dominant	4c'	4g'	4cc'	4B-'	4e'	4cc'	4c'	.
+.	.	2r	2C~	2r	.	2c~	2g~	4cc~	4B-~	2e~	4cc~	4c~	.
+.	.	.	.	.	.	.	.	8r	8r	.	8r	8r	.
+.	.	.	.	.	.	.	.	8aL	8aL	.	8aL	8AL	.
+.	.	4r	4r	4r	.	4r	4r	8g	8g	4r	8g	8G	.
+.	.	.	.	.	.	.	.	8fJ	8fJ	.	8fJ	8FJ	.
+=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106
+1r	1r	8r	8GG'L	8r	G dominant	8G'L	8d'L	8f'L	8BX'L	8G'L	8f'L	8F'L	.
+.	.	8r	8GG'	8r	.	8G'	8d'	8f'	8B'	8G'	8f'	8F'	.
+.	.	8r	8GG'	8r	.	8G'	8d'	8f'	8B'	8G'	8f'	8F'	.
+.	.	8r	8GG'J	8r	.	8G'J	8d'J	8f'J	8B'J	8G'J	8f'J	8F'J	.
+.	.	8r	8GG'L	8r	.	8G'L	8d'L	8f'L	8B'L	8G'L	8f'L	8F'L	.
+.	.	8r	8GG'	8r	.	8G'	8d'	8f'	8B'	8G'	8f'	8F'	.
+.	.	8r	8GG'	8r	.	8G'	8d'	8f'	8B'	8G'	8f'	8F'	.
+.	.	8r	8GG'J	8r	.	8G'J	8d'J	8f'J	8B'J	8G'J	8f'J	8F'J	.
+=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107
+1r	1r	4r	4C'	4r	C dominant	4c'	4g'	4cc'	4B-'	4e'	4cc'	4c'	.
+.	.	2r	2C~	2r	.	4c~	4g~	4cc~	4B-~	4e~	4cc~	4c~	.
+.	.	.	.	.	.	8r	8r	8r	8r	8r	8r	8r	.
+.	.	.	.	.	.	8AL	8aL	8aL	8aL	8aaL	8aaL	8aL	.
+.	.	4r	4r	4r	.	8G	8g	8g	8g	8gg	8gg	8g	.
+.	.	.	.	.	.	8FJ	8fJ	8fJ	8fJ	8ffJ	8ffJ	8fJ	.
+=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108
+1r	1r	8r	8GG'L	8r	G dominant	8G'L	8bX'L	8dd'L	8a'L	8g'L	8ff'L	8f'L	.
+.	.	8r	8GG'	8r	.	8G'	8b'	8dd'	8a'	8g'	8ff'	8f'	.
+.	.	8r	8GG'	8r	.	8G'	8b'	8dd'	8a'	8g'	8ff'	8f'	.
+.	.	8r	8GG'J	8r	.	8G'J	8b'J	8dd'J	8a'J	8g'J	8ff'J	8f'J	.
+.	.	8r	8GG'L	8r	.	8G'L	8b'L	8dd'L	8a'L	8g'L	8ff'L	8f'L	.
+.	.	8r	8GG'	8r	.	8G'	8b'	8dd'	8a'	8g'	8ff'	8f'	.
+.	.	8r	8GG'	8r	.	8G'	8b'	8dd'	8a'	8g'	8ff'	8f'	.
+.	.	8r	8GG'J	8r	.	8G'J	8b'J	8dd'J	8a'J	8g'J	8ff'J	8f'J	.
+=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109
+1r	1r	4r	4C'	4r	C dominant	4c'	4g'	4cc'	4b-'	4ee'	4ccc'	4cc'	.
+.	.	2r	2C~	2r	.	4c~	4g~	4cc~	4b-~	4ee~	4ccc~	4cc~	.
+.	.	.	.	.	.	8r	8r	8r	8r	8r	8r	8r	.
+.	.	.	.	.	.	8AL	8aL	8aL	8aL	8aaL	8aaL	8aL	.
+.	.	4r	4r	4r	.	8G	8g	8g	8g	8gg	8gg	8g	.
+.	.	.	.	.	.	8FJ	8fJ	8fJ	8fJ	8ffJ	8ffJ	8fJ	.
+=110||	=110||	=110||	=110||	=110||	=110||	=110||	=110||	=110||	=110||	=110||	=110||	=110||	=110||
+1r	1r	4r	4F'	4r	F major	4F	4f	4f	4f	4ff	4ff	4f	.
+.	.	8r	8r	8r	.	4r	4r	4r	4r	4r	4r	4r	.
+.	.	8r	8F'	8r	.	.	.	.	.	.	.	.	.
+.	.	4r	4D'	4r	F major/D	2r	2r	2r	2r	2r	2r	2r	.
+.	.	4r	4C'	4r	F major/C	.	.	.	.	.	.	.	.
+=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111
+1r	1r	4r	4r	4r	.	1r	1r	1r	1r	1r	1r	1r	.
+.	.	4r	4F'	4r	F major	.	.	.	.	.	.	.	.
+.	.	4r	4F'	4r	.	.	.	.	.	.	.	.	.
+.	.	4r	4r	4r	.	.	.	.	.	.	.	.	.
+=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112
+1r	1r	4r	4F'	4r	F major	1r	1r	1r	1r	1r	1r	1r	.
+.	.	8r	8r	8r	.	.	.	.	.	.	.	.	.
+.	.	8r	8F'	8r	.	.	.	.	.	.	.	.	.
+.	.	4r	4D'	4r	F major/D	.	.	.	.	.	.	.	.
+.	.	4r	4C'	4r	F major/C	.	.	.	.	.	.	.	.
+=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113
+1r	1r	4r	4r	4r	.	1r	1r	1r	1r	1r	1r	1r	.
+.	.	4r	4F'	4r	F major	.	.	.	.	.	.	.	.
+.	.	4r	4F'	4r	.	.	.	.	.	.	.	.	.
+.	.	4r	4r	4r	.	.	.	.	.	.	.	.	.
+=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114
+1r	1r	4r	4F'	4r	F major	1r	1r	1r	4c'	4A'	4f'	1r	.
+.	.	8r	8r	8r	.	.	.	.	8r	8r	8r	.	.
+.	.	8r	8F'	8r	.	.	.	.	8c'	8A'	8f'	.	.
+.	.	4r	4D'	4r	F major/D	.	.	.	4c'	4A'	4d'	.	.
+.	.	4r	4C'	4r	F major/C	.	.	.	4c'	4A'	4c'	.	.
+=115	=115	=115	=115	=115	=115	=115	=115	=115	=115	=115	=115	=115	=115
+1r	1r	4r	4r	4r	.	1r	1r	1r	4r	4r	4r	1r	.
+.	.	4r	4F'	4r	F major	.	.	.	4c'	4A'	4f'	.	.
+.	.	4r	4F'	4r	.	.	.	.	4c'	4A'	4f'	.	.
+.	.	4r	4r	4r	.	.	.	.	4r	4r	4r	.	.
+=116	=116	=116	=116	=116	=116	=116	=116	=116	=116	=116	=116	=116	=116
+1r	1r	4r	4F'	4r	F major	4c	4a	4ff	4f	4c	4ff	1r	.
+.	.	8r	8r	8r	.	8r	8r	8r	8r	8r	8r	.	.
+.	.	8r	8F'	8r	.	8c	8a	8ff	8f	8c	8ff	.	.
+.	.	4r	4D'	4r	F major/D	4c'	4a'	4dd'	4f'	4c'	4dd'	.	.
+.	.	4r	4C'	4r	F major/C	4c'	4a'	4cc'	4f'	4c'	4cc'	.	.
+=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117
+1r	1r	4r	4F'	4r	F major	4F	4a	4ff	4f	4c	4ff	1r	.
+.	.	4r	4r	4r	.	4r	4r	4r	4r	4r	4r	.	.
+.	.	2r	2r	2r	.	2r	2r	2r	2r	2r	2r	.	.
+==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-

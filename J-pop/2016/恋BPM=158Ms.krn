@@ -1,0 +1,523 @@
+!!!OTL: 恋/星野源
+**kern	**kern	**kern	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**mxhm
+*part8	*part7	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1	*part1
+*staff8	*staff7	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1	*
+*I"ハンドクラップ	*I"ドラムセット	*I"ベース	*I"フォース	*	*I"サード	*	*I"セカンド	*	*I"ファースト	*	*I"リード	*	*
+*I'Hd. Clp.	*I'Drs.	*I'Bass.	*I'4th.	*	*I'3rd.	*	*I'2nd.	*	*I'1st.	*	*I'Le.	*	*
+*stria1	*	*	*	*	*	*	*	*	*	*	*	*	*
+*clefX	*clefX	*clefF4	*clefGv2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefGv2	*	*
+*k[]	*k[]	*k[f#c#g#]	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*
+*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*
+*MM158	*MM158	*MM158	*MM158	*	*MM158	*	*MM158	*	*MM158	*	*MM158	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*^	*	*	*	*	*	*	*	*	*	*	*	*
+1r	4Raa/	4Rf\	2D	2d	lu	[4c#	lu	2f#	lu	2a	lu	1r	.	D major-seventh
+.	4r	4r	.	.	.	8c#L]	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8BJ	lu	.	.	.	.	.	.	.
+.	4Raa/	4Rf\	2C#	2c#	lu	8c#L	...	2e	lu	2g#	lu	.	.	C# minor
+.	.	.	.	.	.	8e	.	.	.	.	.	.	.	.
+.	4r	4r	.	.	.	8c#	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8BJ	.	.	.	.	.	.	.	.
+*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1r	1ryy	2FF#	2c#	lu	[4c#	.	2f#	lu	2a	lu	1r	.	F# minor
+.	.	.	.	.	8c#L]	.	.	.	.	.	.	.	.
+.	.	.	.	.	8BJ	.	.	.	.	.	.	.	.
+.	.	2AA	2c#	lu	8c#L	.	2e	lu	2a	lu	.	.	E major/A
+.	.	.	.	.	8e	.	.	.	.	.	.	.	.
+.	.	.	.	.	8c#	.	.	.	.	.	.	.	.
+.	.	.	.	.	8BJ	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+1r	1ryy	2D	2d	lu	[4c#	.	2f#	lu	2a	lu	1r	.	D major-seventh
+.	.	.	.	.	8c#L]	.	.	.	.	.	.	.	.
+.	.	.	.	.	8BJ	.	.	.	.	.	.	.	.
+.	.	2C#	2c#	lu	8c#L	.	2fn	lu	2g#	lu	.	.	C# major
+.	.	.	.	.	8fn	.	.	.	.	.	.	.	.
+.	.	.	.	.	8c#	.	.	.	.	.	.	.	.
+.	.	.	.	.	8BJ	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+1r	1ryy	2FF#	2c#	lu	[4c#	.	2f#	lu	2a	lu	1r	.	F# minor
+.	.	.	.	.	8c#L]	.	.	.	.	.	.	.	.
+.	.	.	.	.	8BJ	.	.	.	.	.	.	.	.
+.	.	2AA	2c#	lu	8f#L	.	2e	lu	2a	lu	.	.	E major/A
+.	.	.	.	.	8e	.	.	.	.	.	.	.	.
+.	.	.	.	.	8c#	.	.	.	.	.	.	.	.
+.	.	.	.	.	8BJ	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+*	*^	*	*	*	*	*	*	*	*	*	*	*	*
+4r	4Raa/	4Rf\	2D	2d	lu	[4c#	.	2f#	lu	2a	lu	1r	.	D major-seventh
+4Re/	4Rcc/	4Rf\	.	.	.	8c#L]	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8BJ	.	.	.	.	.	.	.	.
+4r	4Raa/	4Rf\	2C#	2c#	lu	8c#L	.	2e	lu	2g#	lu	.	.	C# minor
+.	.	.	.	.	.	8e	.	.	.	.	.	.	.	.
+4Re/	4Rcc/	4Rf\	.	.	.	8c#	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8BJ	.	.	.	.	.	.	.	.
+*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+1ryy	1ryy	2FF#	2c#	lu	[4c#	.	2f#	lu	2a	lu	1r	.	F# minor
+.	.	.	.	.	8c#L]	.	.	.	.	.	.	.	.
+.	.	.	.	.	8BJ	.	.	.	.	.	.	.	.
+.	.	2AA	2c#	lu	8f#L	.	2e	lu	2a	lu	.	.	E major/A
+.	.	.	.	.	8e	.	.	.	.	.	.	.	.
+.	.	.	.	.	8c#	.	.	.	.	.	.	.	.
+.	.	.	.	.	8BJ	.	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+*	*^	*	*	*	*	*	*	*	*	*	*	*	*
+1ryy	4r	4Rf\	4BB	2.A	lu	4A	lu	4d	lu	4f#	lu	1r	.	B minor-seventh
+.	4Rcc/	4Rf\	4C#	.	.	4B	lu	4e	lu	4g#	lu	.	.	C# minor-seventh
+.	8r	4Rf\	4D	.	.	4c#	lu	4f#	lu	4a	lu	.	.	D major-seventh
+.	8Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	8r	8r	8r	8r	.	8r	.	8r	.	8r	.	.	.	.
+.	8Rcc/	8Rf\	8E	8d	pap	8e	pap	8f#	pap	8a	pap	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+1r	8r	8r	8r	8r	.	8r	.	8r	.	8r	.	1r	.	D major/E
+.	8Rcc/	8Rf\	8E	8d	pap	8e	pap	8f#	pap	8a	pap	.	.	.
+.	8r	8r	8r	8r	.	8r	.	8r	.	8r	.	.	.	.
+.	8Rcc/	8Rf\	[8E	[8d	pa	[8e	pa	[8f#	pa	[8a	pa	.	.	.
+.	8r	2r	4E]	4d]	.	4e]	.	4f#]	.	4a]	.	.	.	.
+.	8Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	16Rcc/	.	4r	4r	.	4r	.	4r	.	4r	.	.	.	.
+.	16Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	16Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	16Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+=9||	=9||	=9||	=9||	=9||	=9||	=9||	=9||	=9||	=9||	=9||	=9||	=9||	=9||	=9||
+4r	4Raa/	4Rf\	4AA	1r	.	1r	.	1r	.	1r	.	4r	.	A major
+4Re/	4Rcc/ 4Rgg	4Rf\	4r	.	.	.	.	.	.	.	.	4e	い	.
+4r	4Rgg/	4Rf\	8r	.	.	.	.	.	.	.	.	8dL	と	.
+.	.	.	[8C#	.	.	.	.	.	.	.	.	8c#	な	C# dominant
+4Re/	4Rcc/ 4Rgg	4Rf\	4C#]	.	.	.	.	.	.	.	.	8B	み	.
+.	.	.	.	.	.	.	.	.	.	.	.	8AJ	の	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+1ryy	4Rgg/	4Rf\	4FF#	1r	.	1r	.	1r	.	1r	.	2r	.	F# minor
+.	4Rcc/ 4Rgg	4Rf\	8r	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	[8AA#X	.	.	.	.	.	.	.	.	.	.	.
+.	4Rgg/	4Rf\	2AA#]	.	.	.	.	.	.	.	.	4r	.	A# half-diminished
+.	4Rcc/ 4Rgg	4Rf\	.	.	.	.	.	.	.	.	.	8BL	ま	.
+.	.	.	.	.	.	.	.	.	.	.	.	8c#J	ち	.
+*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+1ryy	1ryy	4D	2A	oo	2d	oo	2f#	oo	2a	oo	8dL	が	D major
+.	.	.	.	.	.	.	.	.	.	.	8c#	暮	.
+.	.	4r	.	.	.	.	.	.	.	.	8A	れ	.
+.	.	.	.	.	.	.	.	.	.	.	8F#J	た	.
+.	.	8r	2r	.	2r	.	2r	.	2r	.	4E	ら	C# minor-seventh
+.	.	[8C#	.	.	.	.	.	.	.	.	.	.	.
+.	.	4C#]	.	.	.	.	.	.	.	.	8r	.	.
+.	.	.	.	.	.	.	.	.	.	.	[8d	い	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+1ryy	1ryy	4BB	4A	oo	4d	oo	4f#	oo	4a	oo	8dL]	.	B minor-seventh
+.	.	.	.	.	.	.	.	.	.	.	8c#	ろ	.
+.	.	8r	8r	.	8r	.	8r	.	8r	.	8A	め	.
+.	.	[8E	[8B	fu	[8e	fu	[8g#	fu	[8b	fu	8c#J	き	E major
+.	.	2E]	2B]	.	2e]	.	2g#]	.	2b]	.	4B	ー	.
+.	.	.	.	.	.	.	.	.	.	.	4r	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+1ryy	1ryy	4AA	1r	.	1r	.	1r	.	1r	.	8r	.	A major
+.	.	.	.	.	.	.	.	.	.	.	8c#L	か	.
+.	.	4r	.	.	.	.	.	.	.	.	8c#	ぜ	.
+.	.	.	.	.	.	.	.	.	.	.	8c#J	た	.
+.	.	8r	.	.	.	.	.	.	.	.	8BL	ち	.
+.	.	[8C#	.	.	.	.	.	.	.	.	8c#J	は	C# dominant
+.	.	4C#]	.	.	.	.	.	.	.	.	8r	.	.
+.	.	.	.	.	.	.	.	.	.	.	[8f#	は	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+1ryy	1ryy	4FF#	1r	.	1r	.	1r	.	1r	.	8f#L]	.	F# minor-seventh
+.	.	.	.	.	.	.	.	.	.	.	8e	こ	.
+.	.	8r	.	.	.	.	.	.	.	.	8B	ぶ	.
+.	.	[8AA#X	.	.	.	.	.	.	.	.	8c#J	わ	.
+.	.	2AA#]	.	.	.	.	.	.	.	.	4r	.	A# half-diminished
+.	.	.	.	.	.	.	.	.	.	.	8BL	カ	.
+.	.	.	.	.	.	.	.	.	.	.	8c#J	ラ	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+1ryy	1ryy	4D	1A	oo	1d	oo	1f#	oo	1a	oo	8dL	ス	D major
+.	.	.	.	.	.	.	.	.	.	.	8c#	と	.
+.	.	4C#	.	.	.	.	.	.	.	.	8A	ひ	C# minor-seventh
+.	.	.	.	.	.	.	.	.	.	.	8F#J	と	.
+.	.	4E	.	.	.	.	.	.	.	.	8EL	び	E major
+.	.	.	.	.	.	.	.	.	.	.	8c#	と	.
+.	.	4r	.	.	.	.	.	.	.	.	8B	の	.
+.	.	.	.	.	.	.	.	.	.	.	8AJ	群	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+*	*^	*	*	*	*	*	*	*	*	*	*	*	*
+4r	4Rgg/	4Rf\	4AA	4A	wa	4c#	wa	4e	wa	4a	wa	4A	れ	A major
+4Re/	4Rcc/ 4Rgg	4Rf\	4r	4r	.	4r	.	4r	.	4r	.	4r	.	.
+8r	8Rgg/	4Rf\	8r	8r	.	8r	.	8r	.	8r	.	2r	.	D major
+8Re/	8Rcc/ 8Rbb	.	[8D	[8A	fu	[8d	fu	[8f#	fu	[8a	fu	.	.	.
+4r	4r	4Rf\	4D]	4A]	.	4d]	.	4f#]	.	4a]	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+4r	4Raa/	4Rf\	4AA	4A	wa	4c#	wa	4e	wa	4a	wa	4r	.	A major
+4Re/	4Rcc/ 4Rgg	4Rf\	4r	4r	.	4r	.	4r	.	4r	.	4e	意	.
+4r	4Rgg/	4Rf\	8r	2r	.	2r	.	2r	.	2r	.	8dL	味	.
+.	.	.	[8C#	.	.	.	.	.	.	.	.	8c#	な	C# dominant
+4Re/	4Rcc/ 4Rgg	4Rf\	4C#]	.	.	.	.	.	.	.	.	8B	ん	.
+.	.	.	.	.	.	.	.	.	.	.	.	8AJ	か	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+1ryy	4Rgg/	4Rf\	4FF#	4A	oo	4c#	oo	4e	oo	4a	oo	2r	.	F# minor
+.	4Rcc/ 4Rgg	4Rf\	8r	8r	.	8r	.	8r	.	8r	.	.	.	.
+.	.	.	[8AA#X	[8c#	fu	[8e	fu	[8gn	fu	[8gn	fu	.	.	.
+.	4Rgg/	4Rf\	2AA#]	2c#]	.	2e]	.	2g]	.	2g]	.	4r	.	A# diminished
+.	4Rcc/ 4Rgg	4Rf\	.	.	.	.	.	.	.	.	.	8BL	な	.
+.	.	.	.	.	.	.	.	.	.	.	.	8c#J	い	.
+*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+1ryy	1ryy	4D	4r	.	4r	.	4r	.	4r	.	8dL	さ	D major
+.	.	.	.	.	.	.	.	.	.	.	8c#	暮	.
+.	.	4r	4A	ha	4d	ha	4f#	ha	4b	ha	8A	ら	.
+.	.	.	.	.	.	.	.	.	.	.	8F#J	し	.
+.	.	8r	2A	.	2c#	.	2e	.	2a	.	4E	が	C# minor-seventh
+.	.	[8C#	.	.	.	.	.	.	.	.	.	.	.
+.	.	4C#]	.	.	.	.	.	.	.	.	8r	.	.
+.	.	.	.	.	.	.	.	.	.	.	[8d	あ	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+1ryy	1ryy	4BB	4A	ha	4d	ha	4f#	ha	4a	ha	8dL]	.	B minor-seventh
+.	.	.	.	.	.	.	.	.	.	.	8c#	る	.
+.	.	8r	8r	.	8r	.	8r	.	8r	.	8A	だ	.
+.	.	[8E	[8B	ha	[8e	ha	[8g#	ha	[8b	ha	8c#J	け	E major
+.	.	2E]	2B]	.	2e]	.	2g#]	.	2b]	.	4B	ー	.
+.	.	.	.	.	.	.	.	.	.	.	4r	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+1ryy	1ryy	4AA	1A	oo	1c#	oo	1e	oo	1a	oo	8r	.	A major
+.	.	.	.	.	.	.	.	.	.	.	8c#L	た	.
+.	.	4r	.	.	.	.	.	.	.	.	8c#	だ	.
+.	.	.	.	.	.	.	.	.	.	.	8c#J	は	.
+.	.	8r	.	.	.	.	.	.	.	.	8BL	ら	.
+.	.	[8C#	.	.	.	.	.	.	.	.	8c#J	を	C# dominant
+.	.	4C#]	.	.	.	.	.	.	.	.	8r	.	.
+.	.	.	.	.	.	.	.	.	.	.	[8f#	空	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+1ryy	1ryy	4FF#	1A	.	1c#	.	1f#	.	1a	.	8f#L]	.	F# minor
+.	.	.	.	.	.	.	.	.	.	.	8e	か	.
+.	.	8r	.	.	.	.	.	.	.	.	8B	せ	.
+.	.	[8AA#X	.	.	.	.	.	.	.	.	8c#J	て	A# half-diminished
+.	.	2AA#]	.	.	.	.	.	.	.	.	4r	.	.
+.	.	.	.	.	.	.	.	.	.	.	8BL	き	.
+.	.	.	.	.	.	.	.	.	.	.	8c#J	み	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+1ryy	1ryy	4D	4B	fu	4d	fu	4f#	fu	4a	fu	8dL	の	D major
+.	.	.	.	.	.	.	.	.	.	.	8c#	も	.
+.	.	4C#	4B	.	4c#	.	4e	.	4g#	.	8A	と	C# minor-seventh
+.	.	.	.	.	.	.	.	.	.	.	8F#J	へ	.
+.	.	4E	4B	.	4B	.	4d	.	4g#	.	8EL	か	E major
+.	.	.	.	.	.	.	.	.	.	.	8c#	え	.
+.	.	4r	4r	.	4r	.	4r	.	4r	.	8B	る	.
+.	.	.	.	.	.	.	.	.	.	.	8AJ	ん	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+*	*^	*	*	*	*	*	*	*	*	*	*	*	*
+4r	4Rgg/	4Rf\	4AA	2.A	wa	2.c#	wa	2.e	wa	2.a	wa	4A	だ	A major
+4Re/	4Rcc/ 4Rgg	4Rf\	4r	.	.	.	.	.	.	.	.	4r	.	.
+8r	8Rgg/	4Rf\	8r	.	.	.	.	.	.	.	.	2r	.	E dominant
+8Re/	8Rcc/ 8Rbb	.	[8E	.	.	.	.	.	.	.	.	.	.	.
+4r	4r	4r	4E]	8r	.	8r	.	8r	.	4r	.	.	.	.
+.	.	.	.	8c#	tu	8e	tu	8g#	tu	.	.	.	.	.
+=25||	=25||	=25||	=25||	=25||	=25||	=25||	=25||	=25||	=25||	=25||	=25||	=25||	=25||	=25||
+2r	4Raa/	4Rf\	4D	4d	lu	4f#	lu	4a	lu	8r	.	8r	.	D major
+.	.	.	.	.	.	.	.	.	.	8aL	も	8AL	も	.
+.	4Rgg/	8r	4r	4r	.	4r	.	4r	.	8a	の	8A	の	.
+.	.	8Rf\	.	.	.	.	.	.	.	8f#J	ご	8F#J	ご	.
+4Re/	4Rcc/ 4Rgg	4r	4C#	4c#	tu	4e	tu	4a	tu	4a	こ	4A	こ	A major/C#
+4r	4Rgg/	8r	4r	4r	.	4r	.	4r	.	8f#L	ろ	8F#L	ろ	.
+.	.	8Rf\	.	.	.	.	.	.	.	[8aJ	つ	[8AJ	つ	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+1ryy	4Rgg/	8r	4FFn	4B	tu	4fn	tu	4g#	tu	8aL]	.	8AL]	.	F diminished
+.	.	8Rf\	.	.	.	.	.	.	.	8f#	い	8F#	い	.
+.	4Rgg/	8r	4r	4r	.	4r	.	4r	.	8a	た	8A	た	.
+.	.	8Rf\	.	.	.	.	.	.	.	8f#J	ら	8F#J	ら	.
+.	4Rcc/ 4Rgg	4r	4FF#X	4c#	tu	4f#X	tu	4a	tu	4a	ふ	4A	ふ	F# minor
+.	4Rgg/	8r	4r	8r	.	8r	.	8r	.	4cc#	と	4c#	と	.
+.	.	8Rf\	.	8c#	tu	8f#	tu	8a	tu	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+1ryy	4Rgg/	4Rf\	4D	4d	lu	4f#	lu	4a	lu	8r	.	8r	.	D major
+.	.	.	.	.	.	.	.	.	.	8aL	見	8AL	見	.
+.	4Rgg/	8r	4r	4r	.	4r	.	4r	.	8a	上	8A	上	.
+.	.	8Rf\	.	.	.	.	.	.	.	8f#J	げ	8F#J	げ	.
+.	4Rcc/ 4Rgg	4r	4C#	4c#	tu	4e	tu	4a	tu	4a	て	4A	て	A major/C#
+.	4Rgg/	8r	4r	4r	.	4r	.	4r	.	8eL	お	8EL	お	.
+.	.	8Rf\	.	.	.	.	.	.	.	[8cc#J	も	[8c#J	も	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+1ryy	4Rgg/	8r	4FFn	4B	tu	4fn	tu	4g#	tu	8cc#L]	.	8c#L]	.	F diminished
+.	.	8Rf\	.	.	.	.	.	.	.	8dd	う	8d	う	.
+.	4Rgg/	8r	4r	4r	.	4r	.	4r	.	8cc#	こ	8c#	こ	.
+.	.	8Rf\	.	.	.	.	.	.	.	8bJ	と	8BJ	と	.
+.	8Rcc/ 8Rgg	4r	4F#	4c#	tu	4f#X	tu	4a	tu	4a	が	4A	が	F# minor
+.	8Rgg/	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	8Rgg/	8r	4E	4c#	lu	4f#	lu	4a	lu	4r	.	4r	.	.
+.	8Rgg/	8Rf\	.	.	.	.	.	.	.	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+1ryy	4Rgg/	4Rf\	4D	1r	.	1r	.	1r	.	8r	.	8r	.	D major
+.	.	.	.	.	.	.	.	.	.	8aL	こ	8c#L	こ	.
+.	4Rgg/	8r	4r	.	.	.	.	.	.	8a	の	8c#	の	.
+.	.	8Rf\	.	.	.	.	.	.	.	8g#J	世	8BJ	世	.
+.	4Rcc/ 4Rgg	4r	4C#	.	.	.	.	.	.	4f#	に	4A	に	A major/C#
+.	4Rgg/	8r	4r	.	.	.	.	.	.	4b	い	4F#	い	.
+.	.	8Rf\	.	.	.	.	.	.	.	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+1ryy	4Rgg/	8r	4E	1r	.	1r	.	1r	.	4a	る	4E	る	E major
+.	.	8Rf\	.	.	.	.	.	.	.	.	.	.	.	.
+.	4Rgg/	8r	4Fn	.	.	.	.	.	.	4g#	だ	4B	だ	F diminished
+.	.	8Rf\	.	.	.	.	.	.	.	.	.	.	.	.
+.	4Rcc/ 4Rgg	4r	2F#X	.	.	.	.	.	.	4f#	れ	4A	れ	F# minor
+.	8Rgg/	8r	.	.	.	.	.	.	.	4g#	も	4B	も	.
+.	16Rcc/	8Rf\	.	.	.	.	.	.	.	.	.	.	.	.
+.	16Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+1r	4Rbb/	4Rf\	4BB	4A	ふ	4B	ふ	4d	ふ	4f#	ふ	4A	ふ	B minor-seventh
+.	4Rcc/ 4Raa	4Rf\	4C#	4B	た	4c#	た	4e	た	4g#	た	4B	た	C# minor-seventh
+.	8r	4Rf\	4D	4c#	り	4d	り	4f#	り	4a	り	4c#	り	D major
+.	8Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	8r	8r	8r	8r	.	8r	.	8r	.	8r	.	8AL	か	.
+.	8Rcc/	8Rf\	8E	8A	lap	8d	lap	8f#	lap	8a	lap	[8eJ	ら	E major
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+2r	8r	8r	8r	8r	.	8r	.	8r	.	8r	.	1e]	.	.
+.	8Rcc/	8Rf\	8E	8A	pap	8d	pap	8f#	pap	8a	pap	.	.	.
+.	8r	8r	8r	8r	.	8r	.	8r	.	8r	.	.	.	.
+.	8Rcc/	8Rf\	[8E	[8B	pa	[8d	pa	[8f#	pa	[8a	pa	.	.	.
+4r	8r	2r	4E]	4B]	.	4d]	.	4f#]	.	4a]	.	.	.	.
+.	16Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	16Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+4Re\	16Rcc/	.	4r	4r	.	4r	.	4r	.	4r	.	.	.	.
+.	16Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	16Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	16Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+=33||	=33||	=33||	=33||	=33||	=33||	=33||	=33||	=33||	=33||	=33||	=33||	=33||	=33||	=33||
+4r	4Raa/	4Rf\	2AA	2c#	oo	2c#	oo	2e	oo	8aL	む	8c#L	む	A major
+.	.	.	.	.	.	.	.	.	.	8a	ね	8e	ね	.
+4Re/	4Rcc/ 4Rgg	4Rf\	.	.	.	.	.	.	.	8a	の	8c#	の	.
+.	.	.	.	.	.	.	.	.	.	8aJ	な	8eJ	な	.
+4r	4Rgg/	4Rf\	2C#	2B	.	2c#	.	2e	.	4g#	か	4f#	か	C# minor-seventh
+4Re/	4Rcc/ 4Rgg	4Rf\	.	.	.	.	.	.	.	8g#L	に	8eL	に	.
+.	.	.	.	.	.	.	.	.	.	8g#J	あ	8c#J	あ	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+4r	4Rgg/	4Rf\	2FF#	2A	.	2c#	.	2c#	.	4f#	る	4A	る	F# minor
+4Re/	4Rcc/ 4Rgg	4Rf\	.	.	.	.	.	.	.	4f#	も	4B	も	.
+8r	8Rgg/	4Rf\	4C#	8r	.	8r	.	8r	.	4e	の	4c#	の	A major/C#
+8Re/	8Rcc/	.	.	8A	も	8c#	も	8e	も	.	.	.	.	.
+8Re/	4Rcc/ 4Rgg	4Rf\	4C#	4A'	の	4c#'	の	4e'	の	4r	.	4r	.	.
+8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+4r	4Rgg/	4Rf\	4D	2A	oo	2d	oo	2f#	oo	8aL	い	8c#L	い	D major
+.	.	.	.	.	.	.	.	.	.	8a	つ	8e	つ	.
+4Re/	4Rcc/ 4Rgg	4Rf\	8AAL	.	.	.	.	.	.	8a	か	8c#	か	.
+.	.	.	8DJ	.	.	.	.	.	.	8aJ	み	8aJ	み	.
+4r	4Rgg/	4Rf\	2C#	2B	.	2c#	.	2e	.	4g#	え	4g#	え	C# minor-seventh
+4Re/	4Rcc/ 4Rgg	4Rf\	.	.	.	.	.	.	.	8g#L	な	8f#L	な	.
+.	.	.	.	.	.	.	.	.	.	8g#J	く	8eJ	く	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+4r	4Rgg/	4Rf\	4BB	4A	な	4d	な	4f#	な	4a	な	4f#	な	B minor-seventh
+4Re/	4Rcc/ 4Rgg	4Rf\	4C#	4A	る	4c#	る	4e	る	4g#	る	4e	る	.
+8r	8Rgg/	4Rf\	4E	4A	も	4d	も	4d	も	4f#	も	4A	も	E major
+8Re/	8Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	8Rgg/	4Rf\	4E	4B	の	4e	の	4e	の	4g#	の	4B	の	.
+8Re/	8Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
+4r	4Rgg/	4Rf\	8AAL	4r	.	4r	.	4r	.	8aL	そ	8c#L	そ	A major
+.	.	.	8C#J	.	.	.	.	.	.	8a	れ	8e	れ	.
+4Re/	4Rcc/ 4Rgg	4Rf\	4E	4c#	ha	4c#	ha	4e	ha	8a	は	8c#	は	.
+.	.	.	.	.	.	.	.	.	.	8aJ	そ	8eJ	そ	.
+4r	4Rgg/	4Rf\	2C#	4r	.	4r	.	4r	.	4g#	ば	4f#	ば	C# minor-seventh
+4Re/	4Rcc/ 4Rgg	4Rf\	.	4B	ha	4c#	ha	4e	ha	8g#L	に	8eL	に	.
+.	.	.	.	.	.	.	.	.	.	8g#J	い	8c#J	い	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+4r	4Rgg/	4Rf\	4F#	4r	.	4r	.	4r	.	4f#	る	4A	る	F# minor
+4Re/	4Rcc/ 4Rgg	4Rf\	4G#	4A	ha	4c#	ha	4c#	ha	4f#	こ	4B	こ	.
+8r	8Rgg/	4Rf\	4A	4r	.	4r	.	4r	.	4e	と	4c#	と	A major
+8Re/	8Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+8Re/	8Rcc/ 8Rgg	8r	8r	8AL	ha	8c#L	ha	8eL	ha	8r	.	8r	.	.
+8r	8Rbb/	8Rf\	[8BB	[8AJ	い	[8BJ	い	[8dJ	い	[8f#	い	[8A	い	.
+=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
+4r	4r	4r	4BB]	4A]	.	4B]	.	4d]	.	4f#]	.	4A]	.	B minor-seventh
+4Re/	4Rcc/ 4Rgg	4Rf\	4BB	4B	つ	4c#	つ	4e	つ	4g#	つ	4B	つ	.
+4r	4Rgg/	8Rf\	4BB	4c#	も	4d	も	4f#	も	4a	も	4c#	も	.
+.	.	8Rf\	.	.	.	.	.	.	.	.	.	.	.	.
+4Re/	8Rcc/ 8Rgg	8r	8r	8r	.	8r	.	8r	.	8r	.	8AL	お	.
+.	8Rbb/	8Rf\	8E	8A	lap	8d	lap	8f#	lap	8a	lap	[8f#J	も	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
+1r	8r	8r	8r	8r	.	8r	.	8r	.	8r	.	8f#L]	.	E major
+.	8Rbb/	8Rf\	8E	8A	pap	8d	pap	8f#	pap	8a	pap	8e	い	.
+.	8r	8r	8r	8r	.	8r	.	8r	.	8r	.	8e	だ	.
+.	8Rbb/	8Rf\	[8E	[8B	pa	[8d	pa	[8f#	pa	[8a	pa	8f#J	し	.
+.	8r	2r	4E]	4B]	.	4d]	.	4f#]	.	4a]	.	4e	て	.
+.	8Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	16Rcc/	.	4r	4r	.	4r	.	4r	.	4r	.	4r	.	.
+.	16Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	16Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	16Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
+4r	4Raa/	4Rf\	2AA	8c#L	き	8c#L	き	8eL	き	8aL	き	8c#L	き	A major
+.	.	.	.	8e	み	8c#	み	8e	み	8a	み	8e	み	.
+4Re/	4Rcc/ 4Rgg	4Rf\	.	8c#	の	8c#	の	8e	の	8a	の	8c#	の	.
+.	.	.	.	8eJ	な	8c#J	な	8eJ	な	8aJ	な	8eJ	な	.
+4r	4Rgg/	4Rf\	2C#	4f#	か	4B	か	4f#	か	4g#	か	4f#	か	C# minor-seventh
+4Re/	4Rcc/ 4Rgg	4Rf\	.	8eL	に	8BL	に	8eL	に	8g#L	に	8eL	に	.
+.	.	.	.	8c#J	あ	8BJ	あ	8eJ	あ	8g#J	あ	8c#J	あ	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
+4r	4Rgg/	4Rf\	2FF#	2A	る	2c#	る	2c#	る	4f#	る	4A	る	F# minor
+4Re/	4Rcc/ 4Rgg	4Rf\	.	.	.	.	.	.	.	4f#	も	4B	も	.
+8r	8Rgg/	4Rf\	4C#	8r	.	8r	.	8r	.	4e	の	4c#	の	A major/C#
+8Re/	8Rcc/	.	.	8A	も	8c#	も	8e	も	.	.	.	.	.
+8Re/	4Rcc/ 4Rgg	4Rf\	4C#	4A'	の	4c#'	の	4e'	の	4r	.	4r	.	.
+8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43
+4r	4Rgg/	4Rf\	4D	8AL	距	8dL	距	8f#L	距	8aL	距	8c#L	距	D major
+.	.	.	.	8A	離	8d	離	8f#	離	8a	離	8e	離	.
+4Re/	4Rcc/ 4Rgg	4Rf\	8AAL	8A	の	8d	の	8f#	の	8a	の	8c#	の	.
+.	.	.	8DJ	8c#J	な	8dJ	な	8f#J	な	8aJ	な	8aJ	な	.
+4r	4Rgg/	4Rf\	2C#	4B	か	4c#	か	4e	か	4g#	か	4g#	か	C# minor-seventh
+4Re/	4Rcc/ 4Rgg	4Rf\	.	8BL	に	8c#L	に	8eL	に	8g#L	に	8f#L	に	.
+.	.	.	.	8BJ	あ	8c#J	あ	8eJ	あ	8g#J	あ	8eJ	あ	.
+=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44
+4r	4Rgg/	4Rf\	4BB	4A	る	4d	る	4f#	る	4a	る	4f#	る	B minor-seventh
+4Re/	4Rcc/ 4Rgg	4Rf\	4C#	4A	こ	4c#	こ	4e	こ	4g#	こ	4e	こ	.
+8r	8Rgg/	4Rf\	4E	4A	ど	4d	ど	4d	ど	4f#	ど	4A	ど	E major
+8Re/	8Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	8Rgg/	4Rf\	4E	4B	う	4e	う	4e	う	4g#	う	4B	う	.
+8Re/	8Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45
+4r	4Rgg/	4Rf\	8AAL	2c#	oo	2c#	oo	2e	oo	8aL	こ	8c#L	こ	A major
+.	.	.	8C#J	.	.	.	.	.	.	8a	い	8e	い	.
+4Re/	4Rcc/ 4Rgg	4Rf\	4E	.	.	.	.	.	.	8a	を	8c#	を	.
+.	.	.	.	.	.	.	.	.	.	8aJ	し	8eJ	し	.
+4r	4Rgg/	4Rf\	2C#	2B	.	2c#	.	2e	.	4g#	た	4f#	た	C# minor-seventh
+4Re/	4Rcc/ 4Rgg	4Rf\	.	.	.	.	.	.	.	8g#L	の	8eL	の	.
+.	.	.	.	.	.	.	.	.	.	8g#J	あ	8c#J	あ	.
+=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46
+4r	4Rgg/	4Rf\	4F#	2.A	.	2.c#	.	2.c#	.	4f#	な	4A	な	F# minor
+4Re/	4Rcc/ 4Rgg	4Rf\	4G#	.	.	.	.	.	.	4f#	た	4g#	た	.
+8r	8Rgg/	4Rf\	4A	.	.	.	.	.	.	4f#	の	4a	の	A major
+8Re/	8Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+8Re/	8Rcc/ 8Rgg	8r	8r	8r	.	8r	.	8r	.	8r	.	8r	.	.
+8r	8Rbb/	8Rf\	[8BB	[8A	fu	[8B	fu	[8d	fu	[8f#	fu	[8f#	ゆ	.
+=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
+4r	4r	4r	4BB]	2.A]	.	2.B]	.	2.d]	.	2.f#]	.	8f#L]	.	B minor-seventh
+.	.	.	.	.	.	.	.	.	.	.	.	8e	び	.
+4Re/	4Rcc/ 4Rgg	4Rf\	4BB	.	.	.	.	.	.	.	.	8e	の	.
+.	.	.	.	.	.	.	.	.	.	.	.	8c#J	ま	.
+4r	4Rgg/	8Rf\	8BBL	.	.	.	.	.	.	.	.	8eL	ざ	.
+.	.	8Rf\	8BBJ	.	.	.	.	.	.	.	.	8f#J	り	.
+4Re/	8Rcc/ 8Rgg	8r	8r	8r	.	8r	.	8r	.	8r	.	8r	.	.
+.	8Rbb/	8Rf\	[8C#	[8B	.	[8c#	fu	[8e	fu	[8g#	fu	[8f#	ほ	.
+=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48
+1ryy	4r	4r	4C#]	2.B]	.	2.c#]	.	2.e]	.	2.g#]	.	8f#L]	.	C# minor-seventh
+.	.	.	.	.	.	.	.	.	.	.	.	8e	ほ	.
+.	4Rcc/ 4Rgg	4Rf\	4C#	.	.	.	.	.	.	.	.	8e	の	.
+.	.	.	.	.	.	.	.	.	.	.	.	8c#J	か	.
+.	4Rgg/	8Rf\	8C#L	.	.	.	.	.	.	.	.	8eL	お	.
+.	.	8Rf\	8C#J	.	.	.	.	.	.	.	.	8f#J	り	.
+.	8Rcc/ 8Rgg	8r	8r	8r	.	8r	.	8r	.	8r	.	8r	.	.
+.	8Rbb/	8Rf\	[8BB	[8A	fu	[8B	fu	[8d	fu	[8f#	fu	[8f#	ふ	.
+=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
+1ryy	4r	4r	4BB]	2A]	.	2B]	.	2d]	.	2f#]	.	8f#L]	.	B minor-seventh
+.	.	.	.	.	.	.	.	.	.	.	.	8e	う	.
+.	4Rcc/ 4Rgg	4Rf\	4BB	.	.	.	.	.	.	.	.	8e	ふ	.
+.	.	.	.	.	.	.	.	.	.	.	.	8f#J	を	.
+.	4Rgg/	4Rf\	4E	2B	.	2B	.	2e	.	2g#	.	8cnL	超	E major
+.	.	.	.	.	.	.	.	.	.	.	.	8B	え	.
+.	4Rcc/ 4Rgg	4Rf\	4E	.	.	.	.	.	.	.	.	8A	て	.
+.	.	.	.	.	.	.	.	.	.	.	.	8F#J	ゆ	.
+=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50
+1ryy	4Rgg/	4Rf\	4AA	1A	.	1c#	.	1e	.	2.a	.	4A	け	A major
+.	4Rcc/ 4Rgg	4Rf\	4AA	.	.	.	.	.	.	.	.	2r	.	.
+.	4Rgg/	4Rf\	4FF#	.	.	.	.	.	.	.	.	.	.	F# minor
+.	8Rcc/ 8Rgg	4Rf\	4FF#	.	.	.	.	.	.	8r	.	8r	.	.
+.	16Rcc/	.	.	.	.	.	.	.	.	[8a	ふ	[8f#	ふ	.
+.	16Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51
+1ryy	4Raa/	4Rf\	4BB	1r	.	1r	.	1r	.	8aL]	.	8f#L]	.	B minor-seventh
+.	.	.	.	.	.	.	.	.	.	8g#	た	8e	た	.
+.	4Rcc/ 4Rgg	4Rf\	4BB	.	.	.	.	.	.	8g#	り	8e	り	.
+.	.	.	.	.	.	.	.	.	.	8aJ	を	8f#J	を	.
+.	4Rgg/	4Rf\	4E	.	.	.	.	.	.	8f#L	超	8cnL	超	E major
+.	.	.	.	.	.	.	.	.	.	8e	え	8B	え	.
+.	4Rcc/ 4Rgg	4Rf\	4E	.	.	.	.	.	.	8f#	て	8A	て	.
+.	.	.	.	.	.	.	.	.	.	8f#J	ゆ	8F#J	ゆ	.
+=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52
+1ryy	4Rgg/	4Rf\	4AA	1r	.	4A	oo	4c#	oo	4a	け	4A	け	A major
+.	4Rcc/ 4Rgg	4Rf\	4AA	.	.	4B	.	4d	.	4r	.	2r	.	.
+.	4Rgg/	4Rf\	4FF#	.	.	4cn	.	4d#X	.	2r	.	.	.	F# minor
+.	4Rcc/ 4Rgg	4Rf\	4FF#	.	.	4c#X	.	4e	.	.	.	8r	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	[8f#	ひ	.
+=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53
+4r	8r	4Rf\	4BB	2B	oo	2d	.	2f#	.	2a	oo	8f#L]	.	B minor-seventh
+.	16Rcc/	.	.	.	.	.	.	.	.	.	.	8e	と	.
+.	16Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+4Re/	16Rcc/	4r	4BB	.	.	.	.	.	.	.	.	8e	り	.
+.	16Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	16Rcc/	.	.	.	.	.	.	.	.	.	.	8f#J	を	.
+.	16Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+2r	4Rcc/	4Rf\	4E'	4B'	wa	4e'	wa	4e'	wa	4a'	wa	8cnL	超	E suspended-fourth
+.	.	.	.	.	.	.	.	.	.	.	.	8B	え	.
+.	4r	4r	4r	4r	.	4r	.	4r	.	4r	.	8A	て	.
+.	.	.	.	.	.	.	.	.	.	.	.	8F#J	ゆ	.
+=54||	=54||	=54||	=54||	=54||	=54||	=54||	=54||	=54||	=54||	=54||	=54||	=54||	=54||	=54||
+4r	4Raa/	4Rf\	4AA	4A	pap	4c#	pap	4e	pap	4r	.	4A	け	A major
+4Re/	4Rcc/ 4Rgg	4Rf\	4r	4r	.	4r	.	4r	.	8eL	tu	4r	.	.
+.	.	.	.	.	.	.	.	.	.	8f#J	lu	.	.	.
+4r	4Rgg/	4Rf\	2r	2r	.	2r	.	2r	.	8aL	tu	2r	.	.
+.	.	.	.	.	.	.	.	.	.	16aL	tu	.	.	.
+.	.	.	.	.	.	.	.	.	.	[16aJJ	lu	.	.	.
+4Re/	4Rcc/ 4Rgg	4Rf\	.	.	.	.	.	.	.	8aL]	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8f#J	lu	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55
+1ryy	4Rgg/	4Rf\	4Cn	4A	pap	4e-X	pap	4f#	pap	4r	.	1r	.	C diminished
+.	4Rcc/ 4Rgg	4Rf\	4r	4r	.	4r	.	4r	.	8eL	tu	.	.	.
+.	.	.	.	.	.	.	.	.	.	8f#J	lu	.	.	.
+.	4Rgg/	4Rf\	2r	2r	.	2r	.	2r	.	8aL	tu	.	.	.
+.	.	.	.	.	.	.	.	.	.	16aL	tu	.	.	.
+.	.	.	.	.	.	.	.	.	.	[16aJJ	lu	.	.	.
+.	4Rcc/ 4Rgg	4Rf\	.	.	.	.	.	.	.	8aL]	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8aJ	lu	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56
+1ryy	4Rgg/	4Rf\	4D	4A	pap	4d	pap	4f#	pap	4r	.	1r	.	D major
+.	4Rcc/ 4Rgg	4Rf\	4r	4r	.	4r	.	4r	.	8eL	...	.	.	.
+.	.	.	.	.	.	.	.	.	.	8f#J	.	.	.	.
+.	4Rgg/	4Rf\	4C#	4B	pap	4c#	pap	4e	pap	8aL	.	.	.	C# minor-seventh
+.	.	.	.	.	.	.	.	.	.	16aL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	[16aJJ	.	.	.	.
+.	4Rcc/ 4Rgg	4Rf\	4r	4r	.	4r	.	4r	.	8aL]	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8f#J	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
+1ryy	4Rgg/	4Rf\	4Cn	4cn	pap	4e	pap	4f#	pap	4a	pap	1r	.	C major-sixth
+.	4Rcc/ 4Rgg	4Rf\	8.BBL	8.BL	pa	8.dL	pa	8.f#L	pa	8.aL	pa	.	.	B minor-seventh
+.	.	.	16AAJk	16AJk	la	16c#Jk	la	16eJk	la	16aJk	la	.	.	.
+.	4Rgg/	4Rf\	2r	2r	.	2r	.	2r	.	2r	.	.	.	A major
+.	4Rcc/ 4Rgg	4Rf\	.	.	.	.	.	.	.	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58
+1ryy	4Raa/	4Rf\	2AA	4A	pap	4c#	pap	4e	pap	4r	.	4r	.	A major
+.	4Rcc/ 4Rgg	4Rf\	.	4r	.	4r	.	4r	.	8eL	.	8EL	.	.
+.	.	.	.	.	.	.	.	.	.	8f#J	.	8F#J	.	.
+.	4Rgg/	4Rf\	8AAL	2r	.	2r	.	2r	.	8aL	.	8AL	.	.
+.	.	.	16AAL	.	.	.	.	.	.	16aL	.	16AL	.	.
+.	.	.	16AAJJ	.	.	.	.	.	.	[16aJJ	.	[16AJJ	.	.
+.	4Rcc/ 4Rgg	4Rf\	4r	.	.	.	.	.	.	8aL]	.	8AL]	.	.
+.	.	.	.	.	.	.	.	.	.	8f#J	.	8F#J	.	.
+=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59
+1ryy	4Rgg/	4Rf\	2Cn	4A	pap	4e-X	pap	4f#	pap	4r	.	4r	.	C diminished
+.	4Rcc/ 4Rgg	4Rf\	.	4r	.	4r	.	4r	.	8eL	.	8EL	.	.
+.	.	.	.	.	.	.	.	.	.	8f#J	.	8F#J	.	.
+.	8Rcc/	4Rf\	8CL	2r	.	2r	.	2r	.	8aL	.	8AL	.	.
+.	16r	.	16CL	.	.	.	.	.	.	16aL	.	16AL	.	.
+.	16Rcc/	.	16CJJ	.	.	.	.	.	.	[16aJJ	.	[16AJJ	.	.
+.	8r	4Rf\	4r	.	.	.	.	.	.	8aL]	.	8AL]	.	.
+.	8Rcc/	.	.	.	.	.	.	.	.	8aJ	.	8c#J	.	.
+=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60
+1ryy	4Rgg/	4Rf\	8DL	4A	pap	4d	pap	4f#	pap	4r	.	4r	.	D major
+.	.	.	8DJ	.	.	.	.	.	.	.	.	.	.	.
+.	4Rcc/ 4Rgg	4Rf\	16r	4r	.	4r	.	4r	.	8eL	.	8EL	.	.
+.	.	.	[16DKL	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	8DJ]	.	.	.	.	.	.	8f#J	.	8F#J	.	.
+.	16Rcc/	4Rf\	8C#L	4B	pap	4c#	pap	4e	pap	8aL	.	8AL	.	C# minor-seventh
+.	16Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	16Rcc/	.	8C#J	.	.	.	.	.	.	16aL	.	16AL	.	.
+.	16Rcc/	.	.	.	.	.	.	.	.	[16aJJ	.	[16AJJ	.	.
+.	16Rcc/	4Rf\	16r	4r	.	4r	.	4r	.	8aL]	.	8AL]	.	.
+.	16Rcc/	.	[16C#KL	.	.	.	.	.	.	.	.	.	.	.
+.	16Rcc/	.	8C#J]	.	.	.	.	.	.	8f#J	.	8F#J	.	.
+.	16Rcc/	.	.	.	.	.	.	.	.	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61
+1r	4Rcc/ 4Rgg	4Rf\	4Cn	4cn	pap	4e	pap	4f#	pap	4a	pap	4A	pap	C major-sixth
+.	8Rcc/ 8Rgg	8Rf\	8.BBL	8.BL	pa	8.dL	pa	8.f#L	pa	8.aL	pa	8.AL	pa	B minor-seventh
+.	16r	16r	.	.	.	.	.	.	.	.	.	.	.	.
+.	16Rcc/ 16Rgg	16Rf\	16AAJk	16AJk	la	16c#Jk	la	16eJk	la	16aJk	la	16AJk	la	A major
+.	2r	2r	2r	2r	.	2r	.	2r	.	2r	.	2r	.	.
+*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*
+==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
