@@ -1,0 +1,737 @@
+**kern	**text
+*clefG2	*
+*k[f#]	*
+*M4/4	*
+*MM76	*
+=1	=1
+1r	.
+=2	=2
+8dL	- さ
+16dL	a よ
+[16dJJ	o な
+8dL]	.
+16BL	a ら
+[16dJJ	a だ
+8dL]	.
+16eL	a け
+[16dJJ	e が
+16d]	.
+16r	.
+16eLL	- じ
+16f#JJ	i ん
+=3	=3
+8gL	n せ
+*clefF4	*
+16BL	e い
+[16BJJ	i だ
+8BL]	.
+16BL	a と
+[16BJJ	o ゆ
+4B]	.
+4r	.
+*clefG2	*
+=4	=4
+8cL	- だ
+16cL	a れ
+[16cJJ	e が
+8cL]	.
+8cJ	a い
+8d'L	i い
+*clefF4	*
+16BL	- た
+[16GJJ	a か
+8GL]	.
+16BL	a わ
+16dJJ	a す
+=5	=5
+8cL	u れ
+16BL	e た
+[16AJJ	a け
+8AL]	.
+16GL	e れ
+[16BJJ	e ど
+8B]	.
+8r	.
+8BL	- ま
+8AJ	a ち
+=6	=6
+8GL	i が
+8F#	a い
+8G	i で
+8BJ	e わ
+*clefG2	*
+8eL	a な
+8d#X	a い
+8e	i よ
+8gJ	o お
+=7	=7
+8bL	o な
+16ccL	a き
+[16aJJ	i が
+16aLL]	.
+16gJ	a し
+[8aJ	i て
+4a]	.
+8r	.
+16eLL	- ふ
+16f#JJ	u り
+=8	=8
+8gL	i か
+16dL	a え
+[16cJJ	e り
+16c]	.
+16r	.
+16dLL	- た
+[16cJJ	a ち
+8cL]	.
+*clefF4	*
+16BL	i ど
+[16AJJ	o ま
+8AL]	.
+16GL	a る
+[16GJJ	u の
+=9	=9
+2G]	.
+2r	.
+*clefG2	*
+=10	=10
+8dL	- で
+16dL	e あ
+[16dJJ	a い
+8dL]	.
+8BJ	i が
+8dL	a あ
+16eL	a れ
+[16dJJ	e ば
+8dL]	.
+16eL	a わ
+16f#JJ	a か
+=11	=11
+8gL	a れ
+*clefF4	*
+16BL	e が
+[16BJJ	a あ
+8BL]	.
+16BL	a る
+[16BJJ	u と
+4B]	.
+4r	.
+*clefG2	*
+=12	=12
+8cL	- だ
+16cL	a れ
+[16cJJ	e が
+8cL]	.
+8cJ	a い
+8d'L	i い
+*clefF4	*
+16BL	- た
+[16GJJ	a か
+8GL]	.
+16BL	a わ
+16dJJ	a す
+=13	=13
+8cL	u れ
+16BL	e た
+[16AJJ	a け
+8AL]	.
+16GL	e れ
+[16BJJ	e ど
+8B]	.
+8r	.
+8BL	- そ
+8AJ	o れ
+=14	=14
+8GL	e じゃ
+8F#	a な
+8G	a に
+8BJ	i も
+*clefG2	*
+8eL	o は
+8d#X	a じ
+8e	i め
+8gJ	e ら
+=15	=15
+8bL	a れ
+16ccL	e な
+[16aJJ	a い
+8aL]	.
+16gL	i だ
+[16aJJ	a ろ
+4a]	.
+8r	.
+16eLL	- な
+16f#JJ	a ぜ
+=16	=16
+8gL	e う
+16dL	u ま
+[16cJJ	a れ
+8cL]	.
+16dL	e て
+[16cJJ	e き
+8cL]	.
+*clefF4	*
+16BL	i た
+[16AJJ	a の
+16AKL]	.
+8F#	o か
+16F#Jk	a わ
+=17	=17
+4A	a か
+12AL	a ら
+12G	a な
+12F#J	a い
+2G	i な
+=18	=18
+8r	.
+16r	.
+*clefG2	*
+16e	- ま
+8eL	a る
+16f#L	u で
+[16gJJ	e ぼ
+16gLL]	.
+16dJ	o く
+8dJ	u わ
+8r	.
+16BLL	- つ
+16dJJ	u く
+=19	=19
+8cL	u り
+*clefF4	*
+16BL	i も
+[16AJJ	o の
+16ALL]	.
+16GJ	o で
+8GJ	e か
+8.BL	a ま
+*clefG2	*
+[16cJk	a わ
+8cL]	.
+8dJ	a な
+=20	=20
+8.d'L	a い
+16eJk	- で
+8eL	e も
+16f#L	o こ
+[16gJJ	o ろ
+32gLLL]	.
+32gJ	o ん
+16dJ	n だ
+8dJ	a ら
+8r	.
+16r	.
+16d	- ち
+=21	=21
+8bL	i が
+16ccL	a な
+[16bJJ	a が
+8bL]	.
+16ccL	a れ
+[16bJJ	e る
+8bL]	.
+8a	u ん
+8g	n だ
+[8aJ	a よ
+=22	=22
+1a]	.
+=23	=23
+2r	.
+8r	.
+16r	.
+[16g	- ど
+16gKL]	.
+8g	o か
+16gJk	a お
+=24	=24
+4gg	o ね
+8.ff#L	e が
+16eeJk	a い
+8.ddL	i だ
+16gJk	a み
+16gKL	i せ
+8g	e て
+16gJk	e く
+=25	=25
+4ee	u れ
+8.ddL	e な
+16bJk	a い
+4g'	i か
+8gL	- き
+8aJ	i み
+=26	=26
+8bL	i が
+8b	a あ
+8a	a い
+8gJ	i し
+4a	i た
+8gL	- も
+8aJ	o の
+=27	=27
+8bL	o お
+8ddJ	o す
+4ee	u べ
+8.a'L	e て
+[16gJk	- ど
+16gKL]	.
+8g	o か
+16gJk	a お
+=28	=28
+4gg	o ね
+8.ff#L	e が
+16eeJk	a い
+8.ddL	i だ
+16gJk	a み
+16gKL	i せ
+8g	e て
+16gJk	e く
+=29	=29
+4ee	u れ
+8.ddL	e な
+16bJk	a い
+4g'	i か
+8gL	- き
+8aJ	i み
+=30	=30
+8bL	i が
+8b	a お
+8a	o そ
+8gJ	o れ
+4a'	e る
+8bL	- も
+8ddJ	o の
+=31	=31
+2g	o お
+4r	.
+8gL	- ど
+8aJ	o ん
+=32	=32
+8bL	n な
+8b	a お
+8a	o き
+8gJ	i で
+4a'	e も
+8bL	- そ
+8ddJ	o ば
+=33	=33
+8.gL	a に
+16gJk	i い
+8.gL	i さ
+16gJk	a せ
+2g	e て
+=34	=34
+1r	.
+=35	=35
+1r	.
+=36	=36
+1r	.
+=37	=37
+1r	.
+=38	=38
+8dL	- こ
+16dL	o の
+[16dJJ	o か
+8dL]	.
+8BJ	a な
+8dL	a し
+16eL	i み
+[16dJJ	i が
+8dL]	.
+16eL	a よ
+16f#JJ	o ご
+=39	=39
+8gL	o れ
+*clefF4	*
+16BL	e て
+[16BJJ	e る
+8BL]	.
+16BL	u な
+[16BJJ	a ら
+4B]	.
+4r	.
+*clefG2	*
+=40	=40
+8cL	- き
+16cL	i れ
+[16cJJ	e い
+8cL]	.
+8cJ	i な
+8dL	a ゆ
+*clefF4	*
+16BL	u き
+[16GJJ	i が
+8GL]	.
+16BL	a ふ
+16dJJ	u り
+=41	=41
+8cL	i つ
+16BL	u も
+[16AJJ	o る
+8AL]	.
+16GL	u と
+[16BJJ	o ゆ
+8B]	.
+8r	.
+8BL	- あ
+8AJ	a た
+=42	=42
+8GL	a り
+8F#	i ま
+8G	a え
+8BJ	e の
+*clefG2	*
+8eL	o よ
+8d#X	o お
+8e	o に
+8gJ	i い
+=43	=43
+8bL	i き
+16ccL	i て
+[16aJJ	e た
+8aL]	.
+16gL	a け
+16gJJ	e ど
+4a	o お
+8r	.
+16eLL	- き
+16f#JJ	i ず
+=44	=44
+8gL	u い
+16dL	i た
+[16cJJ	a ら
+8cL]	.
+16dL	a う
+[16cJJ	u も
+8cL]	.
+*clefF4	*
+16BL	o れ
+[16AJJ	e て
+8AL]	.
+8F#J	e し
+=45	=45
+4A	i ま
+12AL	a い
+12G	i そ
+12F#J	o お
+2G	o だ
+=46	=46
+8r	.
+16r	.
+*clefG2	*
+16e	- た
+8eL	a と
+16f#L	o え
+[16gJJ	e ど
+16gLL]	.
+16dJ	o ん
+8dJ	n な
+8r	.
+16BLL	- か
+16dJJ	a ぜ
+=47	=47
+8cL	e が
+*clefF4	*
+16BL	a ふ
+[16AJJ	u け
+16ALL]	.
+16GJ	e ど
+8GJ	o か
+8.BL	a わ
+*clefG2	*
+[16cJk	a ら
+8cL]	.
+8dJ	a な
+=48	=48
+8.d'L	a い
+16eJk	- こ
+8eL	o の
+16f#L	o お
+[16gJJ	o も
+16gLL]	.
+16dJ	o い
+8dJ	i わ
+8r	.
+16r	.
+16d	- か
+=49	=49
+8bL	a え
+16ccL	e ら
+[16bJJ	a れ
+8bL]	.
+16ccL	e わ
+16ccJJ	a し
+8bL	i な
+8a	a い
+8g	i か
+8f#J	a ら
+=50	=50
+1g	a さ
+=51	=51
+1r	.
+=52	=52
+1r	.
+=53	=53
+1r	.
+=54	=54
+1r	.
+=55	=55
+1r	.
+=56	=56
+1r	.
+=57	=57
+1r	.
+=58	=58
+8bL	- ひ
+16eL	i と
+[16gJJ	o わ
+16g]	.
+16r	.
+8b	- だ
+8bL	a れ
+16ccL	e で
+[16aJJ	e も
+8aL]	.
+16gL	o こ
+16gJJ	o ど
+=59	=59
+8aL	o く
+16bL	u だ
+[16gJJ	a と
+8gL]	.
+16f#L	o ゆ
+[16gJJ	u う
+4g]	.
+8r	.
+16r	.
+16B	- じ
+=60	=60
+8cL	i つ
+16gL	u わ
+[16gJJ	a ぼ
+8gL]	.
+16aL	o く
+[16gJJ	u も
+16g]	.
+16r	.
+8f#	- そ
+8eL	o お
+16f#L	o お
+[16eJJ	o も
+=61	=61
+16eLL]	.
+16d	o う
+16d	u ん
+[16bJJ	n だ
+4b_	.
+16b]	.
+16r	.
+8r	.
+8r	.
+16gLL	- き
+16aJJ	i み
+=62	=62
+8bL	i の
+16bL	o こ
+[16bJJ	o ど
+8bL]	.
+16eeL	o く
+[16bJJ	u も
+4b]	.
+8r	.
+16aLL	- ぼ
+16gJJ	o く
+=63	=63
+8aL	u の
+16bL	o こ
+[16ccJJ	o ど
+8ccL]	.
+16bL	o く
+[16gJJ	u も
+8.g]	.
+16r	.
+8eL	- け
+8f#J	e す
+=64	=64
+8gL	u こ
+16cL	o と
+[16cJJ	o わ
+8cL]	.
+16gL	a で
+[16aJJ	e き
+8aL]	.
+16gL	i な
+[16f#JJ	a い
+8f#L]	.
+16aL	i で
+[16gJJ	e も
+=65	=65
+4g]	.
+8r	.
+16gLL	- わ
+16aJJ	a か
+8bL	a ち
+16aL	i あ
+[16bJJ	a え
+16bLL]	.
+16b	e る
+16cc	u だ
+[16ddJJ	a ろ
+=66	=66
+2.dd_	.
+16ddLL]	.
+16ee	o お
+16dd	o お
+16eeJJ	o お
+=67	=67
+2dd	o お
+8r	.
+16r	.
+[16g	- ど
+16gKL]	.
+8g	o か
+16gJk	a お
+=68	=68
+4gg	o ね
+8.ff#L	e が
+16eeJk	a い
+8.ddL	i だ
+16gJk	a み
+16gKL	i せ
+8g	e て
+16gJk	e く
+=69	=69
+4ee	u れ
+8.ddL	e な
+16bJk	a い
+4g'	i か
+8gL	- ち
+8aJ	i お
+=70	=70
+8bL	o な
+8b	a が
+8a	a し
+8gJ	i て
+4a	e る
+8gL	- き
+8aJ	i み
+=71	=71
+8bL	i の
+8ddJ	o こ
+4ee	o こ
+8.a'L	o ろ
+[16gJk	- ど
+16gKL]	.
+8g	o か
+16gJk	a お
+=72	=72
+4gg	o ね
+8.ff#L	e が
+16eeJk	a い
+8.ddL	i だ
+16gJk	a み
+16gKL	i せ
+8g	e て
+16gJk	e く
+=73	=73
+4ee	u れ
+8.ddL	e な
+16bJk	a い
+4g'	i か
+8gL	- よ
+8aJ	o ご
+=74	=74
+8bL	o れ
+8b	e た
+8a	a ま
+8gJ	a ま
+4a'	a の
+8bL	- す
+8ddJ	u ぎ
+=75	=75
+8.gL	i た
+16gJk	a じ
+8.gL	i か
+16gJk	a ん
+8.g'L	n お
+[16gJk	- ど
+16gKL]	.
+8g	o か
+16gJk	a お
+=76	=76
+4gg	o ね
+8.ff#L	e が
+16eeJk	a い
+8.ddL	i だ
+16gJk	a み
+16gKL	i せ
+8g	e て
+16gJk	e く
+=77	=77
+4ee	u れ
+8.ddL	e な
+16bJk	a い
+4g'	i か
+8gL	- き
+8aJ	i み
+=78	=78
+8bL	i が
+8b	a あ
+8a	a い
+8gJ	i し
+4a	i た
+8gL	- も
+8aJ	o の
+=79	=79
+8bL	o お
+8ddJ	o す
+4ee	u べ
+8.a'L	e て
+[16gJk	- ど
+16gKL]	.
+8g	o か
+16gJk	a お
+=80	=80
+4gg	o ね
+8.ff#L	e が
+16eeJk	a い
+8.ddL	i だ
+16gJk	a み
+16gKL	i せ
+8g	e て
+16gJk	e く
+=81	=81
+4ee	u れ
+8.ff#L	e な
+16bJk	a い
+4gg'	i か
+8gL	- き
+8aJ	i み
+=82	=82
+8bL	i が
+8b	a か
+8a	a か
+8gJ	a え
+4a'	e る
+8bL	- も
+8ddJ	o の
+=83	=83
+2g	o お
+4r	.
+8gL	- ど
+8aJ	o ん
+=84	=84
+8bL	n な
+8b	a き
+8a	i み
+8gJ	i で
+4a'	e も
+8bL	- そ
+8ddJ	o ば
+=85	=85
+8.g'L	a に
+16gJk	- い
+8.gL	i さ
+16gJk	a せ
+2g	e て
+==	==
+*-	*-
